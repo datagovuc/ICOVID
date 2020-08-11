@@ -51,17 +51,3 @@ En donde la media móvil es:
 Este indicador mide la variación semanal en la carga hospitalaria de pacientes Covid-19 en todos los tipos de cama: básica, media, UTI y UCI. Se entiende por paciente en hospitalización la persona que cumple con los criterios de definición de caso sospechoso con una muestra positiva de SARS-CoV-2 que ha sido ingresado en el sistema integrado y reportado por la Unidad de Gestión Centralizada de Camas (UGCC). Los valores bajos y decrecientes indican que el sistema de salud está bajando su carga.
 
 Para el cálculo de este indicador se utilizan los datos del [producto 24 del Github de MinCiencia](https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto24).
-
-[Graficos](https://github.com/ccuadradon/ICOVID/tree/master/dimension4/Gr%C3%A1ficos)
-
-Se recomienda descargar los gráficos en interactivos en el repositorio de Gráficos. A continuación se muestran los gráficos estáticos.
-
-![Indicador 1](https://github.com/ccuadradon/ICOVID/blob/master/dimension4/Gr%C3%A1ficos/Indicador1Nacional.svg)
-
-![Indicador 3](https://github.com/ccuadradon/ICOVID/blob/master/dimension4/Gr%C3%A1ficos/Indicador3.svg)
-
-![Indicador 4](https://github.com/ccuadradon/ICOVID/blob/master/dimension4/Gr%C3%A1ficos/Indicador4.svg)
-
-![Indicador 1](https://github.com/ccuadradon/ICOVID/blob/master/dimension4/Gr%C3%A1ficos/Indicador1.svg)
-
-![Indicador 2](https://github.com/ccuadradon/ICOVID/blob/master/dimension4/Gr%C3%A1ficos/Indicador2.svg)
