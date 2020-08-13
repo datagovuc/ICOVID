@@ -1,0 +1,2 @@
+# ICOVID
+Carpeta para DO
