@@ -1,16 +1,25 @@
-# Indicadores de Carga y Transmision
+# Dinámica de contagios
 
-1. [Indicador de carga](https://github.com/ccuadradon/ICOVID/tree/master/dimension1/carga)
-2. [Indicador de transmisión](https://github.com/ccuadradon/ICOVID/tree/master/dimension1/R)
+En el seguimiento de una epidemia existen dos aspectos muy importantes a considerar: La cantidad de personas enfermas o infectadas, que se denomina carga, y la transmisión. Ambos aspectos determinan la evolución en el tiempo de la epidemia y son fundamentales para establecer las medidas a seguir cuando no existen vacunas disponibles.
+
+1. [Indicador de carga](https://github.com/datagovuc/ICOVID/tree/master/dimension1/carga)
+2. [Indicador de transmisión](https://github.com/datagovuc/ICOVID/tree/master/dimension1/R)
 
 ## Descripción de los indicadores
 
-### Indicador de carga
+### [Indicador de carga](https://github.com/datagovuc/ICOVID/tree/master/dimension1/carga)
 
-El indicador de carga (C) que usaremos será: Promedio móvil de orden 7 del Número de casos nuevos/día según inicio de síntomas, por 100 mil habs., es decir el promedio de casos nuevos en los últimos siete días calculado diariamente.
+Indicador de carga de personas infectadas es el promedio de incidencia diaria de los últimos siete días, calculado diariamente por 100 mil habitantes. El objetivo es que los casos nuevos disminuyan a menos de un caso por 100.000 habitantes.
 
-### Indicador de transmisión
+Los archivos de datos carga ajustada (.csv) para este indicador cuentan con la variable fecha (en días), una variable identificadora de la unidad de análisis (region, provincia o servicio.salud según corresponda), una variable de carga.estimada que corresponde a la estimación del número de casos nuevos estimados por cada 100.000 habitantes, carga.liminf que corresponde al valor del intervalo de credibilidad en el percentil 2,75 para la estimación del número de casos nuevos estimados por cada 100.000 habitantes y  carga.lisup que corresponde al valor del intervalo de credibilidad en el percentil 97,5 de la estimación del del número de casos nuevos estimados por cada 100.000 habitantes. Este último valor es el utilizado para asignar un color en base a los umbrales definidos por ICOVID-Chile.
 
-El indicador de transmisión será el número reproductivo diario, calculado sobre la base de los últimos 7 días, con el método de Cori 2013. Se calcularán la Mediana (MeR) y los percentiles.
-La literatura recomienda un valor R(t) menor a 1 y no establece niveles. Basados en nuestra experiencia, los niveles actuales en Chile y los niveles alcanzados el países como Australia y Nueva Zelanda; y además el significado de R(t)
-recomendamos los siguientes umbrales para el percentil 97.5 de R(t) (LSR): a) 1, b) 0.8 (valores similares a RM y Valparaiso actuales y c) 0.6 (valores como NZ en gran parte del período epidémico).
+Se encuentran disponibles además los archivos de datos de carga sin ajustar por población para cada nivel que corresponde al número absoluto de nuevos casos por día (carga.nacional.csv, carga.regional.csv, carga.ss.csv, carga.provincial.csv)
+
+### [Indicador de transmisión](https://github.com/datagovuc/ICOVID/tree/master/dimension1/R)
+
+Número reproductivo efectivo diario (R(t)) calculado sobre la base de los últimos siete días con método desarrollado por Cori et al. (2013). El objetivo es que la transmisión representada por el promedio de los últimos siete días del número reproductivo efectivo sea menor a 0.8.
+
+Los archivos de datos (.csv) para este indicador cuentan con la variable fecha (en días), una variable identificadora de la unidad de análisis (region, provincia o servicio.salud según corresponda), una variable de r.estimado que corresponde a la estimación puntual del R(t), r.liming que corresponde al valor del intervalo de credibilidad en el percentil 2,75 para la estimación del R(t) y  r.lisup que corresponde al valor del intervalo de credibilidad en el percentil 97,5 de la estimación del R(t). Este último valor es el utilizado para asignar un color en base a los umbrales definidos por ICOVID-Chile.
+
+## Metodología
+Más detalles sobre el cálculo de los indicadores puede encontrarse en [ICOVID-Chile](https://www.icovidchile.cl/metodologia-1)
