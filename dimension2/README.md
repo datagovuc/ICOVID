@@ -13,7 +13,7 @@ La positividad de los casos está definida como la proporción de los test que r
 
 Los archivos de datos de positividad (.csv) para este indicador cuentan con la variable fecha (en días), dos variables identificadora de la unidad de análisis (region_residencia, provincia_residencia o comuna_residencia según corresponda), una en formato string y otra en formato numérico utilizando códigos estándar para Chile. La variable positividad indica la proporción de test tomados en ese día que resultaron positivos sobre el total de test realizados. 
 
-### [Número de test semanales por mil de habitantes](https://github.com/datagovuc/ICOVID/tree/master/dimension2/tasatest)
+### [Número de test semanales por mil habitantes](https://github.com/datagovuc/ICOVID/tree/master/dimension2/tasatest)
 
 El número de test informados corresponde a la media móvil semanal de test realizados en el área geográfica de residencia de la persona a la que se le solicita el examen. Se propone que se realice al menos un test cada mil habitantes por semana en cada localidad determinada (país, región, provincia, servicio de salud y comuna). Este umbral está definido considerando una vigilancia epidemiológica integral, enfocada en testeo a casos sospechosos y a sus contactos directos (por lo tanto, no a testeo aleatorio). Los resultados de cada test debiesen ser informados en menos de 24 horas. Se utiliza como indicador secundario para esta dimensión.
 
