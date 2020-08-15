@@ -1,24 +1,24 @@
-# Indicadores de Trazabailidad y Aislamiento
+# Trazabailidad y Aislamiento
 
 La trazabilidad es el proceso que permite identificar de manera continua a las personas que tuvieron **contacto** con un **caso contagiante (caso confirmado)** para detener la transmisión del COVID-19 de los contactos a otras personas.  El **sistema de trazabilidad de contactos** (personas presuntamente sana que estuvo expuesta al contagio por el caso índice) es la parte final de un proceso que se inicia cuando alguien está enfermo de Covid-19 (caso índice). El caso índice se determina a través de diagnóstico clínico y se confirma con el testeo. Si da positivo, sus contactos se trazan y aquellos **contactos estrechos** (persona que está cara a cara, a menos de un metro de distancia con un caso, durante al menos 15 minutos sin usar mascarilla; que compartió un espacio cerrado por más de dos horas sin el uso de mascarilla; viven o cohabitan una misma habitación cerrada, compartió un medio de transporte estando al menos de 1 metro de una persona contagiada) se ponen en cuarentena supervisada por el período de incubación de la enfermedad (14 días). En la trazabilidad de los contactos de un caso índice se deben considerar todos los ambientes en que haya estado el caso índice durante el período de contagiosidad o **intervalo serial** (promedio de 5 días para SARS COV2) (Minsal Chile, 2020).
 
 Detectar oportunamente a los casos y aislarlos, así como identificar los contactos y garantizar que no interactúen con otros (cuarentena), es crítico para la contención de nuevos brotes y así proteger a las comunidades de una mayor propagación. La trazabilidad es altamente recomendada por la Organización Mundial de la Salud (WHO, 2020).
 
-## Indicadores Principales
-
-1. [Tiempo promedio desde inicio de síntomas hasta reporte de resultado diagnóstico a la autoridad](https://github.com/ccuadradon/ICOVID/tree/master/dimension3/promediorezago)
-2. [Proporción de casos nuevos confirmados y probables aislados antes de 48 horas desde inicio de síntomas](https://github.com/ccuadradon/ICOVID/tree/master/dimension3/proptemprano)
+1. [Proporción de casos nuevos confirmados y probables aislados antes de 48 horas desde inicio de síntomas](https://github.com/datagovuc/ICOVID/tree/master/dimension3/proptemprano)
+2. Proporción de casos nuevos (confirmados y probables) aislados dentro de 48 horas desde inicio de síntomas (INDICADOR EN DESARROLLO)
+3. Proporción de contactos estrechos domiciliarios localizados dentro de 48 horas de la notificación del caso índice al centro de salud (INDICADOR EN DESARROLLO)
+4. Proporción de contactos estrechos extradomiciliarios localizados dentro de 48 horas de la notificación del caso índice al centro de salud (INDICADOR EN DESARROLLO)
+5. Proporción de casos nuevos provenientes de contactos en seguimiento (INDICADOR EN DESARROLLO)
 
 ## Descripción de los indicadores
 
-### Tiempo promedio desde inicio de síntomas hasta reporte de resultado diagnóstico a la autoridad
+###  [Proporción de casos nuevos confirmados y probables aislados antes de 48 horas desde inicio de síntomas](https://github.com/datagovuc/ICOVID/tree/master/dimension3/proptemprano)
 
-Este es la sumatoria de:
-
-* Tiempo desde inicio de síntomas hasta que se hizo test
-* Tiempo desde que se hizo el test hasta que se informó el resultado
-* Tiempo desde que laboratorio tiene resultado hasta reporte al Minsal (Epivigila)
-
-### Proporción de casos nuevos confirmados y probables aislados antes de 48 horas desde el inicio de síntomas
+Para que la trazabilidad sea una herramienta efectiva para detener la propagación del virus es clave disminuir, al menos, tres períodos de tiempo: desde el inicio de síntomas de una persona hasta que ésta se realiza el test, tiempo desde que la persona se realiza test hasta que se informa el resultado y tiempo desde que el laboratorio tiene resultado hasta el reporte al Ministerio de Salud a través de Epivigila. El objetivo es que 70 por ciento o más de los casos nuevos sean informados al Ministerio de Salud dentro de 48 horas desde el inicio de síntomas.
 
 ![equation](https://latex.codecogs.com/svg.latex?%5Cinline%20%5Ctext%7B%25%20casos%20nuevos%20aislados%20dentro%20de%2048%20hr.%20inicio%20s%5C%27intomas%7D%20%3D%20%5Cfrac%7B%5Ctext%7BCasos%20nuevos%20%28confirmados%20o%20probables%29%20en%20per%5C%27iodo%20t%20aislados%20dentro%20de%2048%20hrs.%20desde%20inicio%20de%20s%5C%27intomas%7D%7D%7B%5Ctext%7BCasos%20nuevos%20%28confirmados%20y%20probables%29%20en%20per%5C%27iodo%20t%7D%20%5Cfrac%7Bzona%7D%7B1000%7D%7D)
+
+Los archivos de datos trazabilidad (.csv) para este indicador cuentan con la variable fecha (en semanas, indicado por la fecha del domingo de cada semana), una variable identificadora de la unidad de análisis (region, provincia o servicio.salud según corresponda), una variable de prob48.estimado que corresponde a la estimación de la proporción de casos confirmados y probables identificados antes de 48 horas desde inicio de síntomas, prob48.linf que corresponde al valor del intervalo de credibilidad en el percentil 2,75 para la estimación de la proporción de casos confirmados y probables identificados antes de 48 horas desde inicio de síntomas y prob48.lsup que corresponde al valor del intervalo de credibilidad en el percentil 97,5 de la estimación da la proporción de casos confirmados y probables identificados antes de 48 horas desde inicio de síntomas. El límite inferior de esta estimación es el valor utilizado para asignar un color en base a los umbrales definidos por ICOVID-Chile.
+
+## Metodología
+Más detalles sobre el cálculo de los indicadores puede encontrarse en [ICOVID-Chile](https://www.icovidchile.cl/metodologia-1)
