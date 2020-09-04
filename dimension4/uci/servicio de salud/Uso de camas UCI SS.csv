@@ -118,6 +118,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 01,Región de Tarapacá,Servicio de salud Iquique,2020-08-25,73.53
 01,Región de Tarapacá,Servicio de salud Iquique,2020-08-26,79.41
 01,Región de Tarapacá,Servicio de salud Iquique,2020-08-27,73.53
+01,Región de Tarapacá,Servicio de salud Iquique,2020-08-28,64.71
+01,Región de Tarapacá,Servicio de salud Iquique,2020-08-29,58.82
+01,Región de Tarapacá,Servicio de salud Iquique,2020-08-30,52.94
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-04-12,58.7
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-04-13,60.87
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-04-15,71.11
@@ -237,6 +240,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-25,83.47
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-26,82.64
 02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-27,79.34
+02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-28,78.51
+02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-29,80.17
+02,Región de Antofagasta,Servicio de salud Antofagasta,2020-08-30,78.51
 03,Región de Atacama,Servicio de salud Atacama,2020-04-12,50.0
 03,Región de Atacama,Servicio de salud Atacama,2020-04-13,35.71
 03,Región de Atacama,Servicio de salud Atacama,2020-04-15,50.0
@@ -356,6 +362,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 03,Región de Atacama,Servicio de salud Atacama,2020-08-25,55.17
 03,Región de Atacama,Servicio de salud Atacama,2020-08-26,62.07
 03,Región de Atacama,Servicio de salud Atacama,2020-08-27,65.52
+03,Región de Atacama,Servicio de salud Atacama,2020-08-28,68.97
+03,Región de Atacama,Servicio de salud Atacama,2020-08-29,68.97
+03,Región de Atacama,Servicio de salud Atacama,2020-08-30,58.62
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-04-12,58.62
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-04-13,51.72
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-04-15,58.62
@@ -475,6 +484,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-25,83.33
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-26,78.33
 04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-27,66.67
+04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-28,68.33
+04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-29,71.67
+04,Región de Coquimbo,Servicio de salud Coquimbo,2020-08-30,81.67
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-04-12,37.5
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-04-13,37.5
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-04-15,31.25
@@ -594,6 +606,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-25,75.0
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-26,78.57
 05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-27,78.57
+05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-28,67.86
+05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-29,66.67
+05,Región de Valparaíso,Servicio de salud Acongagua,2020-08-30,71.43
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-04-12,88.24
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-04-13,79.41
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-04-15,84.85
@@ -713,6 +728,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-25,86.05
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-26,88.37
 05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-27,81.4
+05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-28,83.72
+05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-29,86.05
+05,Región de Valparaíso,Servicio de salud Valparaíso - San Antonio,2020-08-30,86.05
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-04-12,62.73
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-04-13,64.55
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-04-15,64.55
@@ -832,6 +850,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-25,79.88
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-26,81.1
 05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-27,80.0
+05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-28,81.21
+05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-29,81.71
+05,Región de Valparaíso,Servicio de salud Viña del Mar Quillota,2020-08-30,81.71
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-04-12,61.67
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-04-13,55.74
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-04-15,59.02
@@ -951,6 +972,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-25,68.75
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-26,74.19
 06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-27,79.57
+06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-28,76.84
+06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-29,80.0
+06,Región del Libertador General Bernardo O'Higgins,Servicio de salud Libertador B. O'Higgins,2020-08-30,78.95
 07,Región del Maule,Servicio de salud Del Maule,2020-04-12,56.86
 07,Región del Maule,Servicio de salud Del Maule,2020-04-13,60.78
 07,Región del Maule,Servicio de salud Del Maule,2020-04-15,62.75
@@ -1070,6 +1094,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 07,Región del Maule,Servicio de salud Del Maule,2020-08-25,63.64
 07,Región del Maule,Servicio de salud Del Maule,2020-08-26,61.62
 07,Región del Maule,Servicio de salud Del Maule,2020-08-27,63.64
+07,Región del Maule,Servicio de salud Del Maule,2020-08-28,66.67
+07,Región del Maule,Servicio de salud Del Maule,2020-08-29,70.41
+07,Región del Maule,Servicio de salud Del Maule,2020-08-30,66.33
 08,Región del Bíobío,Servicio de salud Arauco,2020-04-12,0.0
 08,Región del Bíobío,Servicio de salud Arauco,2020-04-13,0.0
 08,Región del Bíobío,Servicio de salud Arauco,2020-04-15,0.0
@@ -1189,6 +1216,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,Servicio de salud Arauco,2020-08-25,80.0
 08,Región del Bíobío,Servicio de salud Arauco,2020-08-26,80.0
 08,Región del Bíobío,Servicio de salud Arauco,2020-08-27,60.0
+08,Región del Bíobío,Servicio de salud Arauco,2020-08-28,60.0
+08,Región del Bíobío,Servicio de salud Arauco,2020-08-29,100.0
+08,Región del Bíobío,Servicio de salud Arauco,2020-08-30,100.0
 08,Región del Bíobío,Servicio de salud BioBío,2020-04-12,64.29
 08,Región del Bíobío,Servicio de salud BioBío,2020-04-13,57.14
 08,Región del Bíobío,Servicio de salud BioBío,2020-04-15,57.14
@@ -1308,6 +1338,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,Servicio de salud BioBío,2020-08-25,75.0
 08,Región del Bíobío,Servicio de salud BioBío,2020-08-26,78.12
 08,Región del Bíobío,Servicio de salud BioBío,2020-08-27,78.12
+08,Región del Bíobío,Servicio de salud BioBío,2020-08-28,78.12
+08,Región del Bíobío,Servicio de salud BioBío,2020-08-29,75.0
+08,Región del Bíobío,Servicio de salud BioBío,2020-08-30,81.25
 08,Región del Bíobío,Servicio de salud Concepción,2020-04-12,78.85
 08,Región del Bíobío,Servicio de salud Concepción,2020-04-13,78.85
 08,Región del Bíobío,Servicio de salud Concepción,2020-04-15,63.46
@@ -1427,6 +1460,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,Servicio de salud Concepción,2020-08-25,83.78
 08,Región del Bíobío,Servicio de salud Concepción,2020-08-26,89.19
 08,Región del Bíobío,Servicio de salud Concepción,2020-08-27,79.73
+08,Región del Bíobío,Servicio de salud Concepción,2020-08-28,81.08
+08,Región del Bíobío,Servicio de salud Concepción,2020-08-29,84.93
+08,Región del Bíobío,Servicio de salud Concepción,2020-08-30,86.3
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-04-12,74.19
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-04-13,61.76
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-04-15,58.82
@@ -1546,6 +1582,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-25,81.67
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-26,81.67
 08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-27,88.33
+08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-28,93.44
+08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-29,76.67
+08,Región del Bíobío,Servicio de salud Talcahuano,2020-08-30,93.75
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-04-12,38.46
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-04-13,46.15
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-04-15,46.15
@@ -1665,6 +1704,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-25,77.78
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-26,100.0
 09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-27,70.0
+09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-28,80.0
+09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-29,70.0
+09,Región de La Araucanía,Servicio de salud Araucanía Norte,2020-08-30,100.0
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-04-12,88.61
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-04-13,86.21
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-04-15,68.35
@@ -1784,6 +1826,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-25,85.45
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-26,84.48
 09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-27,87.04
+09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-28,91.07
+09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-29,81.36
+09,Región de La Araucanía,Servicio de salud Araucanía Sur,2020-08-30,74.19
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-04-12,87.5
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-04-13,75.0
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-04-15,87.5
@@ -1903,6 +1948,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-25,16.67
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-26,12.5
 10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-27,8.33
+10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-28,12.5
+10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-29,16.67
+10,Región de Los Lagos,Servicio de salud Chiloé,2020-08-30,20.83
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-04-12,86.21
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-04-13,89.66
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-04-15,75.86
@@ -2022,6 +2070,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-25,64.44
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-26,77.78
 10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-27,82.22
+10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-28,77.78
+10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-29,80.0
+10,Región de Los Lagos,Servicio de salud Reloncaví,2020-08-30,77.78
 10,Región de Los Lagos,Servicio de salud Osorno,2020-04-12,78.57
 10,Región de Los Lagos,Servicio de salud Osorno,2020-04-13,89.29
 10,Región de Los Lagos,Servicio de salud Osorno,2020-04-15,96.43
@@ -2141,6 +2192,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 10,Región de Los Lagos,Servicio de salud Osorno,2020-08-25,64.29
 10,Región de Los Lagos,Servicio de salud Osorno,2020-08-26,64.29
 10,Región de Los Lagos,Servicio de salud Osorno,2020-08-27,67.86
+10,Región de Los Lagos,Servicio de salud Osorno,2020-08-28,64.29
+10,Región de Los Lagos,Servicio de salud Osorno,2020-08-29,64.29
+10,Región de Los Lagos,Servicio de salud Osorno,2020-08-30,67.86
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-04-12,25.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-04-13,25.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-04-15,37.5
@@ -2260,6 +2314,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-25,62.5
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-26,62.5
 11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-27,75.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-28,50.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-29,37.5
+11,Región de Aysén del General Carlos Ibáñez del Campo,Servicio de salud Aysén,2020-08-30,50.0
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-04-12,72.5
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-04-13,74.36
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-04-15,61.54
@@ -2379,6 +2436,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-25,93.33
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-26,90.0
 12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-27,80.0
+12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-28,96.67
+12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-29,96.67
+12,Región de Magallanes y de la Antártica Chilena,Servicio de salud Magallanes,2020-08-30,100.0
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-04-12,77.08
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-04-13,77.46
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-04-15,80.28
@@ -2498,6 +2558,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-25,76.82
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-26,78.45
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-27,75.11
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-28,75.11
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-29,74.25
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Central,2020-08-30,75.97
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-04-12,47.4
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-04-13,49.35
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-04-15,52.6
@@ -2617,6 +2680,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-25,67.59
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-26,65.28
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-27,61.11
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-28,63.43
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-29,58.33
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Norte,2020-08-30,56.02
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-04-12,65.08
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-04-13,69.84
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-04-15,76.19
@@ -2736,6 +2802,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-25,77.5
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-26,79.38
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-27,81.93
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-28,83.13
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-29,82.14
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Occidente,2020-08-30,82.63
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-04-12,52.63
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-04-13,50.68
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-04-15,53.92
@@ -2855,6 +2924,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-25,71.36
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-26,67.97
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-27,71.1
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-28,72.99
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-29,69.21
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Oriente,2020-08-30,70.14
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-04-12,76.67
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-04-13,80.0
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-04-15,72.13
@@ -2974,6 +3046,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-25,80.0
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-26,80.0
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-27,86.67
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-28,86.67
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-29,80.83
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur,2020-08-30,84.17
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-04-12,87.01
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-04-13,85.9
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-04-15,92.11
@@ -3093,6 +3168,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-25,84.76
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-26,85.37
 13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-27,81.1
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-28,77.91
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-29,79.14
+13,Región Metropolitana de Santiago,Servicio de salud Metropolitano Sur Oriente,2020-08-30,80.65
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-04-12,60.87
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-04-13,60.87
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-04-15,60.87
@@ -3212,6 +3290,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-25,73.91
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-26,78.26
 14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-27,73.91
+14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-28,78.26
+14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-29,69.57
+14,Región de Los Ríos,Servicio de salud Valdivia,2020-08-30,82.61
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-04-12,28.57
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-04-13,75.0
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-04-15,91.67
@@ -3331,6 +3412,9 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-25,65.79
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-26,68.42
 15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-27,65.79
+15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-28,57.89
+15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-29,55.26
+15,Región de Arica y Parinacota,Servicio de salud Arica,2020-08-30,57.89
 16,Región de Ñuble,Servicio de salud Ñuble,2020-04-12,44.44
 16,Región de Ñuble,Servicio de salud Ñuble,2020-04-13,44.44
 16,Región de Ñuble,Servicio de salud Ñuble,2020-04-15,51.85
@@ -3450,3 +3534,6 @@ codigo_region,region_residencia,Servicio_salud,fecha,Porcentaje Camas UCI
 16,Región de Ñuble,Servicio de salud Ñuble,2020-08-25,70.0
 16,Región de Ñuble,Servicio de salud Ñuble,2020-08-26,56.67
 16,Región de Ñuble,Servicio de salud Ñuble,2020-08-27,60.0
+16,Región de Ñuble,Servicio de salud Ñuble,2020-08-28,63.33
+16,Región de Ñuble,Servicio de salud Ñuble,2020-08-29,70.0
+16,Región de Ñuble,Servicio de salud Ñuble,2020-08-30,66.67
