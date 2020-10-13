@@ -156,6 +156,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 01,Región de Tarapacá,2020-10-03,47.286913346731296
 01,Región de Tarapacá,2020-10-04,47.286913346731296
 01,Región de Tarapacá,2020-10-05,53.19777751507271
+01,Región de Tarapacá,2020-10-06,53.19777751507271
+01,Región de Tarapacá,2020-10-07,53.19777751507271
+01,Región de Tarapacá,2020-10-08,53.19777751507271
 02,Región de Antofagasta,2020-04-12,8.480805111098546
 02,Región de Antofagasta,2020-04-13,11.307740148131396
 02,Región de Antofagasta,2020-04-15,14.448779078167894
@@ -313,6 +316,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 02,Región de Antofagasta,2020-10-03,41.42835771085308
 02,Región de Antofagasta,2020-10-04,43.7299331392338
 02,Región de Antofagasta,2020-10-05,46.03150856761453
+02,Región de Antofagasta,2020-10-06,44.880720853424165
+02,Región de Antofagasta,2020-10-07,46.03150856761453
+02,Región de Antofagasta,2020-10-08,44.51785986246324
 03,Región de Atacama,2020-04-12,9.288500835965076
 03,Región de Atacama,2020-04-13,9.288500835965076
 03,Región de Atacama,2020-04-15,9.288500835965076
@@ -470,6 +476,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 03,Región de Atacama,2020-10-03,25.007502250675202
 03,Región de Atacama,2020-10-04,30.009002700810242
 03,Región de Atacama,2020-10-05,35.01050315094528
+03,Región de Atacama,2020-10-06,35.01050315094528
+03,Región de Atacama,2020-10-07,35.01050315094528
+03,Región de Atacama,2020-10-08,35.01050315094528
 04,Región de Coquimbo,2020-04-12,4.484103851845209
 04,Región de Coquimbo,2020-04-13,0.0
 04,Región de Coquimbo,2020-04-15,4.484103851845209
@@ -627,6 +636,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 04,Región de Coquimbo,2020-10-03,90.23115097794646
 04,Región de Coquimbo,2020-10-04,90.23115097794646
 04,Región de Coquimbo,2020-10-05,84.92343621453783
+04,Región de Coquimbo,2020-10-06,87.57729359624214
+04,Región de Coquimbo,2020-10-07,87.57729359624214
+04,Región de Coquimbo,2020-10-08,92.88500835965075
 05,Región de Valparaíso,2020-04-12,14.629388816644992
 05,Región de Valparaíso,2020-04-13,13.003901170351105
 05,Región de Valparaíso,2020-04-15,13.085686712303
@@ -784,6 +796,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 05,Región de Valparaíso,2020-10-03,50.1579045142114
 05,Región de Valparaíso,2020-10-04,49.53867112514707
 05,Región de Valparaíso,2020-10-05,52.264483172703
+05,Región de Valparaíso,2020-10-06,48.371999522562085
+05,Región de Valparaíso,2020-10-07,47.28691334673129
+05,Región de Valparaíso,2020-10-08,48.91943773608273
 06,Región del Libertador General Bernardo O'Higgins,2020-04-12,15.17121803207629
 06,Región del Libertador General Bernardo O'Higgins,2020-04-13,14.922509539747171
 06,Región del Libertador General Bernardo O'Higgins,2020-04-15,12.790722462640431
@@ -941,6 +956,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 06,Región del Libertador General Bernardo O'Higgins,2020-10-03,57.264885887784686
 06,Región del Libertador General Bernardo O'Higgins,2020-10-04,54.87884897579366
 06,Región del Libertador General Bernardo O'Higgins,2020-10-05,54.87884897579366
+06,Región del Libertador General Bernardo O'Higgins,2020-10-06,56.07186743178917
+06,Región del Libertador General Bernardo O'Higgins,2020-10-07,54.87884897579366
+06,Región del Libertador General Bernardo O'Higgins,2020-10-08,44.922567679394724
 07,Región del Maule,2020-04-12,38.24676814809148
 07,Región del Maule,2020-04-13,40.796552691297585
 07,Región del Maule,2020-04-15,38.24676814809148
@@ -1098,6 +1116,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 07,Región del Maule,2020-10-03,72.0698137151989
 07,Región del Maule,2020-10-04,67.36960847290332
 07,Región del Maule,2020-10-05,57.96919798831216
+07,Región del Maule,2020-10-06,57.96919798831216
+07,Región del Maule,2020-10-07,59.53593306907735
+07,Región del Maule,2020-10-08,60.26198103333439
 08,Región del Bíobío,2020-04-12,36.317201466746326
 08,Región del Bíobío,2020-04-13,39.92425797914813
 08,Región del Bíobío,2020-04-15,39.92425797914813
@@ -1255,6 +1276,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 08,Región del Bíobío,2020-10-03,67.81604373785254
 08,Región del Bíobío,2020-10-04,69.30650623758557
 08,Región del Bíobío,2020-10-05,63.621236908707026
+08,Región del Bíobío,2020-10-06,65.37096264014339
+08,Región del Bíobío,2020-10-07,65.01950585175553
+08,Región del Bíobío,2020-10-08,61.523833494134266
 9,Región de La Araucanía,2020-04-12,79.15418103691977
 9,Región de La Araucanía,2020-04-13,67.62028608582574
 9,Región de La Araucanía,2020-04-15,65.01950585175553
@@ -1412,6 +1436,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 9,Región de La Araucanía,2020-10-03,30.009002700810242
 9,Región de La Araucanía,2020-10-04,33.49489695393466
 9,Región de La Araucanía,2020-10-05,40.6371911573472
+9,Región de La Araucanía,2020-10-06,45.41044853138481
+9,Región de La Araucanía,2020-10-07,39.405761122276076
+9,Región de La Araucanía,2020-10-08,47.286913346731296
 10,Región de Los Lagos,2020-04-12,52.01560468140442
 10,Región de Los Lagos,2020-04-13,50.015004501350404
 10,Región de Los Lagos,2020-04-15,52.01560468140442
@@ -1569,6 +1596,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 10,Región de Los Lagos,2020-10-03,31.872306790076237
 10,Región de Los Lagos,2020-10-04,34.42209133328234
 10,Región de Los Lagos,2020-10-05,34.42209133328234
+10,Región de Los Lagos,2020-10-06,31.872306790076237
+10,Región de Los Lagos,2020-10-07,30.597414518473187
+10,Región de Los Lagos,2020-10-08,35.69698360488539
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-12,0.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-13,0.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-15,0.0
@@ -1726,6 +1756,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-03,32.50975292587776
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-04,32.50975292587776
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-05,32.50975292587776
+11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-06,32.50975292587776
+11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-07,32.50975292587776
+11,Región de Aysén del General Carlos Ibáñez del Campo,2020-10-08,48.764629388816644
 12,Región de Magallanes y de la Antártica Chilena,2020-04-12,58.51755526657997
 12,Región de Magallanes y de la Antártica Chilena,2020-04-13,50.015004501350404
 12,Región de Magallanes y de la Antártica Chilena,2020-04-15,53.34933813477377
@@ -1883,6 +1916,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 12,Región de Magallanes y de la Antártica Chilena,2020-10-03,78.02340702210664
 12,Región de Magallanes y de la Antártica Chilena,2020-10-04,78.02340702210664
 12,Región de Magallanes y de la Antártica Chilena,2020-10-05,74.3080066877206
+12,Región de Magallanes y de la Antártica Chilena,2020-10-06,74.3080066877206
+12,Región de Magallanes y de la Antártica Chilena,2020-10-07,70.59260635333457
+12,Región de Magallanes y de la Antártica Chilena,2020-10-08,66.87720601894854
 13,Región Metropolitana de Santiago,2020-04-12,34.027181280268096
 13,Región Metropolitana de Santiago,2020-04-13,34.325940240172606
 13,Región Metropolitana de Santiago,2020-04-15,36.11181531177446
@@ -2040,6 +2076,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 13,Región Metropolitana de Santiago,2020-10-03,43.639465466013434
 13,Región Metropolitana de Santiago,2020-10-04,44.08289351716305
 13,Región Metropolitana de Santiago,2020-10-05,44.38191525717101
+13,Región Metropolitana de Santiago,2020-10-06,44.157928229532686
+13,Región Metropolitana de Santiago,2020-10-07,41.44100372969034
+13,Región Metropolitana de Santiago,2020-10-08,41.518479640277626
 14,Región de Los Ríos,2020-04-12,39.57709051845988
 14,Región de Los Ríos,2020-04-13,39.57709051845988
 14,Región de Los Ríos,2020-04-15,33.92322044439418
@@ -2197,6 +2236,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 14,Región de Los Ríos,2020-10-03,16.96161022219709
 14,Región de Los Ríos,2020-10-04,33.92322044439418
 14,Región de Los Ríos,2020-10-05,33.92322044439418
+14,Región de Los Ríos,2020-10-06,33.92322044439418
+14,Región de Los Ríos,2020-10-07,33.92322044439418
+14,Región de Los Ríos,2020-10-08,39.57709051845988
 15,Región de Arica y Parinacota,2020-04-12,30.961669453216917
 15,Región de Arica y Parinacota,2020-04-13,54.18292154312961
 15,Región de Arica y Parinacota,2020-04-15,54.18292154312961
@@ -2354,6 +2396,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 15,Región de Arica y Parinacota,2020-10-03,73.68877329865626
 15,Región de Arica y Parinacota,2020-10-04,78.02340702210662
 15,Región de Arica y Parinacota,2020-10-05,73.68877329865626
+15,Región de Arica y Parinacota,2020-10-06,73.68877329865626
+15,Región de Arica y Parinacota,2020-10-07,60.68487212830516
+15,Región de Arica y Parinacota,2020-10-08,65.01950585175553
 16,Región de Ñuble,2020-04-12,57.795116312671574
 16,Región de Ñuble,2020-04-13,62.611376005394206
 16,Región de Ñuble,2020-04-15,62.611376005394206
@@ -2511,3 +2556,6 @@ codigo_region,region_residencia,fecha,COVID UCI
 16,Región de Ñuble,2020-10-03,56.892067620286085
 16,Región de Ñuble,2020-10-04,56.892067620286085
 16,Región de Ñuble,2020-10-05,60.955786736020805
+16,Región de Ñuble,2020-10-06,56.892067620286085
+16,Región de Ñuble,2020-10-07,60.955786736020805
+16,Región de Ñuble,2020-10-08,56.892067620286085
