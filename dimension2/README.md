@@ -26,6 +26,6 @@ Más detalles sobre el cálculo de los indicadores puede encontrarse en [ICOVID-
 
 ## Nuevos indicadores (sin umbral)
 
-### [Detalle de positividad de test PCR por caso sintomático/asintomático y BAC]
+### [Detalle de positividad de test PCR por caso sintomático/asintomático y BAC](https://github.com/datagovuc/ICOVID/tree/master/dimension2/positividad_detalle)
 
 La positividad de los casos se puede medir de manera más fina según ciertas características de los pacientes al momento de la notificación, como por ejemplo si tiene o no síntomas. Los archivos de datos de la carpeta [`positividad_detalle`](https://github.com/datagovuc/ICOVID/tree/master/dimension2/positividad_detalle) presentan cálculos para positividades separadas para pacientes sintomicos y asintomáticos (`positividad_sintomas.csv`). También presentan cálculos de postividad según si la notificación es producto de la búsqueda activa de casos (BAC) o no BAC (`positividad_bac.csv`). Los archivos para este indicador cuentan con la variable `fecha` correspondiente a la fecha en que el resultado de la muestra fue informado a la autoridad y dos variables identificadora de la unidad de análisis (`region`, `provincia` y `ss` según la residencia del caso notificado). La variable `positividad_C` indica la proporción de exámenes informados en esa `fecha` para notificaciones que cumplen `C` y que resultaron positivos sobre el total de exámenes realizados para notificaciones que cumplen `C`. 
