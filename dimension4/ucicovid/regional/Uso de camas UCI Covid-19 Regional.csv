@@ -223,6 +223,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 01,Región de Región de Tarapacá,2020-11-21,41.666666666666664
 01,Región de Región de Tarapacá,2020-11-22,41.666666666666664
 01,Región de Región de Tarapacá,2020-11-23,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-24,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-25,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-26,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-27,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-28,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-29,41.666666666666664
+01,Región de Región de Tarapacá,2020-11-30,41.666666666666664
+01,Región de Región de Tarapacá,2020-12-01,41.666666666666664
+01,Región de Región de Tarapacá,2020-12-02,41.666666666666664
 02,Región de Región de Antofagasta,2020-04-14,7.407407407407407
 02,Región de Región de Antofagasta,2020-04-15,9.25925925925926
 02,Región de Región de Antofagasta,2020-04-16,8.333333333333334
@@ -447,6 +456,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 02,Región de Región de Antofagasta,2020-11-21,17.52577319587629
 02,Región de Región de Antofagasta,2020-11-22,16.49484536082474
 02,Región de Región de Antofagasta,2020-11-23,16.3265306122449
+02,Región de Región de Antofagasta,2020-11-24,14.285714285714286
+02,Región de Región de Antofagasta,2020-11-25,16.3265306122449
+02,Región de Región de Antofagasta,2020-11-26,14.285714285714286
+02,Región de Región de Antofagasta,2020-11-27,12.244897959183673
+02,Región de Región de Antofagasta,2020-11-28,15.306122448979592
+02,Región de Región de Antofagasta,2020-11-29,15.306122448979592
+02,Región de Región de Antofagasta,2020-11-30,16.3265306122449
+02,Región de Región de Antofagasta,2020-12-01,16.3265306122449
+02,Región de Región de Antofagasta,2020-12-02,17.171717171717173
 03,Región de Región de Atacama,2020-04-14,9.090909090909092
 03,Región de Región de Atacama,2020-04-15,9.090909090909092
 03,Región de Región de Atacama,2020-04-16,9.090909090909092
@@ -671,6 +689,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 03,Región de Región de Atacama,2020-11-21,10.526315789473685
 03,Región de Región de Atacama,2020-11-22,10.526315789473685
 03,Región de Región de Atacama,2020-11-23,5.2631578947368425
+03,Región de Región de Atacama,2020-11-24,5.2631578947368425
+03,Región de Región de Atacama,2020-11-25,10.526315789473685
+03,Región de Región de Atacama,2020-11-26,10.526315789473685
+03,Región de Región de Atacama,2020-11-27,15.789473684210526
+03,Región de Región de Atacama,2020-11-28,15.789473684210526
+03,Región de Región de Atacama,2020-11-29,14.285714285714286
+03,Región de Región de Atacama,2020-11-30,14.285714285714286
+03,Región de Región de Atacama,2020-12-01,14.285714285714286
+03,Región de Región de Atacama,2020-12-02,9.523809523809524
 04,Región de Región de Coquimbo,2020-04-14,2.1739130434782608
 04,Región de Región de Coquimbo,2020-04-15,2.9411764705882355
 04,Región de Región de Coquimbo,2020-04-16,0.0
@@ -895,6 +922,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 04,Región de Región de Coquimbo,2020-11-21,7.142857142857143
 04,Región de Región de Coquimbo,2020-11-22,14.285714285714286
 04,Región de Región de Coquimbo,2020-11-23,14.285714285714286
+04,Región de Región de Coquimbo,2020-11-24,14.285714285714286
+04,Región de Región de Coquimbo,2020-11-25,16.071428571428573
+04,Región de Región de Coquimbo,2020-11-26,19.642857142857142
+04,Región de Región de Coquimbo,2020-11-27,17.857142857142858
+04,Región de Región de Coquimbo,2020-11-28,17.857142857142858
+04,Región de Región de Coquimbo,2020-11-29,17.857142857142858
+04,Región de Región de Coquimbo,2020-11-30,17.857142857142858
+04,Región de Región de Coquimbo,2020-12-01,17.857142857142858
+04,Región de Región de Coquimbo,2020-12-02,17.857142857142858
 05,Región de Región de Valparaíso,2020-04-14,10.32258064516129
 05,Región de Región de Valparaíso,2020-04-15,10.256410256410257
 05,Región de Región de Valparaíso,2020-04-16,11.538461538461538
@@ -1119,678 +1155,714 @@ codigo_region,region_residencia,fecha,COVID UCI
 05,Región de Región de Valparaíso,2020-11-21,31.97969543147208
 05,Región de Región de Valparaíso,2020-11-22,31.155778894472363
 05,Región de Región de Valparaíso,2020-11-23,31.155778894472363
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-14,8.474576271186441
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-15,10.344827586206897
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-16,6.896551724137931
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-17,6.153846153846154
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-18,6.557377049180328
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-19,6.557377049180328
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-20,6.557377049180328
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-21,5.172413793103448
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-22,6.896551724137931
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-23,6.896551724137931
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-24,7.142857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-25,7.142857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-26,7.142857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-27,7.017543859649122
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-28,8.474576271186441
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-29,6.779661016949152
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-30,8.474576271186441
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-01,10.169491525423728
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-02,8.333333333333334
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-03,7.6923076923076925
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-04,7.6923076923076925
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-05,10.9375
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-06,7.8125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-07,9.375
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-08,9.375
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-09,7.8125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-10,7.8125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-11,7.8125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-12,9.523809523809524
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-13,10.9375
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-14,12.307692307692308
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-15,10.76923076923077
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-16,15.151515151515152
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-17,14.925373134328359
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-18,13.432835820895523
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-19,13.432835820895523
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-20,20.895522388059703
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-21,22.22222222222222
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-22,30.555555555555557
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-23,29.62962962962963
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-24,32.098765432098766
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-25,30.232558139534884
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-26,32.18390804597701
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-27,33.70786516853933
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-28,36.666666666666664
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-29,36.666666666666664
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-30,43.333333333333336
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-05-31,44.44444444444444
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-01,44.44444444444444
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-02,40.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-03,32.63157894736842
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-04,32.63157894736842
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-05,36.8421052631579
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-06,36.8421052631579
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-07,37.89473684210526
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-08,37.89473684210526
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-09,35.05154639175258
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-10,37.37373737373738
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-11,36.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-12,38.38383838383838
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-13,36.53846153846154
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-14,36.53846153846154
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-15,40.38461538461539
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-16,40.38461538461539
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-17,40.38461538461539
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-18,38.05309734513274
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-19,46.42857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-20,50.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-21,48.760330578512395
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-22,48.760330578512395
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-23,45.3125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-24,52.713178294573645
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-25,69.6
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-26,70.63492063492063
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-27,71.09375
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-28,75.2
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-29,74.4
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-06-30,76.61290322580645
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-01,78.2258064516129
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-02,82.03125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-03,75.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-04,79.67479674796748
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-05,75.93984962406014
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-06,75.18796992481202
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-07,75.93984962406014
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-08,73.6842105263158
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-09,72.18045112781955
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-10,70.37037037037037
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-11,70.37037037037037
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-12,65.92592592592592
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-13,65.18518518518519
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-14,62.22222222222222
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-15,60.74074074074074
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-16,55.55555555555556
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-17,49.6551724137931
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-18,51.04895104895105
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-19,50.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-20,53.191489361702125
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-21,53.57142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-22,45.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-23,46.478873239436616
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-24,45.39007092198582
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-25,42.25352112676056
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-26,45.070422535211264
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-27,46.478873239436616
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-28,41.54929577464789
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-29,39.436619718309856
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-30,33.80281690140845
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-07-31,35.2112676056338
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-01,35.2112676056338
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-02,36.170212765957444
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-03,36.170212765957444
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-04,37.5886524822695
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-05,33.80281690140845
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-06,31.57894736842105
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-07,32.83582089552239
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-08,33.83458646616541
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-09,33.582089552238806
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-10,34.32835820895522
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-11,35.07462686567164
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-12,33.07086614173228
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-13,40.16393442622951
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-14,40.17094017094017
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-15,41.07142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-16,46.601941747572816
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-17,46.601941747572816
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-18,45.63106796116505
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-19,35.13513513513514
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-20,32.432432432432435
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-21,37.83783783783784
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-22,37.16814159292036
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-23,40.54054054054054
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-24,41.07142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-25,41.07142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-26,38.73873873873874
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-27,40.54054054054054
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-28,42.34234234234234
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-29,38.73873873873874
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-30,40.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-08-31,44.76190476190476
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-01,46.666666666666664
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-02,43.39622641509434
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-03,42.20183486238532
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-04,42.05607476635514
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-05,44.03669724770642
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-06,42.34234234234234
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-07,41.964285714285715
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-08,43.24324324324324
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-09,44.03669724770642
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-10,37.83783783783784
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-11,44.03669724770642
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-12,43.63636363636363
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-13,47.27272727272727
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-14,47.747747747747745
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-15,47.747747747747745
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-16,49.09090909090909
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-17,49.549549549549546
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-18,49.09090909090909
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-19,49.107142857142854
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-20,50.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-21,51.785714285714285
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-22,52.67857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-23,46.36363636363637
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-24,48.214285714285715
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-25,43.47826086956522
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-26,43.75
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-27,43.75
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-28,44.24778761061947
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-29,44.24778761061947
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-09-30,39.285714285714285
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-01,41.07142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-02,42.857142857142854
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-03,42.47787610619469
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-04,40.35087719298246
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-05,40.35087719298246
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-06,41.228070175438596
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-07,41.07142857142857
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-08,33.92857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-09,44.642857142857146
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-10,46.42857142857143
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-11,43.36283185840708
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-12,42.98245614035088
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-13,42.608695652173914
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-14,43.75
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-15,41.5929203539823
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-16,46.017699115044245
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-17,45.535714285714285
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-18,43.36283185840708
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-19,44.24778761061947
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-20,42.73504273504273
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-21,43.63636363636363
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-22,46.601941747572816
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-23,48.03921568627451
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-24,44.11764705882353
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-25,42.57425742574257
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-26,41.584158415841586
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-27,42.57425742574257
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-28,44.0
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-29,47.82608695652174
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-30,51.578947368421055
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-10-31,49.473684210526315
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-01,50.526315789473685
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-02,47.87234042553192
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-03,46.808510638297875
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-04,45.744680851063826
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-05,45.16129032258065
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-06,44.086021505376344
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-07,44.56521739130435
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-08,46.236559139784944
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-09,46.236559139784944
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-10,46.236559139784944
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-11,45.16129032258065
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-12,45.16129032258065
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-13,45.16129032258065
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-14,44.086021505376344
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-15,47.31182795698925
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-16,43.956043956043956
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-17,43.956043956043956
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-18,42.857142857142854
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-19,43.956043956043956
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-20,40.65934065934066
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-21,41.75824175824176
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-22,39.56043956043956
-06,Región de Región del Libertador General Bernardo O'Higgins,2020-11-23,40.65934065934066
-07,Región de Región del Maule,2020-04-14,30.0
-07,Región de Región del Maule,2020-04-15,30.0
-07,Región de Región del Maule,2020-04-16,26.0
-07,Región de Región del Maule,2020-04-17,24.0
-07,Región de Región del Maule,2020-04-18,24.0
-07,Región de Región del Maule,2020-04-19,30.0
-07,Región de Región del Maule,2020-04-20,18.0
-07,Región de Región del Maule,2020-04-21,28.0
-07,Región de Región del Maule,2020-04-22,20.0
-07,Región de Región del Maule,2020-04-23,18.0
-07,Región de Región del Maule,2020-04-24,18.0
-07,Región de Región del Maule,2020-04-25,16.0
-07,Región de Región del Maule,2020-04-26,20.0
-07,Región de Región del Maule,2020-04-27,20.0
-07,Región de Región del Maule,2020-04-28,15.686274509803921
-07,Región de Región del Maule,2020-04-29,13.72549019607843
-07,Región de Región del Maule,2020-04-30,11.764705882352942
-07,Región de Región del Maule,2020-05-01,8.620689655172415
-07,Región de Región del Maule,2020-05-02,8.620689655172415
-07,Región de Región del Maule,2020-05-03,13.793103448275861
-07,Región de Región del Maule,2020-05-04,13.793103448275861
-07,Región de Región del Maule,2020-05-05,12.068965517241379
-07,Región de Región del Maule,2020-05-06,6.896551724137931
-07,Región de Región del Maule,2020-05-07,6.896551724137931
-07,Región de Región del Maule,2020-05-08,6.896551724137931
-07,Región de Región del Maule,2020-05-09,6.896551724137931
-07,Región de Región del Maule,2020-05-10,6.896551724137931
-07,Región de Región del Maule,2020-05-11,8.620689655172415
-07,Región de Región del Maule,2020-05-12,10.344827586206897
-07,Región de Región del Maule,2020-05-13,10.344827586206897
-07,Región de Región del Maule,2020-05-14,10.344827586206897
-07,Región de Región del Maule,2020-05-15,10.344827586206897
-07,Región de Región del Maule,2020-05-16,13.793103448275861
-07,Región de Región del Maule,2020-05-17,13.793103448275861
-07,Región de Región del Maule,2020-05-18,13.793103448275861
-07,Región de Región del Maule,2020-05-19,13.793103448275861
-07,Región de Región del Maule,2020-05-20,13.793103448275861
-07,Región de Región del Maule,2020-05-21,16.949152542372882
-07,Región de Región del Maule,2020-05-22,27.11864406779661
-07,Región de Región del Maule,2020-05-23,25.423728813559322
-07,Región de Región del Maule,2020-05-24,30.508474576271187
-07,Región de Región del Maule,2020-05-25,37.28813559322034
-07,Región de Región del Maule,2020-05-26,42.3728813559322
-07,Región de Región del Maule,2020-05-27,48.333333333333336
-07,Región de Región del Maule,2020-05-28,54.09836065573771
-07,Región de Región del Maule,2020-05-29,59.01639344262295
-07,Región de Región del Maule,2020-05-30,61.904761904761905
-07,Región de Región del Maule,2020-05-31,60.317460317460316
-07,Región de Región del Maule,2020-06-01,61.904761904761905
-07,Región de Región del Maule,2020-06-02,60.9375
-07,Región de Región del Maule,2020-06-03,67.1875
-07,Región de Región del Maule,2020-06-04,75.0
-07,Región de Región del Maule,2020-06-05,64.0625
-07,Región de Región del Maule,2020-06-06,60.0
-07,Región de Región del Maule,2020-06-07,53.84615384615385
-07,Región de Región del Maule,2020-06-08,62.82051282051282
-07,Región de Región del Maule,2020-06-09,56.41025641025641
-07,Región de Región del Maule,2020-06-10,55.0
-07,Región de Región del Maule,2020-06-11,55.69620253164557
-07,Región de Región del Maule,2020-06-12,66.66666666666667
-07,Región de Región del Maule,2020-06-13,64.1025641025641
-07,Región de Región del Maule,2020-06-14,64.1025641025641
-07,Región de Región del Maule,2020-06-15,61.53846153846154
-07,Región de Región del Maule,2020-06-16,66.66666666666667
-07,Región de Región del Maule,2020-06-17,69.23076923076923
-07,Región de Región del Maule,2020-06-18,67.07317073170732
-07,Región de Región del Maule,2020-06-19,68.29268292682927
-07,Región de Región del Maule,2020-06-20,67.04545454545455
-07,Región de Región del Maule,2020-06-21,69.31818181818181
-07,Región de Región del Maule,2020-06-22,75.0
-07,Región de Región del Maule,2020-06-23,76.13636363636364
-07,Región de Región del Maule,2020-06-24,79.54545454545455
-07,Región de Región del Maule,2020-06-25,67.04545454545455
-07,Región de Región del Maule,2020-06-26,73.5632183908046
-07,Región de Región del Maule,2020-06-27,58.333333333333336
-07,Región de Región del Maule,2020-06-28,57.291666666666664
-07,Región de Región del Maule,2020-06-29,58.58585858585859
-07,Región de Región del Maule,2020-06-30,58.58585858585859
-07,Región de Región del Maule,2020-07-01,52.525252525252526
-07,Región de Región del Maule,2020-07-02,51.0
-07,Región de Región del Maule,2020-07-03,58.0
-07,Región de Región del Maule,2020-07-04,55.96330275229358
-07,Región de Región del Maule,2020-07-05,53.63636363636363
-07,Región de Región del Maule,2020-07-06,54.12844036697248
-07,Región de Región del Maule,2020-07-07,57.407407407407405
-07,Región de Región del Maule,2020-07-08,49.166666666666664
-07,Región de Región del Maule,2020-07-09,47.5
-07,Región de Región del Maule,2020-07-10,41.80327868852459
-07,Región de Región del Maule,2020-07-11,48.24561403508772
-07,Región de Región del Maule,2020-07-12,48.69565217391305
-07,Región de Región del Maule,2020-07-13,46.95652173913044
-07,Región de Región del Maule,2020-07-14,40.0
-07,Región de Región del Maule,2020-07-15,41.73913043478261
-07,Región de Región del Maule,2020-07-16,44.34782608695652
-07,Región de Región del Maule,2020-07-17,42.98245614035088
-07,Región de Región del Maule,2020-07-18,45.13274336283186
-07,Región de Región del Maule,2020-07-19,44.24778761061947
-07,Región de Región del Maule,2020-07-20,44.73684210526316
-07,Región de Región del Maule,2020-07-21,46.95652173913044
-07,Región de Región del Maule,2020-07-22,46.08695652173913
-07,Región de Región del Maule,2020-07-23,45.21739130434783
-07,Región de Región del Maule,2020-07-24,43.47826086956522
-07,Región de Región del Maule,2020-07-25,40.869565217391305
-07,Región de Región del Maule,2020-07-26,46.017699115044245
-07,Región de Región del Maule,2020-07-27,46.017699115044245
-07,Región de Región del Maule,2020-07-28,43.36283185840708
-07,Región de Región del Maule,2020-07-29,38.59649122807018
-07,Región de Región del Maule,2020-07-30,33.92857142857143
-07,Región de Región del Maule,2020-07-31,32.142857142857146
-07,Región de Región del Maule,2020-08-01,32.142857142857146
-07,Región de Región del Maule,2020-08-02,30.357142857142858
-07,Región de Región del Maule,2020-08-03,28.571428571428573
-07,Región de Región del Maule,2020-08-04,26.785714285714285
-07,Región de Región del Maule,2020-08-05,28.571428571428573
-07,Región de Región del Maule,2020-08-06,28.571428571428573
-07,Región de Región del Maule,2020-08-07,25.892857142857142
-07,Región de Región del Maule,2020-08-08,26.548672566371682
-07,Región de Región del Maule,2020-08-09,26.548672566371682
-07,Región de Región del Maule,2020-08-10,23.214285714285715
-07,Región de Región del Maule,2020-08-11,24.107142857142858
-07,Región de Región del Maule,2020-08-12,27.678571428571427
-07,Región de Región del Maule,2020-08-13,29.464285714285715
-07,Región de Región del Maule,2020-08-14,26.548672566371682
-07,Región de Región del Maule,2020-08-15,24.778761061946902
-07,Región de Región del Maule,2020-08-16,22.123893805309734
-07,Región de Región del Maule,2020-08-17,21.05263157894737
-07,Región de Región del Maule,2020-08-18,21.92982456140351
-07,Región de Región del Maule,2020-08-19,21.238938053097346
-07,Región de Región del Maule,2020-08-20,20.353982300884955
-07,Región de Región del Maule,2020-08-21,18.58407079646018
-07,Región de Región del Maule,2020-08-22,23.008849557522122
-07,Región de Región del Maule,2020-08-23,23.893805309734514
-07,Región de Región del Maule,2020-08-24,23.893805309734514
-07,Región de Región del Maule,2020-08-25,26.548672566371682
-07,Región de Región del Maule,2020-08-26,24.778761061946902
-07,Región de Región del Maule,2020-08-27,23.893805309734514
-07,Región de Región del Maule,2020-08-28,30.088495575221238
-07,Región de Región del Maule,2020-08-29,29.20353982300885
-07,Región de Región del Maule,2020-08-30,28.31858407079646
-07,Región de Región del Maule,2020-08-31,30.088495575221238
-07,Región de Región del Maule,2020-09-01,30.088495575221238
-07,Región de Región del Maule,2020-09-02,30.97345132743363
-07,Región de Región del Maule,2020-09-03,28.31858407079646
-07,Región de Región del Maule,2020-09-04,30.088495575221238
-07,Región de Región del Maule,2020-09-05,30.088495575221238
-07,Región de Región del Maule,2020-09-06,33.6283185840708
-07,Región de Región del Maule,2020-09-07,30.97345132743363
-07,Región de Región del Maule,2020-09-08,31.858407079646017
-07,Región de Región del Maule,2020-09-09,33.333333333333336
-07,Región de Región del Maule,2020-09-10,38.59649122807018
-07,Región de Región del Maule,2020-09-11,39.130434782608695
-07,Región de Región del Maule,2020-09-12,40.0
-07,Región de Región del Maule,2020-09-13,40.869565217391305
-07,Región de Región del Maule,2020-09-14,40.0
-07,Región de Región del Maule,2020-09-15,34.78260869565217
-07,Región de Región del Maule,2020-09-16,35.96491228070175
-07,Región de Región del Maule,2020-09-17,34.21052631578947
-07,Región de Región del Maule,2020-09-18,34.21052631578947
-07,Región de Región del Maule,2020-09-19,31.57894736842105
-07,Región de Región del Maule,2020-09-20,31.57894736842105
-07,Región de Región del Maule,2020-09-21,35.08771929824562
-07,Región de Región del Maule,2020-09-22,36.8421052631579
-07,Región de Región del Maule,2020-09-23,37.60683760683761
-07,Región de Región del Maule,2020-09-24,32.47863247863248
-07,Región de Región del Maule,2020-09-25,38.46153846153846
-07,Región de Región del Maule,2020-09-26,42.73504273504273
-07,Región de Región del Maule,2020-09-27,40.17094017094017
-07,Región de Región del Maule,2020-09-28,40.17094017094017
-07,Región de Región del Maule,2020-09-29,37.60683760683761
-07,Región de Región del Maule,2020-09-30,36.75213675213675
-07,Región de Región del Maule,2020-10-01,36.0655737704918
-07,Región de Región del Maule,2020-10-02,35.24590163934426
-07,Región de Región del Maule,2020-10-03,37.704918032786885
-07,Región de Región del Maule,2020-10-04,35.24590163934426
-07,Región de Región del Maule,2020-10-05,30.578512396694215
-07,Región de Región del Maule,2020-10-06,30.578512396694215
-07,Región de Región del Maule,2020-10-07,33.92857142857143
-07,Región de Región del Maule,2020-10-08,33.92857142857143
-07,Región de Región del Maule,2020-10-09,32.142857142857146
-07,Región de Región del Maule,2020-10-10,38.73873873873874
-07,Región de Región del Maule,2020-10-11,32.142857142857146
-07,Región de Región del Maule,2020-10-12,29.464285714285715
-07,Región de Región del Maule,2020-10-13,29.464285714285715
-07,Región de Región del Maule,2020-10-14,27.678571428571427
-07,Región de Región del Maule,2020-10-15,27.92792792792793
-07,Región de Región del Maule,2020-10-16,29.464285714285715
-07,Región de Región del Maule,2020-10-17,29.464285714285715
-07,Región de Región del Maule,2020-10-18,26.785714285714285
-07,Región de Región del Maule,2020-10-19,25.892857142857142
-07,Región de Región del Maule,2020-10-20,25.0
-07,Región de Región del Maule,2020-10-21,24.107142857142858
-07,Región de Región del Maule,2020-10-22,21.428571428571427
-07,Región de Región del Maule,2020-10-23,22.321428571428573
-07,Región de Región del Maule,2020-10-24,22.321428571428573
-07,Región de Región del Maule,2020-10-25,23.214285714285715
-07,Región de Región del Maule,2020-10-26,22.123893805309734
-07,Región de Región del Maule,2020-10-27,21.238938053097346
-07,Región de Región del Maule,2020-10-28,21.428571428571427
-07,Región de Región del Maule,2020-10-29,23.214285714285715
-07,Región de Región del Maule,2020-10-30,24.56140350877193
-07,Región de Región del Maule,2020-10-31,25.0
-07,Región de Región del Maule,2020-11-01,23.214285714285715
-07,Región de Región del Maule,2020-11-02,20.535714285714285
-07,Región de Región del Maule,2020-11-03,22.321428571428573
-07,Región de Región del Maule,2020-11-04,22.321428571428573
-07,Región de Región del Maule,2020-11-05,20.535714285714285
-07,Región de Región del Maule,2020-11-06,18.75
-07,Región de Región del Maule,2020-11-07,16.964285714285715
-07,Región de Región del Maule,2020-11-08,16.071428571428573
-07,Región de Región del Maule,2020-11-09,16.964285714285715
-07,Región de Región del Maule,2020-11-10,16.071428571428573
-07,Región de Región del Maule,2020-11-11,16.964285714285715
-07,Región de Región del Maule,2020-11-12,16.964285714285715
-07,Región de Región del Maule,2020-11-13,16.964285714285715
-07,Región de Región del Maule,2020-11-14,15.178571428571429
-07,Región de Región del Maule,2020-11-15,14.285714285714286
-07,Región de Región del Maule,2020-11-16,15.178571428571429
-07,Región de Región del Maule,2020-11-17,18.75
-07,Región de Región del Maule,2020-11-18,18.75
-07,Región de Región del Maule,2020-11-19,16.071428571428573
-07,Región de Región del Maule,2020-11-20,16.964285714285715
-07,Región de Región del Maule,2020-11-21,16.964285714285715
-07,Región de Región del Maule,2020-11-22,15.178571428571429
-07,Región de Región del Maule,2020-11-23,16.071428571428573
-08,Región de Región del Bíobío,2020-04-14,28.0
-08,Región de Región del Bíobío,2020-04-15,26.31578947368421
-08,Región de Región del Bíobío,2020-04-16,21.428571428571427
-08,Región de Región del Bíobío,2020-04-17,19.148936170212767
-08,Región de Región del Bíobío,2020-04-18,17.73049645390071
-08,Región de Región del Bíobío,2020-04-19,18.571428571428573
-08,Región de Región del Bíobío,2020-04-20,18.055555555555557
-08,Región de Región del Bíobío,2020-04-21,17.36111111111111
-08,Región de Región del Bíobío,2020-04-22,16.89189189189189
-08,Región de Región del Bíobío,2020-04-23,16.778523489932887
-08,Región de Región del Bíobío,2020-04-24,14.965986394557824
-08,Región de Región del Bíobío,2020-04-25,14.666666666666666
-08,Región de Región del Bíobío,2020-04-26,15.333333333333334
-08,Región de Región del Bíobío,2020-04-27,15.789473684210526
-08,Región de Región del Bíobío,2020-04-28,14.093959731543624
-08,Región de Región del Bíobío,2020-04-29,14.666666666666666
-08,Región de Región del Bíobío,2020-04-30,14.666666666666666
-08,Región de Región del Bíobío,2020-05-01,15.436241610738255
-08,Región de Región del Bíobío,2020-05-02,14.18918918918919
-08,Región de Región del Bíobío,2020-05-03,14.084507042253522
-08,Región de Región del Bíobío,2020-05-04,12.67605633802817
-08,Región de Región del Bíobío,2020-05-05,12.857142857142858
-08,Región de Región del Bíobío,2020-05-06,10.714285714285714
-08,Región de Región del Bíobío,2020-05-07,10.0
-08,Región de Región del Bíobío,2020-05-08,10.526315789473685
-08,Región de Región del Bíobío,2020-05-09,11.842105263157896
-08,Región de Región del Bíobío,2020-05-10,13.013698630136986
-08,Región de Región del Bíobío,2020-05-11,12.244897959183673
-08,Región de Región del Bíobío,2020-05-12,11.564625850340136
-08,Región de Región del Bíobío,2020-05-13,9.523809523809524
-08,Región de Región del Bíobío,2020-05-14,8.088235294117647
-08,Región de Región del Bíobío,2020-05-15,8.823529411764707
-08,Región de Región del Bíobío,2020-05-16,9.523809523809524
-08,Región de Región del Bíobío,2020-05-17,9.523809523809524
-08,Región de Región del Bíobío,2020-05-18,11.643835616438356
-08,Región de Región del Bíobío,2020-05-19,11.920529801324504
-08,Región de Región del Bíobío,2020-05-20,12.666666666666666
-08,Región de Región del Bíobío,2020-05-21,15.646258503401361
-08,Región de Región del Bíobío,2020-05-22,14.18918918918919
-08,Región de Región del Bíobío,2020-05-23,14.743589743589743
-08,Región de Región del Bíobío,2020-05-24,13.836477987421384
-08,Región de Región del Bíobío,2020-05-25,14.110429447852761
-08,Región de Región del Bíobío,2020-05-26,16.25
-08,Región de Región del Bíobío,2020-05-27,15.853658536585366
-08,Región de Región del Bíobío,2020-05-28,16.95906432748538
-08,Región de Región del Bíobío,2020-05-29,18.674698795180724
-08,Región de Región del Bíobío,2020-05-30,19.161676646706585
-08,Región de Región del Bíobío,2020-05-31,17.857142857142858
-08,Región de Región del Bíobío,2020-06-01,19.526627218934912
-08,Región de Región del Bíobío,2020-06-02,22.424242424242426
-08,Región de Región del Bíobío,2020-06-03,23.353293413173652
-08,Región de Región del Bíobío,2020-06-04,25.294117647058822
-08,Región de Región del Bíobío,2020-06-05,26.704545454545453
-08,Región de Región del Bíobío,2020-06-06,26.595744680851062
-08,Región de Región del Bíobío,2020-06-07,25.0
-08,Región de Región del Bíobío,2020-06-08,24.33862433862434
-08,Región de Región del Bíobío,2020-06-09,24.864864864864863
-08,Región de Región del Bíobío,2020-06-10,23.68421052631579
-08,Región de Región del Bíobío,2020-06-11,27.807486631016044
-08,Región de Región del Bíobío,2020-06-12,29.891304347826086
-08,Región de Región del Bíobío,2020-06-13,36.26373626373626
-08,Región de Región del Bíobío,2020-06-14,37.362637362637365
-08,Región de Región del Bíobío,2020-06-15,39.34426229508197
-08,Región de Región del Bíobío,2020-06-16,35.483870967741936
-08,Región de Región del Bíobío,2020-06-17,33.87096774193548
-08,Región de Región del Bíobío,2020-06-18,32.972972972972975
-08,Región de Región del Bíobío,2020-06-19,34.23913043478261
-08,Región de Región del Bíobío,2020-06-20,36.0655737704918
-08,Región de Región del Bíobío,2020-06-21,36.95652173913044
-08,Región de Región del Bíobío,2020-06-22,35.67567567567568
-08,Región de Región del Bíobío,2020-06-23,36.75675675675676
-08,Región de Región del Bíobío,2020-06-24,34.40860215053763
-08,Región de Región del Bíobío,2020-06-25,36.75675675675676
-08,Región de Región del Bíobío,2020-06-26,37.096774193548384
-08,Región de Región del Bíobío,2020-06-27,38.70967741935484
-08,Región de Región del Bíobío,2020-06-28,37.096774193548384
-08,Región de Región del Bíobío,2020-06-29,35.13513513513514
-08,Región de Región del Bíobío,2020-06-30,38.797814207650276
-08,Región de Región del Bíobío,2020-07-01,38.25136612021858
-08,Región de Región del Bíobío,2020-07-02,38.797814207650276
-08,Región de Región del Bíobío,2020-07-03,38.25136612021858
-08,Región de Región del Bíobío,2020-07-04,36.507936507936506
-08,Región de Región del Bíobío,2020-07-05,34.73684210526316
-08,Región de Región del Bíobío,2020-07-06,34.375
-08,Región de Región del Bíobío,2020-07-07,33.333333333333336
-08,Región de Región del Bíobío,2020-07-08,35.26315789473684
-08,Región de Región del Bíobío,2020-07-09,33.66834170854271
-08,Región de Región del Bíobío,2020-07-10,35.35353535353536
-08,Región de Región del Bíobío,2020-07-11,36.86868686868687
-08,Región de Región del Bíobío,2020-07-12,37.185929648241206
-08,Región de Región del Bíobío,2020-07-13,37.37373737373738
-08,Región de Región del Bíobío,2020-07-14,35.85858585858586
-08,Región de Región del Bíobío,2020-07-15,34.343434343434346
-08,Región de Región del Bíobío,2020-07-16,33.83838383838384
-08,Región de Región del Bíobío,2020-07-17,34.84848484848485
-08,Región de Región del Bíobío,2020-07-18,37.878787878787875
-08,Región de Región del Bíobío,2020-07-19,35.35353535353536
-08,Región de Región del Bíobío,2020-07-20,36.36363636363637
-08,Región de Región del Bíobío,2020-07-21,36.18090452261306
-08,Región de Región del Bíobío,2020-07-22,36.68341708542714
-08,Región de Región del Bíobío,2020-07-23,37.688442211055275
-08,Región de Región del Bíobío,2020-07-24,37.185929648241206
-08,Región de Región del Bíobío,2020-07-25,37.185929648241206
-08,Región de Región del Bíobío,2020-07-26,36.68341708542714
-08,Región de Región del Bíobío,2020-07-27,34.15841584158416
-08,Región de Región del Bíobío,2020-07-28,34.65346534653465
-08,Región de Región del Bíobío,2020-07-29,31.18811881188119
-08,Región de Región del Bíobío,2020-07-30,31.8407960199005
-08,Región de Región del Bíobío,2020-07-31,33.830845771144276
-08,Región de Región del Bíobío,2020-08-01,33.663366336633665
-08,Región de Región del Bíobío,2020-08-02,32.67326732673267
-08,Región de Región del Bíobío,2020-08-03,33.16831683168317
-08,Región de Región del Bíobío,2020-08-04,32.51231527093596
-08,Región de Región del Bíobío,2020-08-05,35.148514851485146
-08,Región de Región del Bíobío,2020-08-06,38.308457711442784
-08,Región de Región del Bíobío,2020-08-07,39.80099502487562
-08,Región de Región del Bíobío,2020-08-08,39.40886699507389
-08,Región de Región del Bíobío,2020-08-09,38.048780487804876
-08,Región de Región del Bíobío,2020-08-10,35.78431372549019
-08,Región de Región del Bíobío,2020-08-11,34.95145631067961
-08,Región de Región del Bíobío,2020-08-12,36.09756097560975
-08,Región de Región del Bíobío,2020-08-13,34.146341463414636
-08,Región de Región del Bíobío,2020-08-14,35.1219512195122
-08,Región de Región del Bíobío,2020-08-15,34.63414634146341
-08,Región de Región del Bíobío,2020-08-16,38.048780487804876
-08,Región de Región del Bíobío,2020-08-17,37.073170731707314
-08,Región de Región del Bíobío,2020-08-18,37.073170731707314
-08,Región de Región del Bíobío,2020-08-19,37.073170731707314
-08,Región de Región del Bíobío,2020-08-20,34.146341463414636
-08,Región de Región del Bíobío,2020-08-21,38.349514563106794
-08,Región de Región del Bíobío,2020-08-22,40.29126213592233
-08,Región de Región del Bíobío,2020-08-23,40.609137055837564
-08,Región de Región del Bíobío,2020-08-24,41.11675126903553
-08,Región de Región del Bíobío,2020-08-25,42.131979695431475
-08,Región de Región del Bíobío,2020-08-26,40.79601990049751
-08,Región de Región del Bíobío,2020-08-27,40.59405940594059
-08,Región de Región del Bíobío,2020-08-28,42.07920792079208
-08,Región de Región del Bíobío,2020-08-29,41.08910891089109
-08,Región de Región del Bíobío,2020-08-30,45.12820512820513
-08,Región de Región del Bíobío,2020-08-31,44.221105527638194
-08,Región de Región del Bíobío,2020-09-01,42.71356783919598
-08,Región de Región del Bíobío,2020-09-02,44.221105527638194
-08,Región de Región del Bíobío,2020-09-03,46.15384615384615
-08,Región de Región del Bíobío,2020-09-04,46.15384615384615
-08,Región de Región del Bíobío,2020-09-05,43.58974358974359
-08,Región de Región del Bíobío,2020-09-06,42.288557213930346
-08,Región de Región del Bíobío,2020-09-07,41.08910891089109
-08,Región de Región del Bíobío,2020-09-08,43.56435643564357
-08,Región de Región del Bíobío,2020-09-09,45.04950495049505
-08,Región de Región del Bíobío,2020-09-10,49.504950495049506
-08,Región de Región del Bíobío,2020-09-11,47.524752475247524
-08,Región de Región del Bíobío,2020-09-12,47.02970297029703
-08,Región de Región del Bíobío,2020-09-13,48.0
-08,Región de Región del Bíobío,2020-09-14,46.231155778894475
-08,Región de Región del Bíobío,2020-09-15,48.743718592964825
-08,Región de Región del Bíobío,2020-09-16,44.27860696517413
-08,Región de Región del Bíobío,2020-09-17,42.58373205741627
-08,Región de Región del Bíobío,2020-09-18,45.933014354066984
-08,Región de Región del Bíobío,2020-09-19,47.36842105263158
-08,Región de Región del Bíobío,2020-09-20,50.239234449760765
-08,Región de Región del Bíobío,2020-09-21,48.803827751196174
-08,Región de Región del Bíobío,2020-09-22,49.760765550239235
-08,Región de Región del Bíobío,2020-09-23,50.476190476190474
-08,Región de Región del Bíobío,2020-09-24,49.523809523809526
-08,Región de Región del Bíobío,2020-09-25,47.142857142857146
-08,Región de Región del Bíobío,2020-09-26,45.23809523809524
-08,Región de Región del Bíobío,2020-09-27,45.714285714285715
-08,Región de Región del Bíobío,2020-09-28,44.71153846153846
-08,Región de Región del Bíobío,2020-09-29,45.67307692307692
-08,Región de Región del Bíobío,2020-09-30,44.71153846153846
-08,Región de Región del Bíobío,2020-10-01,43.26923076923077
-08,Región de Región del Bíobío,2020-10-02,42.58373205741627
-08,Región de Región del Bíobío,2020-10-03,46.411483253588514
-08,Región de Región del Bíobío,2020-10-04,46.411483253588514
-08,Región de Región del Bíobío,2020-10-05,43.54066985645933
-08,Región de Región del Bíobío,2020-10-06,44.49760765550239
-08,Región de Región del Bíobío,2020-10-07,44.01913875598086
-08,Región de Región del Bíobío,2020-10-08,42.10526315789474
-08,Región de Región del Bíobío,2020-10-09,41.6267942583732
-08,Región de Región del Bíobío,2020-10-10,39.42307692307692
-08,Región de Región del Bíobío,2020-10-11,37.01923076923077
-08,Región de Región del Bíobío,2020-10-12,37.5
-08,Región de Región del Bíobío,2020-10-13,36.53846153846154
-08,Región de Región del Bíobío,2020-10-14,37.98076923076923
-08,Región de Región del Bíobío,2020-10-15,41.34615384615385
-08,Región de Región del Bíobío,2020-10-16,41.42857142857143
-08,Región de Región del Bíobío,2020-10-17,40.28436018957346
-08,Región de Región del Bíobío,2020-10-18,38.27751196172249
-08,Región de Región del Bíobío,2020-10-19,39.71291866028708
-08,Región de Región del Bíobío,2020-10-20,40.19138755980861
-08,Región de Región del Bíobío,2020-10-21,39.523809523809526
-08,Región de Región del Bíobío,2020-10-22,40.20618556701031
-08,Región de Región del Bíobío,2020-10-23,40.20618556701031
-08,Región de Región del Bíobío,2020-10-24,38.97435897435897
-08,Región de Región del Bíobío,2020-10-25,37.94871794871795
-08,Región de Región del Bíobío,2020-10-26,36.41025641025641
-08,Región de Región del Bíobío,2020-10-27,36.08247422680412
-08,Región de Región del Bíobío,2020-10-28,38.65979381443299
-08,Región de Región del Bíobío,2020-10-29,42.2680412371134
-08,Región de Región del Bíobío,2020-10-30,43.81443298969072
-08,Región de Región del Bíobío,2020-10-31,43.81443298969072
-08,Región de Región del Bíobío,2020-11-01,41.326530612244895
-08,Región de Región del Bíobío,2020-11-02,42.5531914893617
-08,Región de Región del Bíobío,2020-11-03,42.5531914893617
-08,Región de Región del Bíobío,2020-11-04,43.61702127659574
-08,Región de Región del Bíobío,2020-11-05,42.40837696335078
-08,Región de Región del Bíobío,2020-11-06,41.145833333333336
-08,Región de Región del Bíobío,2020-11-07,43.75
-08,Región de Región del Bíobío,2020-11-08,44.270833333333336
-08,Región de Región del Bíobío,2020-11-09,46.875
-08,Región de Región del Bíobío,2020-11-10,46.875
-08,Región de Región del Bíobío,2020-11-11,52.083333333333336
-08,Región de Región del Bíobío,2020-11-12,49.48453608247423
-08,Región de Región del Bíobío,2020-11-13,50.0
-08,Región de Región del Bíobío,2020-11-14,50.51546391752577
-08,Región de Región del Bíobío,2020-11-15,50.51546391752577
-08,Región de Región del Bíobío,2020-11-16,48.96907216494845
-08,Región de Región del Bíobío,2020-11-17,50.51546391752577
-08,Región de Región del Bíobío,2020-11-18,49.23076923076923
-08,Región de Región del Bíobío,2020-11-19,50.0
-08,Región de Región del Bíobío,2020-11-20,51.5625
-08,Región de Región del Bíobío,2020-11-21,52.30769230769231
-08,Región de Región del Bíobío,2020-11-22,50.256410256410255
-08,Región de Región del Bíobío,2020-11-23,51.794871794871796
+05,Región de Región de Valparaíso,2020-11-24,29.64824120603015
+05,Región de Región de Valparaíso,2020-11-25,29.0
+05,Región de Región de Valparaíso,2020-11-26,30.65326633165829
+05,Región de Región de Valparaíso,2020-11-27,29.5
+05,Región de Región de Valparaíso,2020-11-28,31.0
+05,Región de Región de Valparaíso,2020-11-29,26.0
+05,Región de Región de Valparaíso,2020-11-30,27.0
+05,Región de Región de Valparaíso,2020-12-01,28.5
+05,Región de Región de Valparaíso,2020-12-02,28.35820895522388
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-14,8.474576271186441
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-15,10.344827586206897
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-16,6.896551724137931
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-17,6.153846153846154
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-18,6.557377049180328
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-19,6.557377049180328
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-20,6.557377049180328
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-21,5.172413793103448
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-22,6.896551724137931
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-23,6.896551724137931
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-24,7.142857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-25,7.142857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-26,7.142857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-27,7.017543859649122
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-28,8.474576271186441
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-29,6.779661016949152
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-04-30,8.474576271186441
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-01,10.169491525423728
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-02,8.333333333333334
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-03,7.6923076923076925
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-04,7.6923076923076925
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-05,10.9375
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-06,7.8125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-07,9.375
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-08,9.375
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-09,7.8125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-10,7.8125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-11,7.8125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-12,9.523809523809524
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-13,10.9375
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-14,12.307692307692308
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-15,10.76923076923077
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-16,15.151515151515152
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-17,14.925373134328359
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-18,13.432835820895523
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-19,13.432835820895523
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-20,20.895522388059703
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-21,22.22222222222222
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-22,30.555555555555557
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-23,29.62962962962963
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-24,32.098765432098766
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-25,30.232558139534884
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-26,32.18390804597701
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-27,33.70786516853933
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-28,36.666666666666664
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-29,36.666666666666664
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-30,43.333333333333336
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-05-31,44.44444444444444
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-01,44.44444444444444
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-02,40.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-03,32.63157894736842
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-04,32.63157894736842
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-05,36.8421052631579
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-06,36.8421052631579
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-07,37.89473684210526
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-08,37.89473684210526
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-09,35.05154639175258
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-10,37.37373737373738
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-11,36.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-12,38.38383838383838
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-13,36.53846153846154
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-14,36.53846153846154
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-15,40.38461538461539
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-16,40.38461538461539
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-17,40.38461538461539
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-18,38.05309734513274
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-19,46.42857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-20,50.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-21,48.760330578512395
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-22,48.760330578512395
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-23,45.3125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-24,52.713178294573645
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-25,69.6
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-26,70.63492063492063
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-27,71.09375
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-28,75.2
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-29,74.4
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-06-30,76.61290322580645
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-01,78.2258064516129
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-02,82.03125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-03,75.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-04,79.67479674796748
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-05,75.93984962406014
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-06,75.18796992481202
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-07,75.93984962406014
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-08,73.6842105263158
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-09,72.18045112781955
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-10,70.37037037037037
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-11,70.37037037037037
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-12,65.92592592592592
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-13,65.18518518518519
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-14,62.22222222222222
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-15,60.74074074074074
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-16,55.55555555555556
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-17,49.6551724137931
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-18,51.04895104895105
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-19,50.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-20,53.191489361702125
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-21,53.57142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-22,45.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-23,46.478873239436616
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-24,45.39007092198582
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-25,42.25352112676056
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-26,45.070422535211264
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-27,46.478873239436616
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-28,41.54929577464789
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-29,39.436619718309856
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-30,33.80281690140845
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-07-31,35.2112676056338
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-01,35.2112676056338
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-02,36.170212765957444
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-03,36.170212765957444
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-04,37.5886524822695
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-05,33.80281690140845
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-06,31.57894736842105
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-07,32.83582089552239
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-08,33.83458646616541
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-09,33.582089552238806
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-10,34.32835820895522
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-11,35.07462686567164
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-12,33.07086614173228
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-13,40.16393442622951
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-14,40.17094017094017
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-15,41.07142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-16,46.601941747572816
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-17,46.601941747572816
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-18,45.63106796116505
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-19,35.13513513513514
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-20,32.432432432432435
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-21,37.83783783783784
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-22,37.16814159292036
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-23,40.54054054054054
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-24,41.07142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-25,41.07142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-26,38.73873873873874
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-27,40.54054054054054
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-28,42.34234234234234
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-29,38.73873873873874
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-30,40.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-08-31,44.76190476190476
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-01,46.666666666666664
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-02,43.39622641509434
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-03,42.20183486238532
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-04,42.05607476635514
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-05,44.03669724770642
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-06,42.34234234234234
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-07,41.964285714285715
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-08,43.24324324324324
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-09,44.03669724770642
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-10,37.83783783783784
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-11,44.03669724770642
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-12,43.63636363636363
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-13,47.27272727272727
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-14,47.747747747747745
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-15,47.747747747747745
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-16,49.09090909090909
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-17,49.549549549549546
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-18,49.09090909090909
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-19,49.107142857142854
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-20,50.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-21,51.785714285714285
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-22,52.67857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-23,46.36363636363637
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-24,48.214285714285715
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-25,43.47826086956522
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-26,43.75
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-27,43.75
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-28,44.24778761061947
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-29,44.24778761061947
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-09-30,39.285714285714285
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-01,41.07142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-02,42.857142857142854
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-03,42.47787610619469
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-04,40.35087719298246
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-05,40.35087719298246
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-06,41.228070175438596
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-07,41.07142857142857
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-08,33.92857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-09,44.642857142857146
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-10,46.42857142857143
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-11,43.36283185840708
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-12,42.98245614035088
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-13,42.608695652173914
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-14,43.75
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-15,41.5929203539823
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-16,46.017699115044245
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-17,45.535714285714285
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-18,43.36283185840708
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-19,44.24778761061947
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-20,42.73504273504273
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-21,43.63636363636363
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-22,46.601941747572816
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-23,48.03921568627451
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-24,44.11764705882353
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-25,42.57425742574257
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-26,41.584158415841586
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-27,42.57425742574257
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-28,44.0
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-29,47.82608695652174
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-30,51.578947368421055
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-10-31,49.473684210526315
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-01,50.526315789473685
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-02,47.87234042553192
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-03,46.808510638297875
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-04,45.744680851063826
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-05,45.16129032258065
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-06,44.086021505376344
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-07,44.56521739130435
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-08,46.236559139784944
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-09,46.236559139784944
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-10,46.236559139784944
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-11,45.16129032258065
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-12,45.16129032258065
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-13,45.16129032258065
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-14,44.086021505376344
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-15,47.31182795698925
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-16,43.956043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-17,43.956043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-18,42.857142857142854
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-19,43.956043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-20,40.65934065934066
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-21,41.75824175824176
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-22,39.56043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-23,40.65934065934066
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-24,39.56043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-25,39.56043956043956
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-26,35.16483516483517
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-27,35.16483516483517
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-28,35.16483516483517
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-29,36.26373626373626
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-11-30,34.065934065934066
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-12-01,34.065934065934066
+06,Región de Región de Libertador General Bernardo O'Higgins,2020-12-02,34.09090909090909
+07,Región de Región de Maule,2020-04-14,30.0
+07,Región de Región de Maule,2020-04-15,30.0
+07,Región de Región de Maule,2020-04-16,26.0
+07,Región de Región de Maule,2020-04-17,24.0
+07,Región de Región de Maule,2020-04-18,24.0
+07,Región de Región de Maule,2020-04-19,30.0
+07,Región de Región de Maule,2020-04-20,18.0
+07,Región de Región de Maule,2020-04-21,28.0
+07,Región de Región de Maule,2020-04-22,20.0
+07,Región de Región de Maule,2020-04-23,18.0
+07,Región de Región de Maule,2020-04-24,18.0
+07,Región de Región de Maule,2020-04-25,16.0
+07,Región de Región de Maule,2020-04-26,20.0
+07,Región de Región de Maule,2020-04-27,20.0
+07,Región de Región de Maule,2020-04-28,15.686274509803921
+07,Región de Región de Maule,2020-04-29,13.72549019607843
+07,Región de Región de Maule,2020-04-30,11.764705882352942
+07,Región de Región de Maule,2020-05-01,8.620689655172415
+07,Región de Región de Maule,2020-05-02,8.620689655172415
+07,Región de Región de Maule,2020-05-03,13.793103448275861
+07,Región de Región de Maule,2020-05-04,13.793103448275861
+07,Región de Región de Maule,2020-05-05,12.068965517241379
+07,Región de Región de Maule,2020-05-06,6.896551724137931
+07,Región de Región de Maule,2020-05-07,6.896551724137931
+07,Región de Región de Maule,2020-05-08,6.896551724137931
+07,Región de Región de Maule,2020-05-09,6.896551724137931
+07,Región de Región de Maule,2020-05-10,6.896551724137931
+07,Región de Región de Maule,2020-05-11,8.620689655172415
+07,Región de Región de Maule,2020-05-12,10.344827586206897
+07,Región de Región de Maule,2020-05-13,10.344827586206897
+07,Región de Región de Maule,2020-05-14,10.344827586206897
+07,Región de Región de Maule,2020-05-15,10.344827586206897
+07,Región de Región de Maule,2020-05-16,13.793103448275861
+07,Región de Región de Maule,2020-05-17,13.793103448275861
+07,Región de Región de Maule,2020-05-18,13.793103448275861
+07,Región de Región de Maule,2020-05-19,13.793103448275861
+07,Región de Región de Maule,2020-05-20,13.793103448275861
+07,Región de Región de Maule,2020-05-21,16.949152542372882
+07,Región de Región de Maule,2020-05-22,27.11864406779661
+07,Región de Región de Maule,2020-05-23,25.423728813559322
+07,Región de Región de Maule,2020-05-24,30.508474576271187
+07,Región de Región de Maule,2020-05-25,37.28813559322034
+07,Región de Región de Maule,2020-05-26,42.3728813559322
+07,Región de Región de Maule,2020-05-27,48.333333333333336
+07,Región de Región de Maule,2020-05-28,54.09836065573771
+07,Región de Región de Maule,2020-05-29,59.01639344262295
+07,Región de Región de Maule,2020-05-30,61.904761904761905
+07,Región de Región de Maule,2020-05-31,60.317460317460316
+07,Región de Región de Maule,2020-06-01,61.904761904761905
+07,Región de Región de Maule,2020-06-02,60.9375
+07,Región de Región de Maule,2020-06-03,67.1875
+07,Región de Región de Maule,2020-06-04,75.0
+07,Región de Región de Maule,2020-06-05,64.0625
+07,Región de Región de Maule,2020-06-06,60.0
+07,Región de Región de Maule,2020-06-07,53.84615384615385
+07,Región de Región de Maule,2020-06-08,62.82051282051282
+07,Región de Región de Maule,2020-06-09,56.41025641025641
+07,Región de Región de Maule,2020-06-10,55.0
+07,Región de Región de Maule,2020-06-11,55.69620253164557
+07,Región de Región de Maule,2020-06-12,66.66666666666667
+07,Región de Región de Maule,2020-06-13,64.1025641025641
+07,Región de Región de Maule,2020-06-14,64.1025641025641
+07,Región de Región de Maule,2020-06-15,61.53846153846154
+07,Región de Región de Maule,2020-06-16,66.66666666666667
+07,Región de Región de Maule,2020-06-17,69.23076923076923
+07,Región de Región de Maule,2020-06-18,67.07317073170732
+07,Región de Región de Maule,2020-06-19,68.29268292682927
+07,Región de Región de Maule,2020-06-20,67.04545454545455
+07,Región de Región de Maule,2020-06-21,69.31818181818181
+07,Región de Región de Maule,2020-06-22,75.0
+07,Región de Región de Maule,2020-06-23,76.13636363636364
+07,Región de Región de Maule,2020-06-24,79.54545454545455
+07,Región de Región de Maule,2020-06-25,67.04545454545455
+07,Región de Región de Maule,2020-06-26,73.5632183908046
+07,Región de Región de Maule,2020-06-27,58.333333333333336
+07,Región de Región de Maule,2020-06-28,57.291666666666664
+07,Región de Región de Maule,2020-06-29,58.58585858585859
+07,Región de Región de Maule,2020-06-30,58.58585858585859
+07,Región de Región de Maule,2020-07-01,52.525252525252526
+07,Región de Región de Maule,2020-07-02,51.0
+07,Región de Región de Maule,2020-07-03,58.0
+07,Región de Región de Maule,2020-07-04,55.96330275229358
+07,Región de Región de Maule,2020-07-05,53.63636363636363
+07,Región de Región de Maule,2020-07-06,54.12844036697248
+07,Región de Región de Maule,2020-07-07,57.407407407407405
+07,Región de Región de Maule,2020-07-08,49.166666666666664
+07,Región de Región de Maule,2020-07-09,47.5
+07,Región de Región de Maule,2020-07-10,41.80327868852459
+07,Región de Región de Maule,2020-07-11,48.24561403508772
+07,Región de Región de Maule,2020-07-12,48.69565217391305
+07,Región de Región de Maule,2020-07-13,46.95652173913044
+07,Región de Región de Maule,2020-07-14,40.0
+07,Región de Región de Maule,2020-07-15,41.73913043478261
+07,Región de Región de Maule,2020-07-16,44.34782608695652
+07,Región de Región de Maule,2020-07-17,42.98245614035088
+07,Región de Región de Maule,2020-07-18,45.13274336283186
+07,Región de Región de Maule,2020-07-19,44.24778761061947
+07,Región de Región de Maule,2020-07-20,44.73684210526316
+07,Región de Región de Maule,2020-07-21,46.95652173913044
+07,Región de Región de Maule,2020-07-22,46.08695652173913
+07,Región de Región de Maule,2020-07-23,45.21739130434783
+07,Región de Región de Maule,2020-07-24,43.47826086956522
+07,Región de Región de Maule,2020-07-25,40.869565217391305
+07,Región de Región de Maule,2020-07-26,46.017699115044245
+07,Región de Región de Maule,2020-07-27,46.017699115044245
+07,Región de Región de Maule,2020-07-28,43.36283185840708
+07,Región de Región de Maule,2020-07-29,38.59649122807018
+07,Región de Región de Maule,2020-07-30,33.92857142857143
+07,Región de Región de Maule,2020-07-31,32.142857142857146
+07,Región de Región de Maule,2020-08-01,32.142857142857146
+07,Región de Región de Maule,2020-08-02,30.357142857142858
+07,Región de Región de Maule,2020-08-03,28.571428571428573
+07,Región de Región de Maule,2020-08-04,26.785714285714285
+07,Región de Región de Maule,2020-08-05,28.571428571428573
+07,Región de Región de Maule,2020-08-06,28.571428571428573
+07,Región de Región de Maule,2020-08-07,25.892857142857142
+07,Región de Región de Maule,2020-08-08,26.548672566371682
+07,Región de Región de Maule,2020-08-09,26.548672566371682
+07,Región de Región de Maule,2020-08-10,23.214285714285715
+07,Región de Región de Maule,2020-08-11,24.107142857142858
+07,Región de Región de Maule,2020-08-12,27.678571428571427
+07,Región de Región de Maule,2020-08-13,29.464285714285715
+07,Región de Región de Maule,2020-08-14,26.548672566371682
+07,Región de Región de Maule,2020-08-15,24.778761061946902
+07,Región de Región de Maule,2020-08-16,22.123893805309734
+07,Región de Región de Maule,2020-08-17,21.05263157894737
+07,Región de Región de Maule,2020-08-18,21.92982456140351
+07,Región de Región de Maule,2020-08-19,21.238938053097346
+07,Región de Región de Maule,2020-08-20,20.353982300884955
+07,Región de Región de Maule,2020-08-21,18.58407079646018
+07,Región de Región de Maule,2020-08-22,23.008849557522122
+07,Región de Región de Maule,2020-08-23,23.893805309734514
+07,Región de Región de Maule,2020-08-24,23.893805309734514
+07,Región de Región de Maule,2020-08-25,26.548672566371682
+07,Región de Región de Maule,2020-08-26,24.778761061946902
+07,Región de Región de Maule,2020-08-27,23.893805309734514
+07,Región de Región de Maule,2020-08-28,30.088495575221238
+07,Región de Región de Maule,2020-08-29,29.20353982300885
+07,Región de Región de Maule,2020-08-30,28.31858407079646
+07,Región de Región de Maule,2020-08-31,30.088495575221238
+07,Región de Región de Maule,2020-09-01,30.088495575221238
+07,Región de Región de Maule,2020-09-02,30.97345132743363
+07,Región de Región de Maule,2020-09-03,28.31858407079646
+07,Región de Región de Maule,2020-09-04,30.088495575221238
+07,Región de Región de Maule,2020-09-05,30.088495575221238
+07,Región de Región de Maule,2020-09-06,33.6283185840708
+07,Región de Región de Maule,2020-09-07,30.97345132743363
+07,Región de Región de Maule,2020-09-08,31.858407079646017
+07,Región de Región de Maule,2020-09-09,33.333333333333336
+07,Región de Región de Maule,2020-09-10,38.59649122807018
+07,Región de Región de Maule,2020-09-11,39.130434782608695
+07,Región de Región de Maule,2020-09-12,40.0
+07,Región de Región de Maule,2020-09-13,40.869565217391305
+07,Región de Región de Maule,2020-09-14,40.0
+07,Región de Región de Maule,2020-09-15,34.78260869565217
+07,Región de Región de Maule,2020-09-16,35.96491228070175
+07,Región de Región de Maule,2020-09-17,34.21052631578947
+07,Región de Región de Maule,2020-09-18,34.21052631578947
+07,Región de Región de Maule,2020-09-19,31.57894736842105
+07,Región de Región de Maule,2020-09-20,31.57894736842105
+07,Región de Región de Maule,2020-09-21,35.08771929824562
+07,Región de Región de Maule,2020-09-22,36.8421052631579
+07,Región de Región de Maule,2020-09-23,37.60683760683761
+07,Región de Región de Maule,2020-09-24,32.47863247863248
+07,Región de Región de Maule,2020-09-25,38.46153846153846
+07,Región de Región de Maule,2020-09-26,42.73504273504273
+07,Región de Región de Maule,2020-09-27,40.17094017094017
+07,Región de Región de Maule,2020-09-28,40.17094017094017
+07,Región de Región de Maule,2020-09-29,37.60683760683761
+07,Región de Región de Maule,2020-09-30,36.75213675213675
+07,Región de Región de Maule,2020-10-01,36.0655737704918
+07,Región de Región de Maule,2020-10-02,35.24590163934426
+07,Región de Región de Maule,2020-10-03,37.704918032786885
+07,Región de Región de Maule,2020-10-04,35.24590163934426
+07,Región de Región de Maule,2020-10-05,30.578512396694215
+07,Región de Región de Maule,2020-10-06,30.578512396694215
+07,Región de Región de Maule,2020-10-07,33.92857142857143
+07,Región de Región de Maule,2020-10-08,33.92857142857143
+07,Región de Región de Maule,2020-10-09,32.142857142857146
+07,Región de Región de Maule,2020-10-10,38.73873873873874
+07,Región de Región de Maule,2020-10-11,32.142857142857146
+07,Región de Región de Maule,2020-10-12,29.464285714285715
+07,Región de Región de Maule,2020-10-13,29.464285714285715
+07,Región de Región de Maule,2020-10-14,27.678571428571427
+07,Región de Región de Maule,2020-10-15,27.92792792792793
+07,Región de Región de Maule,2020-10-16,29.464285714285715
+07,Región de Región de Maule,2020-10-17,29.464285714285715
+07,Región de Región de Maule,2020-10-18,26.785714285714285
+07,Región de Región de Maule,2020-10-19,25.892857142857142
+07,Región de Región de Maule,2020-10-20,25.0
+07,Región de Región de Maule,2020-10-21,24.107142857142858
+07,Región de Región de Maule,2020-10-22,21.428571428571427
+07,Región de Región de Maule,2020-10-23,22.321428571428573
+07,Región de Región de Maule,2020-10-24,22.321428571428573
+07,Región de Región de Maule,2020-10-25,23.214285714285715
+07,Región de Región de Maule,2020-10-26,22.123893805309734
+07,Región de Región de Maule,2020-10-27,21.238938053097346
+07,Región de Región de Maule,2020-10-28,21.428571428571427
+07,Región de Región de Maule,2020-10-29,23.214285714285715
+07,Región de Región de Maule,2020-10-30,24.56140350877193
+07,Región de Región de Maule,2020-10-31,25.0
+07,Región de Región de Maule,2020-11-01,23.214285714285715
+07,Región de Región de Maule,2020-11-02,20.535714285714285
+07,Región de Región de Maule,2020-11-03,22.321428571428573
+07,Región de Región de Maule,2020-11-04,22.321428571428573
+07,Región de Región de Maule,2020-11-05,20.535714285714285
+07,Región de Región de Maule,2020-11-06,18.75
+07,Región de Región de Maule,2020-11-07,16.964285714285715
+07,Región de Región de Maule,2020-11-08,16.071428571428573
+07,Región de Región de Maule,2020-11-09,16.964285714285715
+07,Región de Región de Maule,2020-11-10,16.071428571428573
+07,Región de Región de Maule,2020-11-11,16.964285714285715
+07,Región de Región de Maule,2020-11-12,16.964285714285715
+07,Región de Región de Maule,2020-11-13,16.964285714285715
+07,Región de Región de Maule,2020-11-14,15.178571428571429
+07,Región de Región de Maule,2020-11-15,14.285714285714286
+07,Región de Región de Maule,2020-11-16,15.178571428571429
+07,Región de Región de Maule,2020-11-17,18.75
+07,Región de Región de Maule,2020-11-18,18.75
+07,Región de Región de Maule,2020-11-19,16.071428571428573
+07,Región de Región de Maule,2020-11-20,16.964285714285715
+07,Región de Región de Maule,2020-11-21,16.964285714285715
+07,Región de Región de Maule,2020-11-22,15.178571428571429
+07,Región de Región de Maule,2020-11-23,16.071428571428573
+07,Región de Región de Maule,2020-11-24,16.8141592920354
+07,Región de Región de Maule,2020-11-25,16.666666666666668
+07,Región de Región de Maule,2020-11-26,16.8141592920354
+07,Región de Región de Maule,2020-11-27,18.58407079646018
+07,Región de Región de Maule,2020-11-28,15.929203539823009
+07,Región de Región de Maule,2020-11-29,25.333333333333332
+07,Región de Región de Maule,2020-11-30,21.333333333333332
+07,Región de Región de Maule,2020-12-01,21.333333333333332
+07,Región de Región de Maule,2020-12-02,24.0
+08,Región de Región de Bíobío,2020-04-14,28.0
+08,Región de Región de Bíobío,2020-04-15,26.31578947368421
+08,Región de Región de Bíobío,2020-04-16,21.428571428571427
+08,Región de Región de Bíobío,2020-04-17,19.148936170212767
+08,Región de Región de Bíobío,2020-04-18,17.73049645390071
+08,Región de Región de Bíobío,2020-04-19,18.571428571428573
+08,Región de Región de Bíobío,2020-04-20,18.055555555555557
+08,Región de Región de Bíobío,2020-04-21,17.36111111111111
+08,Región de Región de Bíobío,2020-04-22,16.89189189189189
+08,Región de Región de Bíobío,2020-04-23,16.778523489932887
+08,Región de Región de Bíobío,2020-04-24,14.965986394557824
+08,Región de Región de Bíobío,2020-04-25,14.666666666666666
+08,Región de Región de Bíobío,2020-04-26,15.333333333333334
+08,Región de Región de Bíobío,2020-04-27,15.789473684210526
+08,Región de Región de Bíobío,2020-04-28,14.093959731543624
+08,Región de Región de Bíobío,2020-04-29,14.666666666666666
+08,Región de Región de Bíobío,2020-04-30,14.666666666666666
+08,Región de Región de Bíobío,2020-05-01,15.436241610738255
+08,Región de Región de Bíobío,2020-05-02,14.18918918918919
+08,Región de Región de Bíobío,2020-05-03,14.084507042253522
+08,Región de Región de Bíobío,2020-05-04,12.67605633802817
+08,Región de Región de Bíobío,2020-05-05,12.857142857142858
+08,Región de Región de Bíobío,2020-05-06,10.714285714285714
+08,Región de Región de Bíobío,2020-05-07,10.0
+08,Región de Región de Bíobío,2020-05-08,10.526315789473685
+08,Región de Región de Bíobío,2020-05-09,11.842105263157896
+08,Región de Región de Bíobío,2020-05-10,13.013698630136986
+08,Región de Región de Bíobío,2020-05-11,12.244897959183673
+08,Región de Región de Bíobío,2020-05-12,11.564625850340136
+08,Región de Región de Bíobío,2020-05-13,9.523809523809524
+08,Región de Región de Bíobío,2020-05-14,8.088235294117647
+08,Región de Región de Bíobío,2020-05-15,8.823529411764707
+08,Región de Región de Bíobío,2020-05-16,9.523809523809524
+08,Región de Región de Bíobío,2020-05-17,9.523809523809524
+08,Región de Región de Bíobío,2020-05-18,11.643835616438356
+08,Región de Región de Bíobío,2020-05-19,11.920529801324504
+08,Región de Región de Bíobío,2020-05-20,12.666666666666666
+08,Región de Región de Bíobío,2020-05-21,15.646258503401361
+08,Región de Región de Bíobío,2020-05-22,14.18918918918919
+08,Región de Región de Bíobío,2020-05-23,14.743589743589743
+08,Región de Región de Bíobío,2020-05-24,13.836477987421384
+08,Región de Región de Bíobío,2020-05-25,14.110429447852761
+08,Región de Región de Bíobío,2020-05-26,16.25
+08,Región de Región de Bíobío,2020-05-27,15.853658536585366
+08,Región de Región de Bíobío,2020-05-28,16.95906432748538
+08,Región de Región de Bíobío,2020-05-29,18.674698795180724
+08,Región de Región de Bíobío,2020-05-30,19.161676646706585
+08,Región de Región de Bíobío,2020-05-31,17.857142857142858
+08,Región de Región de Bíobío,2020-06-01,19.526627218934912
+08,Región de Región de Bíobío,2020-06-02,22.424242424242426
+08,Región de Región de Bíobío,2020-06-03,23.353293413173652
+08,Región de Región de Bíobío,2020-06-04,25.294117647058822
+08,Región de Región de Bíobío,2020-06-05,26.704545454545453
+08,Región de Región de Bíobío,2020-06-06,26.595744680851062
+08,Región de Región de Bíobío,2020-06-07,25.0
+08,Región de Región de Bíobío,2020-06-08,24.33862433862434
+08,Región de Región de Bíobío,2020-06-09,24.864864864864863
+08,Región de Región de Bíobío,2020-06-10,23.68421052631579
+08,Región de Región de Bíobío,2020-06-11,27.807486631016044
+08,Región de Región de Bíobío,2020-06-12,29.891304347826086
+08,Región de Región de Bíobío,2020-06-13,36.26373626373626
+08,Región de Región de Bíobío,2020-06-14,37.362637362637365
+08,Región de Región de Bíobío,2020-06-15,39.34426229508197
+08,Región de Región de Bíobío,2020-06-16,35.483870967741936
+08,Región de Región de Bíobío,2020-06-17,33.87096774193548
+08,Región de Región de Bíobío,2020-06-18,32.972972972972975
+08,Región de Región de Bíobío,2020-06-19,34.23913043478261
+08,Región de Región de Bíobío,2020-06-20,36.0655737704918
+08,Región de Región de Bíobío,2020-06-21,36.95652173913044
+08,Región de Región de Bíobío,2020-06-22,35.67567567567568
+08,Región de Región de Bíobío,2020-06-23,36.75675675675676
+08,Región de Región de Bíobío,2020-06-24,34.40860215053763
+08,Región de Región de Bíobío,2020-06-25,36.75675675675676
+08,Región de Región de Bíobío,2020-06-26,37.096774193548384
+08,Región de Región de Bíobío,2020-06-27,38.70967741935484
+08,Región de Región de Bíobío,2020-06-28,37.096774193548384
+08,Región de Región de Bíobío,2020-06-29,35.13513513513514
+08,Región de Región de Bíobío,2020-06-30,38.797814207650276
+08,Región de Región de Bíobío,2020-07-01,38.25136612021858
+08,Región de Región de Bíobío,2020-07-02,38.797814207650276
+08,Región de Región de Bíobío,2020-07-03,38.25136612021858
+08,Región de Región de Bíobío,2020-07-04,36.507936507936506
+08,Región de Región de Bíobío,2020-07-05,34.73684210526316
+08,Región de Región de Bíobío,2020-07-06,34.375
+08,Región de Región de Bíobío,2020-07-07,33.333333333333336
+08,Región de Región de Bíobío,2020-07-08,35.26315789473684
+08,Región de Región de Bíobío,2020-07-09,33.66834170854271
+08,Región de Región de Bíobío,2020-07-10,35.35353535353536
+08,Región de Región de Bíobío,2020-07-11,36.86868686868687
+08,Región de Región de Bíobío,2020-07-12,37.185929648241206
+08,Región de Región de Bíobío,2020-07-13,37.37373737373738
+08,Región de Región de Bíobío,2020-07-14,35.85858585858586
+08,Región de Región de Bíobío,2020-07-15,34.343434343434346
+08,Región de Región de Bíobío,2020-07-16,33.83838383838384
+08,Región de Región de Bíobío,2020-07-17,34.84848484848485
+08,Región de Región de Bíobío,2020-07-18,37.878787878787875
+08,Región de Región de Bíobío,2020-07-19,35.35353535353536
+08,Región de Región de Bíobío,2020-07-20,36.36363636363637
+08,Región de Región de Bíobío,2020-07-21,36.18090452261306
+08,Región de Región de Bíobío,2020-07-22,36.68341708542714
+08,Región de Región de Bíobío,2020-07-23,37.688442211055275
+08,Región de Región de Bíobío,2020-07-24,37.185929648241206
+08,Región de Región de Bíobío,2020-07-25,37.185929648241206
+08,Región de Región de Bíobío,2020-07-26,36.68341708542714
+08,Región de Región de Bíobío,2020-07-27,34.15841584158416
+08,Región de Región de Bíobío,2020-07-28,34.65346534653465
+08,Región de Región de Bíobío,2020-07-29,31.18811881188119
+08,Región de Región de Bíobío,2020-07-30,31.8407960199005
+08,Región de Región de Bíobío,2020-07-31,33.830845771144276
+08,Región de Región de Bíobío,2020-08-01,33.663366336633665
+08,Región de Región de Bíobío,2020-08-02,32.67326732673267
+08,Región de Región de Bíobío,2020-08-03,33.16831683168317
+08,Región de Región de Bíobío,2020-08-04,32.51231527093596
+08,Región de Región de Bíobío,2020-08-05,35.148514851485146
+08,Región de Región de Bíobío,2020-08-06,38.308457711442784
+08,Región de Región de Bíobío,2020-08-07,39.80099502487562
+08,Región de Región de Bíobío,2020-08-08,39.40886699507389
+08,Región de Región de Bíobío,2020-08-09,38.048780487804876
+08,Región de Región de Bíobío,2020-08-10,35.78431372549019
+08,Región de Región de Bíobío,2020-08-11,34.95145631067961
+08,Región de Región de Bíobío,2020-08-12,36.09756097560975
+08,Región de Región de Bíobío,2020-08-13,34.146341463414636
+08,Región de Región de Bíobío,2020-08-14,35.1219512195122
+08,Región de Región de Bíobío,2020-08-15,34.63414634146341
+08,Región de Región de Bíobío,2020-08-16,38.048780487804876
+08,Región de Región de Bíobío,2020-08-17,37.073170731707314
+08,Región de Región de Bíobío,2020-08-18,37.073170731707314
+08,Región de Región de Bíobío,2020-08-19,37.073170731707314
+08,Región de Región de Bíobío,2020-08-20,34.146341463414636
+08,Región de Región de Bíobío,2020-08-21,38.349514563106794
+08,Región de Región de Bíobío,2020-08-22,40.29126213592233
+08,Región de Región de Bíobío,2020-08-23,40.609137055837564
+08,Región de Región de Bíobío,2020-08-24,41.11675126903553
+08,Región de Región de Bíobío,2020-08-25,42.131979695431475
+08,Región de Región de Bíobío,2020-08-26,40.79601990049751
+08,Región de Región de Bíobío,2020-08-27,40.59405940594059
+08,Región de Región de Bíobío,2020-08-28,42.07920792079208
+08,Región de Región de Bíobío,2020-08-29,41.08910891089109
+08,Región de Región de Bíobío,2020-08-30,45.12820512820513
+08,Región de Región de Bíobío,2020-08-31,44.221105527638194
+08,Región de Región de Bíobío,2020-09-01,42.71356783919598
+08,Región de Región de Bíobío,2020-09-02,44.221105527638194
+08,Región de Región de Bíobío,2020-09-03,46.15384615384615
+08,Región de Región de Bíobío,2020-09-04,46.15384615384615
+08,Región de Región de Bíobío,2020-09-05,43.58974358974359
+08,Región de Región de Bíobío,2020-09-06,42.288557213930346
+08,Región de Región de Bíobío,2020-09-07,41.08910891089109
+08,Región de Región de Bíobío,2020-09-08,43.56435643564357
+08,Región de Región de Bíobío,2020-09-09,45.04950495049505
+08,Región de Región de Bíobío,2020-09-10,49.504950495049506
+08,Región de Región de Bíobío,2020-09-11,47.524752475247524
+08,Región de Región de Bíobío,2020-09-12,47.02970297029703
+08,Región de Región de Bíobío,2020-09-13,48.0
+08,Región de Región de Bíobío,2020-09-14,46.231155778894475
+08,Región de Región de Bíobío,2020-09-15,48.743718592964825
+08,Región de Región de Bíobío,2020-09-16,44.27860696517413
+08,Región de Región de Bíobío,2020-09-17,42.58373205741627
+08,Región de Región de Bíobío,2020-09-18,45.933014354066984
+08,Región de Región de Bíobío,2020-09-19,47.36842105263158
+08,Región de Región de Bíobío,2020-09-20,50.239234449760765
+08,Región de Región de Bíobío,2020-09-21,48.803827751196174
+08,Región de Región de Bíobío,2020-09-22,49.760765550239235
+08,Región de Región de Bíobío,2020-09-23,50.476190476190474
+08,Región de Región de Bíobío,2020-09-24,49.523809523809526
+08,Región de Región de Bíobío,2020-09-25,47.142857142857146
+08,Región de Región de Bíobío,2020-09-26,45.23809523809524
+08,Región de Región de Bíobío,2020-09-27,45.714285714285715
+08,Región de Región de Bíobío,2020-09-28,44.71153846153846
+08,Región de Región de Bíobío,2020-09-29,45.67307692307692
+08,Región de Región de Bíobío,2020-09-30,44.71153846153846
+08,Región de Región de Bíobío,2020-10-01,43.26923076923077
+08,Región de Región de Bíobío,2020-10-02,42.58373205741627
+08,Región de Región de Bíobío,2020-10-03,46.411483253588514
+08,Región de Región de Bíobío,2020-10-04,46.411483253588514
+08,Región de Región de Bíobío,2020-10-05,43.54066985645933
+08,Región de Región de Bíobío,2020-10-06,44.49760765550239
+08,Región de Región de Bíobío,2020-10-07,44.01913875598086
+08,Región de Región de Bíobío,2020-10-08,42.10526315789474
+08,Región de Región de Bíobío,2020-10-09,41.6267942583732
+08,Región de Región de Bíobío,2020-10-10,39.42307692307692
+08,Región de Región de Bíobío,2020-10-11,37.01923076923077
+08,Región de Región de Bíobío,2020-10-12,37.5
+08,Región de Región de Bíobío,2020-10-13,36.53846153846154
+08,Región de Región de Bíobío,2020-10-14,37.98076923076923
+08,Región de Región de Bíobío,2020-10-15,41.34615384615385
+08,Región de Región de Bíobío,2020-10-16,41.42857142857143
+08,Región de Región de Bíobío,2020-10-17,40.28436018957346
+08,Región de Región de Bíobío,2020-10-18,38.27751196172249
+08,Región de Región de Bíobío,2020-10-19,39.71291866028708
+08,Región de Región de Bíobío,2020-10-20,40.19138755980861
+08,Región de Región de Bíobío,2020-10-21,39.523809523809526
+08,Región de Región de Bíobío,2020-10-22,40.20618556701031
+08,Región de Región de Bíobío,2020-10-23,40.20618556701031
+08,Región de Región de Bíobío,2020-10-24,38.97435897435897
+08,Región de Región de Bíobío,2020-10-25,37.94871794871795
+08,Región de Región de Bíobío,2020-10-26,36.41025641025641
+08,Región de Región de Bíobío,2020-10-27,36.08247422680412
+08,Región de Región de Bíobío,2020-10-28,38.65979381443299
+08,Región de Región de Bíobío,2020-10-29,42.2680412371134
+08,Región de Región de Bíobío,2020-10-30,43.81443298969072
+08,Región de Región de Bíobío,2020-10-31,43.81443298969072
+08,Región de Región de Bíobío,2020-11-01,41.326530612244895
+08,Región de Región de Bíobío,2020-11-02,42.5531914893617
+08,Región de Región de Bíobío,2020-11-03,42.5531914893617
+08,Región de Región de Bíobío,2020-11-04,43.61702127659574
+08,Región de Región de Bíobío,2020-11-05,42.40837696335078
+08,Región de Región de Bíobío,2020-11-06,41.145833333333336
+08,Región de Región de Bíobío,2020-11-07,43.75
+08,Región de Región de Bíobío,2020-11-08,44.270833333333336
+08,Región de Región de Bíobío,2020-11-09,46.875
+08,Región de Región de Bíobío,2020-11-10,46.875
+08,Región de Región de Bíobío,2020-11-11,52.083333333333336
+08,Región de Región de Bíobío,2020-11-12,49.48453608247423
+08,Región de Región de Bíobío,2020-11-13,50.0
+08,Región de Región de Bíobío,2020-11-14,50.51546391752577
+08,Región de Región de Bíobío,2020-11-15,50.51546391752577
+08,Región de Región de Bíobío,2020-11-16,48.96907216494845
+08,Región de Región de Bíobío,2020-11-17,50.51546391752577
+08,Región de Región de Bíobío,2020-11-18,49.23076923076923
+08,Región de Región de Bíobío,2020-11-19,50.0
+08,Región de Región de Bíobío,2020-11-20,51.5625
+08,Región de Región de Bíobío,2020-11-21,52.30769230769231
+08,Región de Región de Bíobío,2020-11-22,50.256410256410255
+08,Región de Región de Bíobío,2020-11-23,51.794871794871796
+08,Región de Región de Bíobío,2020-11-24,49.23076923076923
+08,Región de Región de Bíobío,2020-11-25,49.23076923076923
+08,Región de Región de Bíobío,2020-11-26,47.95918367346939
+08,Región de Región de Bíobío,2020-11-27,50.0
+08,Región de Región de Bíobío,2020-11-28,49.48979591836735
+08,Región de Región de Bíobío,2020-11-29,49.23857868020305
+08,Región de Región de Bíobío,2020-11-30,49.23857868020305
+08,Región de Región de Bíobío,2020-12-01,45.91836734693877
+08,Región de Región de Bíobío,2020-12-02,49.479166666666664
 9,Región de Región de La Araucanía,2020-04-14,54.11764705882353
 9,Región de Región de La Araucanía,2020-04-15,54.76190476190476
 9,Región de Región de La Araucanía,2020-04-16,55.95238095238095
@@ -2015,6 +2087,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 9,Región de Región de La Araucanía,2020-11-21,50.0
 9,Región de Región de La Araucanía,2020-11-22,52.27272727272727
 9,Región de Región de La Araucanía,2020-11-23,54.02298850574713
+9,Región de Región de La Araucanía,2020-11-24,53.40909090909091
+9,Región de Región de La Araucanía,2020-11-25,54.54545454545455
+9,Región de Región de La Araucanía,2020-11-26,55.68181818181818
+9,Región de Región de La Araucanía,2020-11-27,57.95454545454545
+9,Región de Región de La Araucanía,2020-11-28,56.81818181818182
+9,Región de Región de La Araucanía,2020-11-29,59.30232558139535
+9,Región de Región de La Araucanía,2020-11-30,56.97674418604651
+9,Región de Región de La Araucanía,2020-12-01,56.32183908045977
+9,Región de Región de La Araucanía,2020-12-02,47.674418604651166
 10,Región de Región de Los Lagos,2020-04-14,44.827586206896555
 10,Región de Región de Los Lagos,2020-04-15,44.827586206896555
 10,Región de Región de Los Lagos,2020-04-16,45.76271186440678
@@ -2239,6 +2320,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 10,Región de Región de Los Lagos,2020-11-21,47.5
 10,Región de Región de Los Lagos,2020-11-22,47.5
 10,Región de Región de Los Lagos,2020-11-23,48.75
+10,Región de Región de Los Lagos,2020-11-24,48.148148148148145
+10,Región de Región de Los Lagos,2020-11-25,46.91358024691358
+10,Región de Región de Los Lagos,2020-11-26,46.25
+10,Región de Región de Los Lagos,2020-11-27,41.25
+10,Región de Región de Los Lagos,2020-11-28,42.68292682926829
+10,Región de Región de Los Lagos,2020-11-29,45.0
+10,Región de Región de Los Lagos,2020-11-30,40.0
+10,Región de Región de Los Lagos,2020-12-01,41.97530864197531
+10,Región de Región de Los Lagos,2020-12-02,41.25
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-14,0.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-15,0.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-16,0.0
@@ -2463,6 +2553,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-21,37.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-22,25.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-23,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-24,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-25,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-26,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-27,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-28,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-29,25.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-11-30,37.5
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-12-01,37.5
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-12-02,37.5
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-14,41.666666666666664
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-15,42.10526315789474
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-16,56.25
@@ -2687,230 +2786,248 @@ codigo_region,region_residencia,fecha,COVID UCI
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-21,35.483870967741936
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-22,35.483870967741936
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-23,35.483870967741936
-13,Región de Región Metropolitana de Santiago,2020-04-14,23.95964691046658
-13,Región de Región Metropolitana de Santiago,2020-04-15,24.504950495049506
-13,Región de Región Metropolitana de Santiago,2020-04-16,24.257425742574256
-13,Región de Región Metropolitana de Santiago,2020-04-17,25.0
-13,Región de Región Metropolitana de Santiago,2020-04-18,22.12713936430318
-13,Región de Región Metropolitana de Santiago,2020-04-19,22.794117647058822
-13,Región de Región Metropolitana de Santiago,2020-04-20,24.129353233830845
-13,Región de Región Metropolitana de Santiago,2020-04-21,25.278810408921935
-13,Región de Región Metropolitana de Santiago,2020-04-22,26.625
-13,Región de Región Metropolitana de Santiago,2020-04-23,29.104477611940297
-13,Región de Región Metropolitana de Santiago,2020-04-24,29.54822954822955
-13,Región de Región Metropolitana de Santiago,2020-04-25,30.036630036630036
-13,Región de Región Metropolitana de Santiago,2020-04-26,27.92792792792793
-13,Región de Región Metropolitana de Santiago,2020-04-27,28.47457627118644
-13,Región de Región Metropolitana de Santiago,2020-04-28,29.119638826185103
-13,Región de Región Metropolitana de Santiago,2020-04-29,28.926553672316384
-13,Región de Región Metropolitana de Santiago,2020-04-30,28.81165919282511
-13,Región de Región Metropolitana de Santiago,2020-05-01,29.537767756482527
-13,Región de Región Metropolitana de Santiago,2020-05-02,26.84630738522954
-13,Región de Región Metropolitana de Santiago,2020-05-03,28.784860557768923
-13,Región de Región Metropolitana de Santiago,2020-05-04,30.179282868525895
-13,Región de Región Metropolitana de Santiago,2020-05-05,30.905511811023622
-13,Región de Región Metropolitana de Santiago,2020-05-06,33.73015873015873
-13,Región de Región Metropolitana de Santiago,2020-05-07,34.83483483483484
-13,Región de Región Metropolitana de Santiago,2020-05-08,37.11967545638945
-13,Región de Región Metropolitana de Santiago,2020-05-09,39.918946301925025
-13,Región de Región Metropolitana de Santiago,2020-05-10,41.79254783484391
-13,Región de Región Metropolitana de Santiago,2020-05-11,38.873499538319486
-13,Región de Región Metropolitana de Santiago,2020-05-12,41.551246537396125
-13,Región de Región Metropolitana de Santiago,2020-05-13,45.794392523364486
-13,Región de Región Metropolitana de Santiago,2020-05-14,47.43709226467847
-13,Región de Región Metropolitana de Santiago,2020-05-15,52.22748815165877
-13,Región de Región Metropolitana de Santiago,2020-05-16,55.91915303176131
-13,Región de Región Metropolitana de Santiago,2020-05-17,47.1847739888977
-13,Región de Región Metropolitana de Santiago,2020-05-18,49.839228295819936
-13,Región de Región Metropolitana de Santiago,2020-05-19,55.26742301458671
-13,Región de Región Metropolitana de Santiago,2020-05-20,56.854838709677416
-13,Región de Región Metropolitana de Santiago,2020-05-21,59.494702526487366
-13,Región de Región Metropolitana de Santiago,2020-05-22,59.90675990675991
-13,Región de Región Metropolitana de Santiago,2020-05-23,62.13592233009709
-13,Región de Región Metropolitana de Santiago,2020-05-24,61.13505747126437
-13,Región de Región Metropolitana de Santiago,2020-05-25,63.00784034212402
-13,Región de Región Metropolitana de Santiago,2020-05-26,65.69808646350106
-13,Región de Región Metropolitana de Santiago,2020-05-27,66.32088520055325
-13,Región de Región Metropolitana de Santiago,2020-05-28,65.70275722932078
-13,Región de Región Metropolitana de Santiago,2020-05-29,66.31785480706344
-13,Región de Región Metropolitana de Santiago,2020-05-30,65.51282051282051
-13,Región de Región Metropolitana de Santiago,2020-05-31,65.09136735979835
-13,Región de Región Metropolitana de Santiago,2020-06-01,67.45195288282703
-13,Región de Región Metropolitana de Santiago,2020-06-02,62.53585771658061
-13,Región de Región Metropolitana de Santiago,2020-06-03,64.24032351242056
-13,Región de Región Metropolitana de Santiago,2020-06-04,65.5813953488372
-13,Región de Región Metropolitana de Santiago,2020-06-05,66.64729808251016
-13,Región de Región Metropolitana de Santiago,2020-06-06,67.17557251908397
-13,Región de Región Metropolitana de Santiago,2020-06-07,67.39380022962112
-13,Región de Región Metropolitana de Santiago,2020-06-08,66.74195369847544
-13,Región de Región Metropolitana de Santiago,2020-06-09,64.50192625206384
-13,Región de Región Metropolitana de Santiago,2020-06-10,66.79886685552408
-13,Región de Región Metropolitana de Santiago,2020-06-11,66.72297297297297
-13,Región de Región Metropolitana de Santiago,2020-06-12,68.26923076923077
-13,Región de Región Metropolitana de Santiago,2020-06-13,67.20489977728285
-13,Región de Región Metropolitana de Santiago,2020-06-14,70.38073908174692
-13,Región de Región Metropolitana de Santiago,2020-06-15,66.73673147661587
-13,Región de Región Metropolitana de Santiago,2020-06-16,66.78928008407777
-13,Región de Región Metropolitana de Santiago,2020-06-17,69.8370993168681
-13,Región de Región Metropolitana de Santiago,2020-06-18,72.78514588859416
-13,Región de Región Metropolitana de Santiago,2020-06-19,74.65608465608466
-13,Región de Región Metropolitana de Santiago,2020-06-20,76.84491978609626
-13,Región de Región Metropolitana de Santiago,2020-06-21,78.3987103707684
-13,Región de Región Metropolitana de Santiago,2020-06-22,79.14870689655173
-13,Región de Región Metropolitana de Santiago,2020-06-23,78.82858678130037
-13,Región de Región Metropolitana de Santiago,2020-06-24,79.63460505104783
-13,Región de Región Metropolitana de Santiago,2020-06-25,79.39458311205523
-13,Región de Región Metropolitana de Santiago,2020-06-26,78.37837837837837
-13,Región de Región Metropolitana de Santiago,2020-06-27,80.97297297297297
-13,Región de Región Metropolitana de Santiago,2020-06-28,81.3262599469496
-13,Región de Región Metropolitana de Santiago,2020-06-29,79.06976744186046
-13,Región de Región Metropolitana de Santiago,2020-06-30,78.77036258539148
-13,Región de Región Metropolitana de Santiago,2020-07-01,78.0307040762308
-13,Región de Región Metropolitana de Santiago,2020-07-02,78.24947589098532
-13,Región de Región Metropolitana de Santiago,2020-07-03,77.98021863612702
-13,Región de Región Metropolitana de Santiago,2020-07-04,77.08333333333333
-13,Región de Región Metropolitana de Santiago,2020-07-05,77.02282157676349
-13,Región de Región Metropolitana de Santiago,2020-07-06,76.53167185877466
-13,Región de Región Metropolitana de Santiago,2020-07-07,75.32400207361327
-13,Región de Región Metropolitana de Santiago,2020-07-08,75.86387434554973
-13,Región de Región Metropolitana de Santiago,2020-07-09,74.1280583029672
-13,Región de Región Metropolitana de Santiago,2020-07-10,73.7551867219917
-13,Región de Región Metropolitana de Santiago,2020-07-11,75.10548523206751
-13,Región de Región Metropolitana de Santiago,2020-07-12,75.28977871443625
-13,Región de Región Metropolitana de Santiago,2020-07-13,73.10344827586206
-13,Región de Región Metropolitana de Santiago,2020-07-14,73.03609341825903
-13,Región de Región Metropolitana de Santiago,2020-07-15,70.9506107275624
-13,Región de Región Metropolitana de Santiago,2020-07-16,68.1283422459893
-13,Región de Región Metropolitana de Santiago,2020-07-17,67.8513731825525
-13,Región de Región Metropolitana de Santiago,2020-07-18,66.95464362850971
-13,Región de Región Metropolitana de Santiago,2020-07-19,66.28726287262873
-13,Región de Región Metropolitana de Santiago,2020-07-20,65.86826347305389
-13,Región de Región Metropolitana de Santiago,2020-07-21,64.86042692939245
-13,Región de Región Metropolitana de Santiago,2020-07-22,63.78646119977986
-13,Región de Región Metropolitana de Santiago,2020-07-23,63.10517529215359
-13,Región de Región Metropolitana de Santiago,2020-07-24,61.95530726256983
-13,Región de Región Metropolitana de Santiago,2020-07-25,61.19486320491345
-13,Región de Región Metropolitana de Santiago,2020-07-26,60.56657223796034
-13,Región de Región Metropolitana de Santiago,2020-07-27,59.09090909090909
-13,Región de Región Metropolitana de Santiago,2020-07-28,58.3617747440273
-13,Región de Región Metropolitana de Santiago,2020-07-29,57.23270440251572
-13,Región de Región Metropolitana de Santiago,2020-07-30,56.95171611401978
-13,Región de Región Metropolitana de Santiago,2020-07-31,55.763604447045054
-13,Región de Región Metropolitana de Santiago,2020-08-01,55.960070463887256
-13,Región de Región Metropolitana de Santiago,2020-08-02,57.40181268882175
-13,Región de Región Metropolitana de Santiago,2020-08-03,56.89343768813968
-13,Región de Región Metropolitana de Santiago,2020-08-04,56.43028846153846
-13,Región de Región Metropolitana de Santiago,2020-08-05,56.58212560386473
-13,Región de Región Metropolitana de Santiago,2020-08-06,55.255070682237246
-13,Región de Región Metropolitana de Santiago,2020-08-07,54.17439703153989
-13,Región de Región Metropolitana de Santiago,2020-08-08,52.26567349472377
-13,Región de Región Metropolitana de Santiago,2020-08-09,52.02788339670469
-13,Región de Región Metropolitana de Santiago,2020-08-10,52.411167512690355
-13,Región de Región Metropolitana de Santiago,2020-08-11,51.688973868706185
-13,Región de Región Metropolitana de Santiago,2020-08-12,52.42146596858639
-13,Región de Región Metropolitana de Santiago,2020-08-13,53.11258278145695
-13,Región de Región Metropolitana de Santiago,2020-08-14,53.441295546558706
-13,Región de Región Metropolitana de Santiago,2020-08-15,50.13531799729364
-13,Región de Región Metropolitana de Santiago,2020-08-16,49.21715452688904
-13,Región de Región Metropolitana de Santiago,2020-08-17,48.16326530612245
-13,Región de Región Metropolitana de Santiago,2020-08-18,47.465753424657535
-13,Región de Región Metropolitana de Santiago,2020-08-19,45.44836956521739
-13,Región de Región Metropolitana de Santiago,2020-08-20,44.08967391304348
-13,Región de Región Metropolitana de Santiago,2020-08-21,43.397524071526824
-13,Región de Región Metropolitana de Santiago,2020-08-22,42.27304227304227
-13,Región de Región Metropolitana de Santiago,2020-08-23,40.55749128919861
-13,Región de Región Metropolitana de Santiago,2020-08-24,39.944134078212294
-13,Región de Región Metropolitana de Santiago,2020-08-25,39.285714285714285
-13,Región de Región Metropolitana de Santiago,2020-08-26,39.15159944367176
-13,Región de Región Metropolitana de Santiago,2020-08-27,40.070422535211264
-13,Región de Región Metropolitana de Santiago,2020-08-28,37.98449612403101
-13,Región de Región Metropolitana de Santiago,2020-08-29,36.44662921348315
-13,Región de Región Metropolitana de Santiago,2020-08-30,36.27450980392157
-13,Región de Región Metropolitana de Santiago,2020-08-31,36.61278988053408
-13,Región de Región Metropolitana de Santiago,2020-09-01,35.774647887323944
-13,Región de Región Metropolitana de Santiago,2020-09-02,35.285714285714285
-13,Región de Región Metropolitana de Santiago,2020-09-03,35.20923520923521
-13,Región de Región Metropolitana de Santiago,2020-09-04,35.09025270758123
-13,Región de Región Metropolitana de Santiago,2020-09-05,33.79260333575054
-13,Región de Región Metropolitana de Santiago,2020-09-06,33.7966349670812
-13,Región de Región Metropolitana de Santiago,2020-09-07,34.40467494521548
-13,Región de Región Metropolitana de Santiago,2020-09-08,34.18553688823959
-13,Región de Región Metropolitana de Santiago,2020-09-09,34.593023255813954
-13,Región de Región Metropolitana de Santiago,2020-09-10,35.01831501831502
-13,Región de Región Metropolitana de Santiago,2020-09-11,32.10874357090375
-13,Región de Región Metropolitana de Santiago,2020-09-12,31.551976573938507
-13,Región de Región Metropolitana de Santiago,2020-09-13,31.125827814569536
-13,Región de Región Metropolitana de Santiago,2020-09-14,31.420161883738043
-13,Región de Región Metropolitana de Santiago,2020-09-15,30.85419734904271
-13,Región de Región Metropolitana de Santiago,2020-09-16,31.551596139569412
-13,Región de Región Metropolitana de Santiago,2020-09-17,32.02080237741456
-13,Región de Región Metropolitana de Santiago,2020-09-18,32.58258258258258
-13,Región de Región Metropolitana de Santiago,2020-09-19,32.05128205128205
-13,Región de Región Metropolitana de Santiago,2020-09-20,31.72569706103994
-13,Región de Región Metropolitana de Santiago,2020-09-21,32.57575757575758
-13,Región de Región Metropolitana de Santiago,2020-09-22,32.646834477498096
-13,Región de Región Metropolitana de Santiago,2020-09-23,32.06974981046247
-13,Región de Región Metropolitana de Santiago,2020-09-24,31.112793338380015
-13,Región de Región Metropolitana de Santiago,2020-09-25,31.21212121212121
-13,Región de Región Metropolitana de Santiago,2020-09-26,32.08841463414634
-13,Región de Región Metropolitana de Santiago,2020-09-27,31.859756097560975
-13,Región de Región Metropolitana de Santiago,2020-09-28,32.233307751343055
-13,Región de Región Metropolitana de Santiago,2020-09-29,30.952380952380953
-13,Región de Región Metropolitana de Santiago,2020-09-30,30.59185242121445
-13,Región de Región Metropolitana de Santiago,2020-10-01,30.87557603686636
-13,Región de Región Metropolitana de Santiago,2020-10-02,31.90661478599222
-13,Región de Región Metropolitana de Santiago,2020-10-03,31.112852664576803
-13,Región de Región Metropolitana de Santiago,2020-10-04,31.41732283464567
-13,Región de Región Metropolitana de Santiago,2020-10-05,31.695721077654518
-13,Región de Región Metropolitana de Santiago,2020-10-06,31.392604248623133
-13,Región de Región Metropolitana de Santiago,2020-10-07,29.92063492063492
-13,Región de Región Metropolitana de Santiago,2020-10-08,29.421094369547976
-13,Región de Región Metropolitana de Santiago,2020-10-09,29.576338928856913
-13,Región de Región Metropolitana de Santiago,2020-10-10,29.578606158833065
-13,Región de Región Metropolitana de Santiago,2020-10-11,29.9660441426146
-13,Región de Región Metropolitana de Santiago,2020-10-12,31.025641025641026
-13,Región de Región Metropolitana de Santiago,2020-10-13,30.90753424657534
-13,Región de Región Metropolitana de Santiago,2020-10-14,31.05218135158255
-13,Región de Región Metropolitana de Santiago,2020-10-15,30.338983050847457
-13,Región de Región Metropolitana de Santiago,2020-10-16,30.501274426508072
-13,Región de Región Metropolitana de Santiago,2020-10-17,30.53435114503817
-13,Región de Región Metropolitana de Santiago,2020-10-18,30.338983050847457
-13,Región de Región Metropolitana de Santiago,2020-10-19,29.661016949152543
-13,Región de Región Metropolitana de Santiago,2020-10-20,29.796264855687607
-13,Región de Región Metropolitana de Santiago,2020-10-21,30.624465355004276
-13,Región de Región Metropolitana de Santiago,2020-10-22,31.475128644939964
-13,Región de Región Metropolitana de Santiago,2020-10-23,31.416309012875537
-13,Región de Región Metropolitana de Santiago,2020-10-24,30.266552020636286
-13,Región de Región Metropolitana de Santiago,2020-10-25,29.800173761946134
-13,Región de Región Metropolitana de Santiago,2020-10-26,30.29513888888889
-13,Región de Región Metropolitana de Santiago,2020-10-27,30.849220103986134
-13,Región de Región Metropolitana de Santiago,2020-10-28,31.288343558282207
-13,Región de Región Metropolitana de Santiago,2020-10-29,31.60667251975417
-13,Región de Región Metropolitana de Santiago,2020-10-30,32.1084864391951
-13,Región de Región Metropolitana de Santiago,2020-10-31,31.978798586572438
-13,Región de Región Metropolitana de Santiago,2020-11-01,31.222515391380828
-13,Región de Región Metropolitana de Santiago,2020-11-02,30.070546737213405
-13,Región de Región Metropolitana de Santiago,2020-11-03,29.964850615114237
-13,Región de Región Metropolitana de Santiago,2020-11-04,30.350877192982455
-13,Región de Región Metropolitana de Santiago,2020-11-05,29.798422436459248
-13,Región de Región Metropolitana de Santiago,2020-11-06,31.24448367166814
-13,Región de Región Metropolitana de Santiago,2020-11-07,30.851063829787233
-13,Región de Región Metropolitana de Santiago,2020-11-08,30.83778966131907
-13,Región de Región Metropolitana de Santiago,2020-11-09,29.65578111209179
-13,Región de Región Metropolitana de Santiago,2020-11-10,28.938053097345133
-13,Región de Región Metropolitana de Santiago,2020-11-11,29.348795718108832
-13,Región de Región Metropolitana de Santiago,2020-11-12,29.63294538943599
-13,Región de Región Metropolitana de Santiago,2020-11-13,29.285714285714285
-13,Región de Región Metropolitana de Santiago,2020-11-14,29.14798206278027
-13,Región de Región Metropolitana de Santiago,2020-11-15,29.174147217235188
-13,Región de Región Metropolitana de Santiago,2020-11-16,29.211469534050178
-13,Región de Región Metropolitana de Santiago,2020-11-17,29.506726457399104
-13,Región de Región Metropolitana de Santiago,2020-11-18,30.18018018018018
-13,Región de Región Metropolitana de Santiago,2020-11-19,29.24187725631769
-13,Región de Región Metropolitana de Santiago,2020-11-20,29.6094459582198
-13,Región de Región Metropolitana de Santiago,2020-11-21,28.964252978918424
-13,Región de Región Metropolitana de Santiago,2020-11-22,28.676470588235293
-13,Región de Región Metropolitana de Santiago,2020-11-23,28.676470588235293
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-24,38.70967741935484
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-25,35.483870967741936
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-26,35.483870967741936
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-27,32.25806451612903
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-28,38.70967741935484
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-29,32.25806451612903
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-11-30,32.25806451612903
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-12-01,38.70967741935484
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-12-02,32.25806451612903
+13,Región de Región de Metropolitana de Santiago,2020-04-14,23.95964691046658
+13,Región de Región de Metropolitana de Santiago,2020-04-15,24.504950495049506
+13,Región de Región de Metropolitana de Santiago,2020-04-16,24.257425742574256
+13,Región de Región de Metropolitana de Santiago,2020-04-17,25.0
+13,Región de Región de Metropolitana de Santiago,2020-04-18,22.12713936430318
+13,Región de Región de Metropolitana de Santiago,2020-04-19,22.794117647058822
+13,Región de Región de Metropolitana de Santiago,2020-04-20,24.129353233830845
+13,Región de Región de Metropolitana de Santiago,2020-04-21,25.278810408921935
+13,Región de Región de Metropolitana de Santiago,2020-04-22,26.625
+13,Región de Región de Metropolitana de Santiago,2020-04-23,29.104477611940297
+13,Región de Región de Metropolitana de Santiago,2020-04-24,29.54822954822955
+13,Región de Región de Metropolitana de Santiago,2020-04-25,30.036630036630036
+13,Región de Región de Metropolitana de Santiago,2020-04-26,27.92792792792793
+13,Región de Región de Metropolitana de Santiago,2020-04-27,28.47457627118644
+13,Región de Región de Metropolitana de Santiago,2020-04-28,29.119638826185103
+13,Región de Región de Metropolitana de Santiago,2020-04-29,28.926553672316384
+13,Región de Región de Metropolitana de Santiago,2020-04-30,28.81165919282511
+13,Región de Región de Metropolitana de Santiago,2020-05-01,29.537767756482527
+13,Región de Región de Metropolitana de Santiago,2020-05-02,26.84630738522954
+13,Región de Región de Metropolitana de Santiago,2020-05-03,28.784860557768923
+13,Región de Región de Metropolitana de Santiago,2020-05-04,30.179282868525895
+13,Región de Región de Metropolitana de Santiago,2020-05-05,30.905511811023622
+13,Región de Región de Metropolitana de Santiago,2020-05-06,33.73015873015873
+13,Región de Región de Metropolitana de Santiago,2020-05-07,34.83483483483484
+13,Región de Región de Metropolitana de Santiago,2020-05-08,37.11967545638945
+13,Región de Región de Metropolitana de Santiago,2020-05-09,39.918946301925025
+13,Región de Región de Metropolitana de Santiago,2020-05-10,41.79254783484391
+13,Región de Región de Metropolitana de Santiago,2020-05-11,38.873499538319486
+13,Región de Región de Metropolitana de Santiago,2020-05-12,41.551246537396125
+13,Región de Región de Metropolitana de Santiago,2020-05-13,45.794392523364486
+13,Región de Región de Metropolitana de Santiago,2020-05-14,47.43709226467847
+13,Región de Región de Metropolitana de Santiago,2020-05-15,52.22748815165877
+13,Región de Región de Metropolitana de Santiago,2020-05-16,55.91915303176131
+13,Región de Región de Metropolitana de Santiago,2020-05-17,47.1847739888977
+13,Región de Región de Metropolitana de Santiago,2020-05-18,49.839228295819936
+13,Región de Región de Metropolitana de Santiago,2020-05-19,55.26742301458671
+13,Región de Región de Metropolitana de Santiago,2020-05-20,56.854838709677416
+13,Región de Región de Metropolitana de Santiago,2020-05-21,59.494702526487366
+13,Región de Región de Metropolitana de Santiago,2020-05-22,59.90675990675991
+13,Región de Región de Metropolitana de Santiago,2020-05-23,62.13592233009709
+13,Región de Región de Metropolitana de Santiago,2020-05-24,61.13505747126437
+13,Región de Región de Metropolitana de Santiago,2020-05-25,63.00784034212402
+13,Región de Región de Metropolitana de Santiago,2020-05-26,65.69808646350106
+13,Región de Región de Metropolitana de Santiago,2020-05-27,66.32088520055325
+13,Región de Región de Metropolitana de Santiago,2020-05-28,65.70275722932078
+13,Región de Región de Metropolitana de Santiago,2020-05-29,66.31785480706344
+13,Región de Región de Metropolitana de Santiago,2020-05-30,65.51282051282051
+13,Región de Región de Metropolitana de Santiago,2020-05-31,65.09136735979835
+13,Región de Región de Metropolitana de Santiago,2020-06-01,67.45195288282703
+13,Región de Región de Metropolitana de Santiago,2020-06-02,62.53585771658061
+13,Región de Región de Metropolitana de Santiago,2020-06-03,64.24032351242056
+13,Región de Región de Metropolitana de Santiago,2020-06-04,65.5813953488372
+13,Región de Región de Metropolitana de Santiago,2020-06-05,66.64729808251016
+13,Región de Región de Metropolitana de Santiago,2020-06-06,67.17557251908397
+13,Región de Región de Metropolitana de Santiago,2020-06-07,67.39380022962112
+13,Región de Región de Metropolitana de Santiago,2020-06-08,66.74195369847544
+13,Región de Región de Metropolitana de Santiago,2020-06-09,64.50192625206384
+13,Región de Región de Metropolitana de Santiago,2020-06-10,66.79886685552408
+13,Región de Región de Metropolitana de Santiago,2020-06-11,66.72297297297297
+13,Región de Región de Metropolitana de Santiago,2020-06-12,68.26923076923077
+13,Región de Región de Metropolitana de Santiago,2020-06-13,67.20489977728285
+13,Región de Región de Metropolitana de Santiago,2020-06-14,70.38073908174692
+13,Región de Región de Metropolitana de Santiago,2020-06-15,66.73673147661587
+13,Región de Región de Metropolitana de Santiago,2020-06-16,66.78928008407777
+13,Región de Región de Metropolitana de Santiago,2020-06-17,69.8370993168681
+13,Región de Región de Metropolitana de Santiago,2020-06-18,72.78514588859416
+13,Región de Región de Metropolitana de Santiago,2020-06-19,74.65608465608466
+13,Región de Región de Metropolitana de Santiago,2020-06-20,76.84491978609626
+13,Región de Región de Metropolitana de Santiago,2020-06-21,78.3987103707684
+13,Región de Región de Metropolitana de Santiago,2020-06-22,79.14870689655173
+13,Región de Región de Metropolitana de Santiago,2020-06-23,78.82858678130037
+13,Región de Región de Metropolitana de Santiago,2020-06-24,79.63460505104783
+13,Región de Región de Metropolitana de Santiago,2020-06-25,79.39458311205523
+13,Región de Región de Metropolitana de Santiago,2020-06-26,78.37837837837837
+13,Región de Región de Metropolitana de Santiago,2020-06-27,80.97297297297297
+13,Región de Región de Metropolitana de Santiago,2020-06-28,81.3262599469496
+13,Región de Región de Metropolitana de Santiago,2020-06-29,79.06976744186046
+13,Región de Región de Metropolitana de Santiago,2020-06-30,78.77036258539148
+13,Región de Región de Metropolitana de Santiago,2020-07-01,78.0307040762308
+13,Región de Región de Metropolitana de Santiago,2020-07-02,78.24947589098532
+13,Región de Región de Metropolitana de Santiago,2020-07-03,77.98021863612702
+13,Región de Región de Metropolitana de Santiago,2020-07-04,77.08333333333333
+13,Región de Región de Metropolitana de Santiago,2020-07-05,77.02282157676349
+13,Región de Región de Metropolitana de Santiago,2020-07-06,76.53167185877466
+13,Región de Región de Metropolitana de Santiago,2020-07-07,75.32400207361327
+13,Región de Región de Metropolitana de Santiago,2020-07-08,75.86387434554973
+13,Región de Región de Metropolitana de Santiago,2020-07-09,74.1280583029672
+13,Región de Región de Metropolitana de Santiago,2020-07-10,73.7551867219917
+13,Región de Región de Metropolitana de Santiago,2020-07-11,75.10548523206751
+13,Región de Región de Metropolitana de Santiago,2020-07-12,75.28977871443625
+13,Región de Región de Metropolitana de Santiago,2020-07-13,73.10344827586206
+13,Región de Región de Metropolitana de Santiago,2020-07-14,73.03609341825903
+13,Región de Región de Metropolitana de Santiago,2020-07-15,70.9506107275624
+13,Región de Región de Metropolitana de Santiago,2020-07-16,68.1283422459893
+13,Región de Región de Metropolitana de Santiago,2020-07-17,67.8513731825525
+13,Región de Región de Metropolitana de Santiago,2020-07-18,66.95464362850971
+13,Región de Región de Metropolitana de Santiago,2020-07-19,66.28726287262873
+13,Región de Región de Metropolitana de Santiago,2020-07-20,65.86826347305389
+13,Región de Región de Metropolitana de Santiago,2020-07-21,64.86042692939245
+13,Región de Región de Metropolitana de Santiago,2020-07-22,63.78646119977986
+13,Región de Región de Metropolitana de Santiago,2020-07-23,63.10517529215359
+13,Región de Región de Metropolitana de Santiago,2020-07-24,61.95530726256983
+13,Región de Región de Metropolitana de Santiago,2020-07-25,61.19486320491345
+13,Región de Región de Metropolitana de Santiago,2020-07-26,60.56657223796034
+13,Región de Región de Metropolitana de Santiago,2020-07-27,59.09090909090909
+13,Región de Región de Metropolitana de Santiago,2020-07-28,58.3617747440273
+13,Región de Región de Metropolitana de Santiago,2020-07-29,57.23270440251572
+13,Región de Región de Metropolitana de Santiago,2020-07-30,56.95171611401978
+13,Región de Región de Metropolitana de Santiago,2020-07-31,55.763604447045054
+13,Región de Región de Metropolitana de Santiago,2020-08-01,55.960070463887256
+13,Región de Región de Metropolitana de Santiago,2020-08-02,57.40181268882175
+13,Región de Región de Metropolitana de Santiago,2020-08-03,56.89343768813968
+13,Región de Región de Metropolitana de Santiago,2020-08-04,56.43028846153846
+13,Región de Región de Metropolitana de Santiago,2020-08-05,56.58212560386473
+13,Región de Región de Metropolitana de Santiago,2020-08-06,55.255070682237246
+13,Región de Región de Metropolitana de Santiago,2020-08-07,54.17439703153989
+13,Región de Región de Metropolitana de Santiago,2020-08-08,52.26567349472377
+13,Región de Región de Metropolitana de Santiago,2020-08-09,52.02788339670469
+13,Región de Región de Metropolitana de Santiago,2020-08-10,52.411167512690355
+13,Región de Región de Metropolitana de Santiago,2020-08-11,51.688973868706185
+13,Región de Región de Metropolitana de Santiago,2020-08-12,52.42146596858639
+13,Región de Región de Metropolitana de Santiago,2020-08-13,53.11258278145695
+13,Región de Región de Metropolitana de Santiago,2020-08-14,53.441295546558706
+13,Región de Región de Metropolitana de Santiago,2020-08-15,50.13531799729364
+13,Región de Región de Metropolitana de Santiago,2020-08-16,49.21715452688904
+13,Región de Región de Metropolitana de Santiago,2020-08-17,48.16326530612245
+13,Región de Región de Metropolitana de Santiago,2020-08-18,47.465753424657535
+13,Región de Región de Metropolitana de Santiago,2020-08-19,45.44836956521739
+13,Región de Región de Metropolitana de Santiago,2020-08-20,44.08967391304348
+13,Región de Región de Metropolitana de Santiago,2020-08-21,43.397524071526824
+13,Región de Región de Metropolitana de Santiago,2020-08-22,42.27304227304227
+13,Región de Región de Metropolitana de Santiago,2020-08-23,40.55749128919861
+13,Región de Región de Metropolitana de Santiago,2020-08-24,39.944134078212294
+13,Región de Región de Metropolitana de Santiago,2020-08-25,39.285714285714285
+13,Región de Región de Metropolitana de Santiago,2020-08-26,39.15159944367176
+13,Región de Región de Metropolitana de Santiago,2020-08-27,40.070422535211264
+13,Región de Región de Metropolitana de Santiago,2020-08-28,37.98449612403101
+13,Región de Región de Metropolitana de Santiago,2020-08-29,36.44662921348315
+13,Región de Región de Metropolitana de Santiago,2020-08-30,36.27450980392157
+13,Región de Región de Metropolitana de Santiago,2020-08-31,36.61278988053408
+13,Región de Región de Metropolitana de Santiago,2020-09-01,35.774647887323944
+13,Región de Región de Metropolitana de Santiago,2020-09-02,35.285714285714285
+13,Región de Región de Metropolitana de Santiago,2020-09-03,35.20923520923521
+13,Región de Región de Metropolitana de Santiago,2020-09-04,35.09025270758123
+13,Región de Región de Metropolitana de Santiago,2020-09-05,33.79260333575054
+13,Región de Región de Metropolitana de Santiago,2020-09-06,33.7966349670812
+13,Región de Región de Metropolitana de Santiago,2020-09-07,34.40467494521548
+13,Región de Región de Metropolitana de Santiago,2020-09-08,34.18553688823959
+13,Región de Región de Metropolitana de Santiago,2020-09-09,34.593023255813954
+13,Región de Región de Metropolitana de Santiago,2020-09-10,35.01831501831502
+13,Región de Región de Metropolitana de Santiago,2020-09-11,32.10874357090375
+13,Región de Región de Metropolitana de Santiago,2020-09-12,31.551976573938507
+13,Región de Región de Metropolitana de Santiago,2020-09-13,31.125827814569536
+13,Región de Región de Metropolitana de Santiago,2020-09-14,31.420161883738043
+13,Región de Región de Metropolitana de Santiago,2020-09-15,30.85419734904271
+13,Región de Región de Metropolitana de Santiago,2020-09-16,31.551596139569412
+13,Región de Región de Metropolitana de Santiago,2020-09-17,32.02080237741456
+13,Región de Región de Metropolitana de Santiago,2020-09-18,32.58258258258258
+13,Región de Región de Metropolitana de Santiago,2020-09-19,32.05128205128205
+13,Región de Región de Metropolitana de Santiago,2020-09-20,31.72569706103994
+13,Región de Región de Metropolitana de Santiago,2020-09-21,32.57575757575758
+13,Región de Región de Metropolitana de Santiago,2020-09-22,32.646834477498096
+13,Región de Región de Metropolitana de Santiago,2020-09-23,32.06974981046247
+13,Región de Región de Metropolitana de Santiago,2020-09-24,31.112793338380015
+13,Región de Región de Metropolitana de Santiago,2020-09-25,31.21212121212121
+13,Región de Región de Metropolitana de Santiago,2020-09-26,32.08841463414634
+13,Región de Región de Metropolitana de Santiago,2020-09-27,31.859756097560975
+13,Región de Región de Metropolitana de Santiago,2020-09-28,32.233307751343055
+13,Región de Región de Metropolitana de Santiago,2020-09-29,30.952380952380953
+13,Región de Región de Metropolitana de Santiago,2020-09-30,30.59185242121445
+13,Región de Región de Metropolitana de Santiago,2020-10-01,30.87557603686636
+13,Región de Región de Metropolitana de Santiago,2020-10-02,31.90661478599222
+13,Región de Región de Metropolitana de Santiago,2020-10-03,31.112852664576803
+13,Región de Región de Metropolitana de Santiago,2020-10-04,31.41732283464567
+13,Región de Región de Metropolitana de Santiago,2020-10-05,31.695721077654518
+13,Región de Región de Metropolitana de Santiago,2020-10-06,31.392604248623133
+13,Región de Región de Metropolitana de Santiago,2020-10-07,29.92063492063492
+13,Región de Región de Metropolitana de Santiago,2020-10-08,29.421094369547976
+13,Región de Región de Metropolitana de Santiago,2020-10-09,29.576338928856913
+13,Región de Región de Metropolitana de Santiago,2020-10-10,29.578606158833065
+13,Región de Región de Metropolitana de Santiago,2020-10-11,29.9660441426146
+13,Región de Región de Metropolitana de Santiago,2020-10-12,31.025641025641026
+13,Región de Región de Metropolitana de Santiago,2020-10-13,30.90753424657534
+13,Región de Región de Metropolitana de Santiago,2020-10-14,31.05218135158255
+13,Región de Región de Metropolitana de Santiago,2020-10-15,30.338983050847457
+13,Región de Región de Metropolitana de Santiago,2020-10-16,30.501274426508072
+13,Región de Región de Metropolitana de Santiago,2020-10-17,30.53435114503817
+13,Región de Región de Metropolitana de Santiago,2020-10-18,30.338983050847457
+13,Región de Región de Metropolitana de Santiago,2020-10-19,29.661016949152543
+13,Región de Región de Metropolitana de Santiago,2020-10-20,29.796264855687607
+13,Región de Región de Metropolitana de Santiago,2020-10-21,30.624465355004276
+13,Región de Región de Metropolitana de Santiago,2020-10-22,31.475128644939964
+13,Región de Región de Metropolitana de Santiago,2020-10-23,31.416309012875537
+13,Región de Región de Metropolitana de Santiago,2020-10-24,30.266552020636286
+13,Región de Región de Metropolitana de Santiago,2020-10-25,29.800173761946134
+13,Región de Región de Metropolitana de Santiago,2020-10-26,30.29513888888889
+13,Región de Región de Metropolitana de Santiago,2020-10-27,30.849220103986134
+13,Región de Región de Metropolitana de Santiago,2020-10-28,31.288343558282207
+13,Región de Región de Metropolitana de Santiago,2020-10-29,31.60667251975417
+13,Región de Región de Metropolitana de Santiago,2020-10-30,32.1084864391951
+13,Región de Región de Metropolitana de Santiago,2020-10-31,31.978798586572438
+13,Región de Región de Metropolitana de Santiago,2020-11-01,31.222515391380828
+13,Región de Región de Metropolitana de Santiago,2020-11-02,30.070546737213405
+13,Región de Región de Metropolitana de Santiago,2020-11-03,29.964850615114237
+13,Región de Región de Metropolitana de Santiago,2020-11-04,30.350877192982455
+13,Región de Región de Metropolitana de Santiago,2020-11-05,29.798422436459248
+13,Región de Región de Metropolitana de Santiago,2020-11-06,31.24448367166814
+13,Región de Región de Metropolitana de Santiago,2020-11-07,30.851063829787233
+13,Región de Región de Metropolitana de Santiago,2020-11-08,30.83778966131907
+13,Región de Región de Metropolitana de Santiago,2020-11-09,29.65578111209179
+13,Región de Región de Metropolitana de Santiago,2020-11-10,28.938053097345133
+13,Región de Región de Metropolitana de Santiago,2020-11-11,29.348795718108832
+13,Región de Región de Metropolitana de Santiago,2020-11-12,29.63294538943599
+13,Región de Región de Metropolitana de Santiago,2020-11-13,29.285714285714285
+13,Región de Región de Metropolitana de Santiago,2020-11-14,29.14798206278027
+13,Región de Región de Metropolitana de Santiago,2020-11-15,29.174147217235188
+13,Región de Región de Metropolitana de Santiago,2020-11-16,29.211469534050178
+13,Región de Región de Metropolitana de Santiago,2020-11-17,29.506726457399104
+13,Región de Región de Metropolitana de Santiago,2020-11-18,30.18018018018018
+13,Región de Región de Metropolitana de Santiago,2020-11-19,29.24187725631769
+13,Región de Región de Metropolitana de Santiago,2020-11-20,29.6094459582198
+13,Región de Región de Metropolitana de Santiago,2020-11-21,28.964252978918424
+13,Región de Región de Metropolitana de Santiago,2020-11-22,28.676470588235293
+13,Región de Región de Metropolitana de Santiago,2020-11-23,28.676470588235293
+13,Región de Región de Metropolitana de Santiago,2020-11-24,28.256880733944953
+13,Región de Región de Metropolitana de Santiago,2020-11-25,28.82136279926335
+13,Región de Región de Metropolitana de Santiago,2020-11-26,28.47926267281106
+13,Región de Región de Metropolitana de Santiago,2020-11-27,28.808864265927976
+13,Región de Región de Metropolitana de Santiago,2020-11-28,29.216589861751153
+13,Región de Región de Metropolitana de Santiago,2020-11-29,29.547553093259463
+13,Región de Región de Metropolitana de Santiago,2020-11-30,29.69472710453284
+13,Región de Región de Metropolitana de Santiago,2020-12-01,29.677419354838708
+13,Región de Región de Metropolitana de Santiago,2020-12-02,29.53081876724931
 14,Región de Región de Los Ríos,2020-04-14,31.818181818181817
 14,Región de Región de Los Ríos,2020-04-15,27.272727272727273
 14,Región de Región de Los Ríos,2020-04-16,31.818181818181817
@@ -3135,6 +3252,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 14,Región de Región de Los Ríos,2020-11-21,54.54545454545455
 14,Región de Región de Los Ríos,2020-11-22,50.0
 14,Región de Región de Los Ríos,2020-11-23,50.0
+14,Región de Región de Los Ríos,2020-11-24,59.09090909090909
+14,Región de Región de Los Ríos,2020-11-25,54.54545454545455
+14,Región de Región de Los Ríos,2020-11-26,52.17391304347826
+14,Región de Región de Los Ríos,2020-11-27,47.82608695652174
+14,Región de Región de Los Ríos,2020-11-28,34.78260869565217
+14,Región de Región de Los Ríos,2020-11-29,34.78260869565217
+14,Región de Región de Los Ríos,2020-11-30,39.130434782608695
+14,Región de Región de Los Ríos,2020-12-01,43.47826086956522
+14,Región de Región de Los Ríos,2020-12-02,50.0
 15,Región de Región de Arica y Parinacota,2020-04-14,55.55555555555556
 15,Región de Región de Arica y Parinacota,2020-04-15,55.55555555555556
 15,Región de Región de Arica y Parinacota,2020-04-16,54.54545454545455
@@ -3359,6 +3485,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 15,Región de Región de Arica y Parinacota,2020-11-21,51.851851851851855
 15,Región de Región de Arica y Parinacota,2020-11-22,44.44444444444444
 15,Región de Región de Arica y Parinacota,2020-11-23,40.74074074074074
+15,Región de Región de Arica y Parinacota,2020-11-24,40.74074074074074
+15,Región de Región de Arica y Parinacota,2020-11-25,40.74074074074074
+15,Región de Región de Arica y Parinacota,2020-11-26,40.74074074074074
+15,Región de Región de Arica y Parinacota,2020-11-27,37.03703703703704
+15,Región de Región de Arica y Parinacota,2020-11-28,37.03703703703704
+15,Región de Región de Arica y Parinacota,2020-11-29,33.333333333333336
+15,Región de Región de Arica y Parinacota,2020-11-30,33.333333333333336
+15,Región de Región de Arica y Parinacota,2020-12-01,33.333333333333336
+15,Región de Región de Arica y Parinacota,2020-12-02,33.333333333333336
 16,Región de Región de Ñuble,2020-04-14,46.15384615384615
 16,Región de Región de Ñuble,2020-04-15,48.148148148148145
 16,Región de Región de Ñuble,2020-04-16,44.44444444444444
@@ -3583,3 +3718,12 @@ codigo_region,region_residencia,fecha,COVID UCI
 16,Región de Región de Ñuble,2020-11-21,33.92857142857143
 16,Región de Región de Ñuble,2020-11-22,30.357142857142858
 16,Región de Región de Ñuble,2020-11-23,32.142857142857146
+16,Región de Región de Ñuble,2020-11-24,35.714285714285715
+16,Región de Región de Ñuble,2020-11-25,33.92857142857143
+16,Región de Región de Ñuble,2020-11-26,35.714285714285715
+16,Región de Región de Ñuble,2020-11-27,33.92857142857143
+16,Región de Región de Ñuble,2020-11-28,39.285714285714285
+16,Región de Región de Ñuble,2020-11-29,32.142857142857146
+16,Región de Región de Ñuble,2020-11-30,35.714285714285715
+16,Región de Región de Ñuble,2020-12-01,41.07142857142857
+16,Región de Región de Ñuble,2020-12-02,48.214285714285715
