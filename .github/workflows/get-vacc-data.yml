@@ -1,0 +1,37 @@
+# This is a basic workflow to help you get started with Actions
+
+name: get-vacc-data
+
+# Controls when the action will run. 
+on:
+
+  # Run this twice a day (midnight and noon) 
+  schedule:    
+    - cron: 0 0,12 * * *
+
+  # Run this workflow manually
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get per comuna-1er vacc file 
+        run: wget https://github.com/MinCiencia/Datos-COVID19/raw/master/output/producto80/vacunacion_comuna_1eraDosis_std.csv -O data-vacunas/vacc-com-1er.csv
+
+      - name: Get per comuna-1er vacc file 
+        run: wget https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto80/vacunacion_comuna_2daDosis_std.csv -O data-vacunas/vacc-com-2da.csv
+
+      - name: Get per region vacc file 
+        run: wget https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto76/vacunacion_std.csv -O data-vacunas/vacc-reg.csv
+
+      - uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with:
+          commit_message: "Added vacc data from MinCyT repo"
+          file_pattern: data-vacunas/*.csv
+          commit_user_name: vacc-icovid-action
+          commit_author: icovid-action (jperez)
