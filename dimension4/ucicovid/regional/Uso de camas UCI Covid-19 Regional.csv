@@ -336,6 +336,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 01,Región de Región de Tarapacá,2021-03-14,80.0
 01,Región de Región de Tarapacá,2021-03-15,78.33333333333333
 01,Región de Región de Tarapacá,2021-03-16,85.0
+01,Región de Región de Tarapacá,2021-03-17,81.66666666666667
+01,Región de Región de Tarapacá,2021-03-18,83.33333333333333
+01,Región de Región de Tarapacá,2021-03-19,83.33333333333333
+01,Región de Región de Tarapacá,2021-03-20,85.0
+01,Región de Región de Tarapacá,2021-03-21,88.52459016393442
+01,Región de Región de Tarapacá,2021-03-22,83.60655737704919
+01,Región de Región de Tarapacá,2021-03-23,90.1639344262295
 02,Región de Región de Antofagasta,2020-04-14,7.407407407407407
 02,Región de Región de Antofagasta,2020-04-15,9.25925925925926
 02,Región de Región de Antofagasta,2020-04-16,8.333333333333334
@@ -673,6 +680,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 02,Región de Región de Antofagasta,2021-03-14,61.37931034482759
 02,Región de Región de Antofagasta,2021-03-15,60.0
 02,Región de Región de Antofagasta,2021-03-16,61.80555555555556
+02,Región de Región de Antofagasta,2021-03-17,66.43356643356644
+02,Región de Región de Antofagasta,2021-03-18,66.43835616438356
+02,Región de Región de Antofagasta,2021-03-19,64.42953020134229
+02,Región de Región de Antofagasta,2021-03-20,63.333333333333336
+02,Región de Región de Antofagasta,2021-03-21,62.666666666666664
+02,Región de Región de Antofagasta,2021-03-22,63.333333333333336
+02,Región de Región de Antofagasta,2021-03-23,66.66666666666667
 03,Región de Región de Atacama,2020-04-14,9.090909090909092
 03,Región de Región de Atacama,2020-04-15,9.090909090909092
 03,Región de Región de Atacama,2020-04-16,9.090909090909092
@@ -1010,6 +1024,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 03,Región de Región de Atacama,2021-03-14,38.46153846153846
 03,Región de Región de Atacama,2021-03-15,37.03703703703704
 03,Región de Región de Atacama,2021-03-16,36.0
+03,Región de Región de Atacama,2021-03-17,38.46153846153846
+03,Región de Región de Atacama,2021-03-18,34.61538461538461
+03,Región de Región de Atacama,2021-03-19,30.76923076923077
+03,Región de Región de Atacama,2021-03-20,34.61538461538461
+03,Región de Región de Atacama,2021-03-21,32.142857142857146
+03,Región de Región de Atacama,2021-03-22,32.142857142857146
+03,Región de Región de Atacama,2021-03-23,43.333333333333336
 04,Región de Región de Coquimbo,2020-04-14,2.1739130434782608
 04,Región de Región de Coquimbo,2020-04-15,2.9411764705882355
 04,Región de Región de Coquimbo,2020-04-16,0.0
@@ -1347,6 +1368,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 04,Región de Región de Coquimbo,2021-03-14,76.85950413223141
 04,Región de Región de Coquimbo,2021-03-15,80.64516129032258
 04,Región de Región de Coquimbo,2021-03-16,82.25806451612904
+04,Región de Región de Coquimbo,2021-03-17,83.33333333333333
+04,Región de Región de Coquimbo,2021-03-18,85.71428571428571
+04,Región de Región de Coquimbo,2021-03-19,78.94736842105263
+04,Región de Región de Coquimbo,2021-03-20,81.203007518797
+04,Región de Región de Coquimbo,2021-03-21,81.203007518797
+04,Región de Región de Coquimbo,2021-03-22,82.70676691729324
+04,Región de Región de Coquimbo,2021-03-23,84.21052631578948
 05,Región de Región de Valparaíso,2020-04-14,10.32258064516129
 05,Región de Región de Valparaíso,2020-04-15,10.256410256410257
 05,Región de Región de Valparaíso,2020-04-16,11.538461538461538
@@ -1684,6 +1712,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 05,Región de Región de Valparaíso,2021-03-14,62.0
 05,Región de Región de Valparaíso,2021-03-15,62.8
 05,Región de Región de Valparaíso,2021-03-16,60.4
+05,Región de Región de Valparaíso,2021-03-17,63.2
+05,Región de Región de Valparaíso,2021-03-18,62.109375
+05,Región de Región de Valparaíso,2021-03-19,64.453125
+05,Región de Región de Valparaíso,2021-03-20,68.75
+05,Región de Región de Valparaíso,2021-03-21,67.05426356589147
+05,Región de Región de Valparaíso,2021-03-22,66.79536679536679
+05,Región de Región de Valparaíso,2021-03-23,67.30038022813689
 06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-14,8.474576271186441
 06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-15,10.344827586206897
 06,Región de Región del Libertador General Bernardo O'Higgins,2020-04-16,6.896551724137931
@@ -2021,6 +2056,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-14,70.71428571428571
 06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-15,70.71428571428571
 06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-16,72.14285714285714
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-17,72.14285714285714
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-18,68.05555555555556
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-19,67.36111111111111
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-20,65.98639455782313
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-21,68.02721088435374
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-22,67.78523489932886
+06,Región de Región del Libertador General Bernardo O'Higgins,2021-03-23,71.14093959731544
 07,Región de Región del Maule,2020-04-14,30.0
 07,Región de Región del Maule,2020-04-15,30.0
 07,Región de Región del Maule,2020-04-16,26.0
@@ -2358,6 +2400,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 07,Región de Región del Maule,2021-03-14,71.66666666666667
 07,Región de Región del Maule,2021-03-15,73.10924369747899
 07,Región de Región del Maule,2021-03-16,69.74789915966386
+07,Región de Región del Maule,2021-03-17,73.10924369747899
+07,Región de Región del Maule,2021-03-18,70.58823529411765
+07,Región de Región del Maule,2021-03-19,72.72727272727273
+07,Región de Región del Maule,2021-03-20,72.1311475409836
+07,Región de Región del Maule,2021-03-21,66.66666666666667
+07,Región de Región del Maule,2021-03-22,69.84126984126983
+07,Región de Región del Maule,2021-03-23,73.01587301587301
 08,Región de Región del Bíobío,2020-04-14,28.0
 08,Región de Región del Bíobío,2020-04-15,26.31578947368421
 08,Región de Región del Bíobío,2020-04-16,21.428571428571427
@@ -2695,6 +2744,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 08,Región de Región del Bíobío,2021-03-14,73.03370786516854
 08,Región de Región del Bíobío,2021-03-15,75.28089887640449
 08,Región de Región del Bíobío,2021-03-16,76.86567164179104
+08,Región de Región del Bíobío,2021-03-17,76.83823529411765
+08,Región de Región del Bíobío,2021-03-18,75.72463768115942
+08,Región de Región del Bíobío,2021-03-19,77.33812949640287
+08,Región de Región del Bíobío,2021-03-20,75.98566308243727
+08,Región de Región del Bíobío,2021-03-21,76.34408602150538
+08,Región de Región del Bíobío,2021-03-22,77.06093189964157
+08,Región de Región del Bíobío,2021-03-23,75.26881720430107
 9,Región de Región de La Araucanía,2020-04-14,54.11764705882353
 9,Región de Región de La Araucanía,2020-04-15,54.76190476190476
 9,Región de Región de La Araucanía,2020-04-16,55.95238095238095
@@ -3032,6 +3088,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 9,Región de Región de La Araucanía,2021-03-14,61.86440677966102
 9,Región de Región de La Araucanía,2021-03-15,68.10344827586206
 9,Región de Región de La Araucanía,2021-03-16,69.49152542372882
+9,Región de Región de La Araucanía,2021-03-17,68.64406779661017
+9,Región de Región de La Araucanía,2021-03-18,66.94915254237289
+9,Región de Región de La Araucanía,2021-03-19,74.33628318584071
+9,Región de Región de La Araucanía,2021-03-20,73.87387387387388
+9,Región de Región de La Araucanía,2021-03-21,70.17543859649123
+9,Región de Región de La Araucanía,2021-03-22,71.9298245614035
+9,Región de Región de La Araucanía,2021-03-23,68.10344827586206
 10,Región de Región de Los Lagos,2020-04-14,44.827586206896555
 10,Región de Región de Los Lagos,2020-04-15,44.827586206896555
 10,Región de Región de Los Lagos,2020-04-16,45.76271186440678
@@ -3369,6 +3432,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 10,Región de Región de Los Lagos,2021-03-14,62.03703703703704
 10,Región de Región de Los Lagos,2021-03-15,62.03703703703704
 10,Región de Región de Los Lagos,2021-03-16,66.66666666666667
+10,Región de Región de Los Lagos,2021-03-17,62.03703703703704
+10,Región de Región de Los Lagos,2021-03-18,60.396039603960396
+10,Región de Región de Los Lagos,2021-03-19,63.366336633663366
+10,Región de Región de Los Lagos,2021-03-20,66.3265306122449
+10,Región de Región de Los Lagos,2021-03-21,62.62626262626262
+10,Región de Región de Los Lagos,2021-03-22,65.65656565656566
+10,Región de Región de Los Lagos,2021-03-23,64.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-14,0.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-15,0.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-04-16,0.0
@@ -3471,8 +3541,8 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-22,12.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-23,12.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-24,12.5
-11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-25,11.11111111111111
-11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-26,11.11111111111111
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-25,12.5
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-26,12.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-27,12.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-28,12.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-07-29,12.5
@@ -3553,7 +3623,7 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-12,62.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-13,62.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-14,75.0
-11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-15,66.66666666666667
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-15,75.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-16,75.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-17,75.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2020-10-18,75.0
@@ -3641,7 +3711,7 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-08,37.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-09,62.5
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-10,50.0
-11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-11,45.45454545454545
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-11,50.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-12,50.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-13,50.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-01-14,50.0
@@ -3706,8 +3776,15 @@ codigo_region,region_residencia,fecha,COVID UCI
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-14,30.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-15,30.0
 11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-16,40.0
-12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-14,41.666666666666664
-12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-15,42.10526315789474
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-17,40.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-18,30.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-19,40.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-20,40.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-21,40.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-22,40.0
+11,Región de Región de Aysén del General Carlos Ibáñez del Campo,2021-03-23,20.0
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-14,46.875
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-15,50.0
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-16,56.25
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-17,56.25
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-04-18,53.125
@@ -3737,8 +3814,8 @@ codigo_region,region_residencia,fecha,COVID UCI
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-12,50.0
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-13,37.5
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-14,37.5
-12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-15,31.57894736842105
-12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-16,28.94736842105263
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-15,37.5
+12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-16,34.375
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-17,34.375
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-18,37.5
 12,Región de Región de Magallanes y de la Antártica Chilena,2020-05-19,31.25
@@ -4043,6 +4120,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-14,41.37931034482759
 12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-15,37.93103448275862
 12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-16,41.37931034482759
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-17,38.70967741935484
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-18,32.25806451612903
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-19,35.714285714285715
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-20,34.48275862068966
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-21,28.571428571428573
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-22,21.875
+12,Región de Región de Magallanes y de la Antártica Chilena,2021-03-23,26.666666666666668
 13,Región de Región Metropolitana de Santiago,2020-04-14,23.95964691046658
 13,Región de Región Metropolitana de Santiago,2020-04-15,24.504950495049506
 13,Región de Región Metropolitana de Santiago,2020-04-16,24.257425742574256
@@ -4380,6 +4464,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 13,Región de Región Metropolitana de Santiago,2021-03-14,61.360874848116644
 13,Región de Región Metropolitana de Santiago,2021-03-15,62.13768115942029
 13,Región de Región Metropolitana de Santiago,2021-03-16,63.18615751789976
+13,Región de Región Metropolitana de Santiago,2021-03-17,61.705781339439035
+13,Región de Región Metropolitana de Santiago,2021-03-18,61.86726659167604
+13,Región de Región Metropolitana de Santiago,2021-03-19,63.11659192825112
+13,Región de Región Metropolitana de Santiago,2021-03-20,63.59600443951165
+13,Región de Región Metropolitana de Santiago,2021-03-21,63.34792122538293
+13,Región de Región Metropolitana de Santiago,2021-03-22,64.5002730748225
+13,Región de Región Metropolitana de Santiago,2021-03-23,64.95680345572354
 14,Región de Región de Los Ríos,2020-04-14,31.818181818181817
 14,Región de Región de Los Ríos,2020-04-15,27.272727272727273
 14,Región de Región de Los Ríos,2020-04-16,31.818181818181817
@@ -4717,6 +4808,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 14,Región de Región de Los Ríos,2021-03-14,63.888888888888886
 14,Región de Región de Los Ríos,2021-03-15,61.111111111111114
 14,Región de Región de Los Ríos,2021-03-16,66.66666666666667
+14,Región de Región de Los Ríos,2021-03-17,63.888888888888886
+14,Región de Región de Los Ríos,2021-03-18,60.0
+14,Región de Región de Los Ríos,2021-03-19,52.27272727272727
+14,Región de Región de Los Ríos,2021-03-20,59.09090909090909
+14,Región de Región de Los Ríos,2021-03-21,54.54545454545455
+14,Región de Región de Los Ríos,2021-03-22,70.45454545454545
+14,Región de Región de Los Ríos,2021-03-23,63.63636363636363
 15,Región de Región de Arica y Parinacota,2020-04-14,55.55555555555556
 15,Región de Región de Arica y Parinacota,2020-04-15,55.55555555555556
 15,Región de Región de Arica y Parinacota,2020-04-16,54.54545454545455
@@ -4935,9 +5033,9 @@ codigo_region,region_residencia,fecha,COVID UCI
 15,Región de Región de Arica y Parinacota,2020-11-15,51.851851851851855
 15,Región de Región de Arica y Parinacota,2020-11-16,51.851851851851855
 15,Región de Región de Arica y Parinacota,2020-11-17,51.851851851851855
-15,Región de Región de Arica y Parinacota,2020-11-18,60.869565217391305
-15,Región de Región de Arica y Parinacota,2020-11-19,60.869565217391305
-15,Región de Región de Arica y Parinacota,2020-11-20,60.869565217391305
+15,Región de Región de Arica y Parinacota,2020-11-18,51.851851851851855
+15,Región de Región de Arica y Parinacota,2020-11-19,51.851851851851855
+15,Región de Región de Arica y Parinacota,2020-11-20,51.851851851851855
 15,Región de Región de Arica y Parinacota,2020-11-21,51.851851851851855
 15,Región de Región de Arica y Parinacota,2020-11-22,44.44444444444444
 15,Región de Región de Arica y Parinacota,2020-11-23,40.74074074074074
@@ -4984,8 +5082,8 @@ codigo_region,region_residencia,fecha,COVID UCI
 15,Región de Región de Arica y Parinacota,2021-01-03,22.22222222222222
 15,Región de Región de Arica y Parinacota,2021-01-04,18.51851851851852
 15,Región de Región de Arica y Parinacota,2021-01-05,18.51851851851852
-15,Región de Región de Arica y Parinacota,2021-01-06,14.285714285714286
-15,Región de Región de Arica y Parinacota,2021-01-07,17.142857142857142
+15,Región de Región de Arica y Parinacota,2021-01-06,18.51851851851852
+15,Región de Región de Arica y Parinacota,2021-01-07,22.22222222222222
 15,Región de Región de Arica y Parinacota,2021-01-08,25.925925925925927
 15,Región de Región de Arica y Parinacota,2021-01-09,25.925925925925927
 15,Región de Región de Arica y Parinacota,2021-01-10,44.44444444444444
@@ -5054,6 +5152,13 @@ codigo_region,region_residencia,fecha,COVID UCI
 15,Región de Región de Arica y Parinacota,2021-03-14,60.714285714285715
 15,Región de Región de Arica y Parinacota,2021-03-15,58.62068965517241
 15,Región de Región de Arica y Parinacota,2021-03-16,65.51724137931035
+15,Región de Región de Arica y Parinacota,2021-03-17,57.142857142857146
+15,Región de Región de Arica y Parinacota,2021-03-18,53.125
+15,Región de Región de Arica y Parinacota,2021-03-19,60.60606060606061
+15,Región de Región de Arica y Parinacota,2021-03-20,60.60606060606061
+15,Región de Región de Arica y Parinacota,2021-03-21,59.375
+15,Región de Región de Arica y Parinacota,2021-03-22,60.60606060606061
+15,Región de Región de Arica y Parinacota,2021-03-23,63.63636363636363
 16,Región de Región de Ñuble,2020-04-14,46.15384615384615
 16,Región de Región de Ñuble,2020-04-15,48.148148148148145
 16,Región de Región de Ñuble,2020-04-16,44.44444444444444
@@ -5391,3 +5496,10 @@ codigo_region,region_residencia,fecha,COVID UCI
 16,Región de Región de Ñuble,2021-03-14,57.377049180327866
 16,Región de Región de Ñuble,2021-03-15,60.65573770491803
 16,Región de Región de Ñuble,2021-03-16,57.377049180327866
+16,Región de Región de Ñuble,2021-03-17,61.29032258064516
+16,Región de Región de Ñuble,2021-03-18,61.29032258064516
+16,Región de Región de Ñuble,2021-03-19,61.29032258064516
+16,Región de Región de Ñuble,2021-03-20,62.295081967213115
+16,Región de Región de Ñuble,2021-03-21,63.9344262295082
+16,Región de Región de Ñuble,2021-03-22,60.65573770491803
+16,Región de Región de Ñuble,2021-03-23,67.21311475409836
