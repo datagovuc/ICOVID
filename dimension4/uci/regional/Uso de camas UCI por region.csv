@@ -511,6 +511,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 01,Región de Tarapacá,2021-09-05,77.42
 01,Región de Tarapacá,2021-09-06,74.19
 01,Región de Tarapacá,2021-09-07,77.42
+01,Región de Tarapacá,2021-09-08,77.42
+01,Región de Tarapacá,2021-09-09,77.42
+01,Región de Tarapacá,2021-09-10,51.61
+01,Región de Tarapacá,2021-09-11,51.61
+01,Región de Tarapacá,2021-09-12,58.06
+01,Región de Tarapacá,2021-09-13,61.29
+01,Región de Tarapacá,2021-09-14,64.29
 02,Región de Antofagasta,2020-04-14,55.56
 02,Región de Antofagasta,2020-04-15,55.56
 02,Región de Antofagasta,2020-04-16,68.33
@@ -1023,6 +1030,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 02,Región de Antofagasta,2021-09-05,85.48
 02,Región de Antofagasta,2021-09-06,85.48
 02,Región de Antofagasta,2021-09-07,86.29
+02,Región de Antofagasta,2021-09-08,86.99
+02,Región de Antofagasta,2021-09-09,90.4
+02,Región de Antofagasta,2021-09-10,88.0
+02,Región de Antofagasta,2021-09-11,85.6
+02,Región de Antofagasta,2021-09-12,82.4
+02,Región de Antofagasta,2021-09-13,84.0
+02,Región de Antofagasta,2021-09-14,82.79
 03,Región de Atacama,2020-04-14,45.45
 03,Región de Atacama,2020-04-15,54.55
 03,Región de Atacama,2020-04-16,54.55
@@ -1535,6 +1549,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 03,Región de Atacama,2021-09-05,81.82
 03,Región de Atacama,2021-09-06,77.27
 03,Región de Atacama,2021-09-07,81.82
+03,Región de Atacama,2021-09-08,68.18
+03,Región de Atacama,2021-09-09,68.18
+03,Región de Atacama,2021-09-10,68.18
+03,Región de Atacama,2021-09-11,77.27
+03,Región de Atacama,2021-09-12,81.82
+03,Región de Atacama,2021-09-13,72.73
+03,Región de Atacama,2021-09-14,80.95
 04,Región de Coquimbo,2020-04-14,69.57
 04,Región de Coquimbo,2020-04-15,61.76
 04,Región de Coquimbo,2020-04-16,67.44
@@ -2047,6 +2068,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 04,Región de Coquimbo,2021-09-05,87.36
 04,Región de Coquimbo,2021-09-06,87.36
 04,Región de Coquimbo,2021-09-07,86.21
+04,Región de Coquimbo,2021-09-08,83.91
+04,Región de Coquimbo,2021-09-09,80.46
+04,Región de Coquimbo,2021-09-10,85.06
+04,Región de Coquimbo,2021-09-11,87.65
+04,Región de Coquimbo,2021-09-12,87.8
+04,Región de Coquimbo,2021-09-13,90.79
+04,Región de Coquimbo,2021-09-14,93.33
 05,Región de Valparaíso,2020-04-14,62.58
 05,Región de Valparaíso,2020-04-15,62.82
 05,Región de Valparaíso,2020-04-16,63.46
@@ -2559,6 +2587,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 05,Región de Valparaíso,2021-09-05,89.1
 05,Región de Valparaíso,2021-09-06,88.63
 05,Región de Valparaíso,2021-09-07,85.31
+05,Región de Valparaíso,2021-09-08,88.63
+05,Región de Valparaíso,2021-09-09,90.52
+05,Región de Valparaíso,2021-09-10,91.18
+05,Región de Valparaíso,2021-09-11,88.38
+05,Región de Valparaíso,2021-09-12,86.36
+05,Región de Valparaíso,2021-09-13,84.85
+05,Región de Valparaíso,2021-09-14,85.86
 06,Región del Libertador General Bernardo O'Higgins,2020-04-14,49.15
 06,Región del Libertador General Bernardo O'Higgins,2020-04-15,55.17
 06,Región del Libertador General Bernardo O'Higgins,2020-04-16,55.17
@@ -3071,6 +3106,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 06,Región del Libertador General Bernardo O'Higgins,2021-09-05,73.12
 06,Región del Libertador General Bernardo O'Higgins,2021-09-06,74.19
 06,Región del Libertador General Bernardo O'Higgins,2021-09-07,80.65
+06,Región del Libertador General Bernardo O'Higgins,2021-09-08,78.49
+06,Región del Libertador General Bernardo O'Higgins,2021-09-09,76.34
+06,Región del Libertador General Bernardo O'Higgins,2021-09-10,74.07
+06,Región del Libertador General Bernardo O'Higgins,2021-09-11,76.54
+06,Región del Libertador General Bernardo O'Higgins,2021-09-12,75.31
+06,Región del Libertador General Bernardo O'Higgins,2021-09-13,75.31
+06,Región del Libertador General Bernardo O'Higgins,2021-09-14,75.31
 07,Región del Maule,2020-04-14,66.0
 07,Región del Maule,2020-04-15,72.0
 07,Región del Maule,2020-04-16,58.0
@@ -3583,6 +3625,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 07,Región del Maule,2021-09-05,75.61
 07,Región del Maule,2021-09-06,70.73
 07,Región del Maule,2021-09-07,72.36
+07,Región del Maule,2021-09-08,70.73
+07,Región del Maule,2021-09-09,69.11
+07,Región del Maule,2021-09-10,66.67
+07,Región del Maule,2021-09-11,69.92
+07,Región del Maule,2021-09-12,71.54
+07,Región del Maule,2021-09-13,72.36
+07,Región del Maule,2021-09-14,73.17
 08,Región del Bíobío,2020-04-14,72.0
 08,Región del Bíobío,2020-04-15,61.65
 08,Región del Bíobío,2020-04-16,56.43
@@ -4095,6 +4144,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,2021-09-05,82.05
 08,Región del Bíobío,2021-09-06,79.91
 08,Región del Bíobío,2021-09-07,82.05
+08,Región del Bíobío,2021-09-08,82.59
+08,Región del Bíobío,2021-09-09,83.5
+08,Región del Bíobío,2021-09-10,84.54
+08,Región del Bíobío,2021-09-11,78.74
+08,Región del Bíobío,2021-09-12,78.68
+08,Región del Bíobío,2021-09-13,82.23
+08,Región del Bíobío,2021-09-14,82.23
 9,Región de La Araucanía,2020-04-14,81.18
 9,Región de La Araucanía,2020-04-15,79.76
 9,Región de La Araucanía,2020-04-16,80.95
@@ -4607,6 +4663,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 9,Región de La Araucanía,2021-09-05,78.12
 9,Región de La Araucanía,2021-09-06,74.22
 9,Región de La Araucanía,2021-09-07,82.54
+9,Región de La Araucanía,2021-09-08,78.57
+9,Región de La Araucanía,2021-09-09,82.54
+9,Región de La Araucanía,2021-09-10,80.95
+9,Región de La Araucanía,2021-09-11,83.33
+9,Región de La Araucanía,2021-09-12,83.33
+9,Región de La Araucanía,2021-09-13,82.54
+9,Región de La Araucanía,2021-09-14,80.8
 10,Región de Los Lagos,2020-04-14,74.14
 10,Región de Los Lagos,2020-04-15,72.41
 10,Región de Los Lagos,2020-04-16,71.19
@@ -5119,6 +5182,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 10,Región de Los Lagos,2021-09-05,78.57
 10,Región de Los Lagos,2021-09-06,82.83
 10,Región de Los Lagos,2021-09-07,87.88
+10,Región de Los Lagos,2021-09-08,90.91
+10,Región de Los Lagos,2021-09-09,88.89
+10,Región de Los Lagos,2021-09-10,90.72
+10,Región de Los Lagos,2021-09-11,90.91
+10,Región de Los Lagos,2021-09-12,89.36
+10,Región de Los Lagos,2021-09-13,82.98
+10,Región de Los Lagos,2021-09-14,87.88
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-14,25.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-15,37.5
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-16,25.0
@@ -5631,6 +5701,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-05,20.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-06,20.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-07,20.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-08,10.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-09,10.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-10,30.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-11,30.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-12,30.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-13,60.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2021-09-14,40.0
 12,Región de Magallanes y de la Antártica Chilena,2020-04-14,62.5
 12,Región de Magallanes y de la Antártica Chilena,2020-04-15,56.25
 12,Región de Magallanes y de la Antártica Chilena,2020-04-16,68.75
@@ -6143,6 +6220,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 12,Región de Magallanes y de la Antártica Chilena,2021-09-05,41.67
 12,Región de Magallanes y de la Antártica Chilena,2021-09-06,47.22
 12,Región de Magallanes y de la Antártica Chilena,2021-09-07,52.78
+12,Región de Magallanes y de la Antártica Chilena,2021-09-08,55.56
+12,Región de Magallanes y de la Antártica Chilena,2021-09-09,61.11
+12,Región de Magallanes y de la Antártica Chilena,2021-09-10,50.0
+12,Región de Magallanes y de la Antártica Chilena,2021-09-11,54.17
+12,Región de Magallanes y de la Antártica Chilena,2021-09-12,45.83
+12,Región de Magallanes y de la Antártica Chilena,2021-09-13,54.17
+12,Región de Magallanes y de la Antártica Chilena,2021-09-14,54.17
 13,Región Metropolitana de Santiago,2020-04-14,62.55
 13,Región Metropolitana de Santiago,2020-04-15,63.12
 13,Región Metropolitana de Santiago,2020-04-16,64.23
@@ -6655,6 +6739,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,2021-09-05,84.71
 13,Región Metropolitana de Santiago,2021-09-06,84.71
 13,Región Metropolitana de Santiago,2021-09-07,85.37
+13,Región Metropolitana de Santiago,2021-09-08,85.76
+13,Región Metropolitana de Santiago,2021-09-09,83.99
+13,Región Metropolitana de Santiago,2021-09-10,84.87
+13,Región Metropolitana de Santiago,2021-09-11,85.54
+13,Región Metropolitana de Santiago,2021-09-12,85.27
+13,Región Metropolitana de Santiago,2021-09-13,85.02
+13,Región Metropolitana de Santiago,2021-09-14,84.13
 14,Región de Los Ríos,2020-04-14,59.09
 14,Región de Los Ríos,2020-04-15,63.64
 14,Región de Los Ríos,2020-04-16,63.64
@@ -7167,6 +7258,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 14,Región de Los Ríos,2021-09-05,85.71
 14,Región de Los Ríos,2021-09-06,89.29
 14,Región de Los Ríos,2021-09-07,82.14
+14,Región de Los Ríos,2021-09-08,89.66
+14,Región de Los Ríos,2021-09-09,78.57
+14,Región de Los Ríos,2021-09-10,64.29
+14,Región de Los Ríos,2021-09-11,67.86
+14,Región de Los Ríos,2021-09-12,71.43
+14,Región de Los Ríos,2021-09-13,78.57
+14,Región de Los Ríos,2021-09-14,85.71
 15,Región de Arica y Parinacota,2020-04-14,77.78
 15,Región de Arica y Parinacota,2020-04-15,77.78
 15,Región de Arica y Parinacota,2020-04-16,90.91
@@ -7679,6 +7777,13 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 15,Región de Arica y Parinacota,2021-09-05,55.56
 15,Región de Arica y Parinacota,2021-09-06,50.0
 15,Región de Arica y Parinacota,2021-09-07,50.0
+15,Región de Arica y Parinacota,2021-09-08,55.56
+15,Región de Arica y Parinacota,2021-09-09,50.0
+15,Región de Arica y Parinacota,2021-09-10,55.56
+15,Región de Arica y Parinacota,2021-09-11,50.0
+15,Región de Arica y Parinacota,2021-09-12,50.0
+15,Región de Arica y Parinacota,2021-09-13,44.44
+15,Región de Arica y Parinacota,2021-09-14,50.0
 16,Región de Ñuble,2020-04-14,50.0
 16,Región de Ñuble,2020-04-15,51.85
 16,Región de Ñuble,2020-04-16,55.56
@@ -8191,3 +8296,10 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 16,Región de Ñuble,2021-09-05,54.35
 16,Región de Ñuble,2021-09-06,67.39
 16,Región de Ñuble,2021-09-07,67.39
+16,Región de Ñuble,2021-09-08,60.87
+16,Región de Ñuble,2021-09-09,50.0
+16,Región de Ñuble,2021-09-10,54.35
+16,Región de Ñuble,2021-09-11,54.35
+16,Región de Ñuble,2021-09-12,50.0
+16,Región de Ñuble,2021-09-13,47.83
+16,Región de Ñuble,2021-09-14,43.48
