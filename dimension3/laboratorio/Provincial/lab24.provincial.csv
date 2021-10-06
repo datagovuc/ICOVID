@@ -453,22 +453,22 @@ Arica y Parinacota,15,Arica,151,2021-06-03,0.7831189939991521
 Arica y Parinacota,15,Arica,151,2021-06-04,0.791529630981217
 Arica y Parinacota,15,Arica,151,2021-06-05,0.7862676515813071
 Arica y Parinacota,15,Arica,151,2021-06-06,0.789068772029486
-Arica y Parinacota,15,Arica,151,2021-06-07,0.788844330328218
-Arica y Parinacota,15,Arica,151,2021-06-08,0.7879128153121958
-Arica y Parinacota,15,Arica,151,2021-06-09,0.7976868398645459
-Arica y Parinacota,15,Arica,151,2021-06-10,0.7802718738781509
-Arica y Parinacota,15,Arica,151,2021-06-11,0.764762745325544
-Arica y Parinacota,15,Arica,151,2021-06-12,0.7838045143673129
-Arica y Parinacota,15,Arica,151,2021-06-13,0.781003393919134
+Arica y Parinacota,15,Arica,151,2021-06-07,0.786899813864645
+Arica y Parinacota,15,Arica,151,2021-06-08,0.7859682988486228
+Arica y Parinacota,15,Arica,151,2021-06-09,0.7957423234009731
+Arica y Parinacota,15,Arica,151,2021-06-10,0.778327357414578
+Arica y Parinacota,15,Arica,151,2021-06-11,0.7628182288619721
+Arica y Parinacota,15,Arica,151,2021-06-12,0.781859997903741
+Arica y Parinacota,15,Arica,151,2021-06-13,0.7790588774555609
 Arica y Parinacota,15,Arica,151,2021-06-14,0.7784255206645692
 Arica y Parinacota,15,Arica,151,2021-06-15,0.787436764050813
-Arica y Parinacota,15,Arica,151,2021-06-16,0.772783150532075
-Arica y Parinacota,15,Arica,151,2021-06-17,0.796337157500716
-Arica y Parinacota,15,Arica,151,2021-06-18,0.8077243210617919
-Arica y Parinacota,15,Arica,151,2021-06-19,0.8074711404807429
-Arica y Parinacota,15,Arica,151,2021-06-20,0.809431924794468
-Arica y Parinacota,15,Arica,151,2021-06-21,0.8092981007730571
-Arica y Parinacota,15,Arica,151,2021-06-22,0.8011918977655379
+Arica y Parinacota,15,Arica,151,2021-06-16,0.774174164581317
+Arica y Parinacota,15,Arica,151,2021-06-17,0.797728171549958
+Arica y Parinacota,15,Arica,151,2021-06-18,0.8091153351110341
+Arica y Parinacota,15,Arica,151,2021-06-19,0.808862154529985
+Arica y Parinacota,15,Arica,151,2021-06-20,0.8108229388437099
+Arica y Parinacota,15,Arica,151,2021-06-21,0.810689114822299
+Arica y Parinacota,15,Arica,151,2021-06-22,0.80258291181478
 Arica y Parinacota,15,Arica,151,2021-06-23,0.7913941006259679
 Arica y Parinacota,15,Arica,151,2021-06-24,0.7744507379150299
 Arica y Parinacota,15,Arica,151,2021-06-25,0.7776884807457429
@@ -531,13 +531,13 @@ Arica y Parinacota,15,Arica,151,2021-08-20,0.8051948051948051
 Arica y Parinacota,15,Arica,151,2021-08-21,0.9480519480519479
 Arica y Parinacota,15,Arica,151,2021-08-22,0.9480519480519479
 Arica y Parinacota,15,Arica,151,2021-08-23,0.9480519480519479
-Arica y Parinacota,15,Arica,151,2021-08-24,0.9714285714285709
-Arica y Parinacota,15,Arica,151,2021-08-25,0.9714285714285709
-Arica y Parinacota,15,Arica,151,2021-08-26,0.9714285714285709
-Arica y Parinacota,15,Arica,151,2021-08-27,0.942857142857143
-Arica y Parinacota,15,Arica,151,2021-08-28,0.942857142857143
-Arica y Parinacota,15,Arica,151,2021-08-29,0.942857142857143
-Arica y Parinacota,15,Arica,151,2021-08-30,0.942857142857143
+Arica y Parinacota,15,Arica,151,2021-08-24,0.9523809523809521
+Arica y Parinacota,15,Arica,151,2021-08-25,0.9523809523809521
+Arica y Parinacota,15,Arica,151,2021-08-26,0.9523809523809521
+Arica y Parinacota,15,Arica,151,2021-08-27,0.9238095238095241
+Arica y Parinacota,15,Arica,151,2021-08-28,0.9238095238095241
+Arica y Parinacota,15,Arica,151,2021-08-29,0.9238095238095241
+Arica y Parinacota,15,Arica,151,2021-08-30,0.9238095238095241
 Arica y Parinacota,15,Arica,151,2021-08-31,0.9238095238095241
 Arica y Parinacota,15,Arica,151,2021-09-01,0.9238095238095241
 Arica y Parinacota,15,Arica,151,2021-09-02,0.9238095238095241
@@ -558,6 +558,12 @@ Arica y Parinacota,15,Arica,151,2021-09-16,0.9715506715506721
 Arica y Parinacota,15,Arica,151,2021-09-17,0.970870399441828
 Arica y Parinacota,15,Arica,151,2021-09-18,0.9232513518227801
 Arica y Parinacota,15,Arica,151,2021-09-19,0.9342403628117909
+Arica y Parinacota,15,Arica,151,2021-09-20,0.9342403628117909
+Arica y Parinacota,15,Arica,151,2021-09-21,0.9271392767633371
+Arica y Parinacota,15,Arica,151,2021-09-22,0.9271392767633371
+Arica y Parinacota,15,Arica,151,2021-09-23,0.9196204797708559
+Arica y Parinacota,15,Arica,151,2021-09-24,0.86860007160759
+Arica y Parinacota,15,Arica,151,2021-09-25,0.9066953097028291
 Arica y Parinacota,15,Parinacota,152,2020-03-10,
 Arica y Parinacota,15,Parinacota,152,2020-03-11,
 Arica y Parinacota,15,Parinacota,152,2020-03-12,
@@ -1117,6 +1123,12 @@ Arica y Parinacota,15,Parinacota,152,2021-09-16,
 Arica y Parinacota,15,Parinacota,152,2021-09-17,
 Arica y Parinacota,15,Parinacota,152,2021-09-18,
 Arica y Parinacota,15,Parinacota,152,2021-09-19,
+Arica y Parinacota,15,Parinacota,152,2021-09-20,
+Arica y Parinacota,15,Parinacota,152,2021-09-21,
+Arica y Parinacota,15,Parinacota,152,2021-09-22,
+Arica y Parinacota,15,Parinacota,152,2021-09-23,
+Arica y Parinacota,15,Parinacota,152,2021-09-24,
+Arica y Parinacota,15,Parinacota,152,2021-09-25,
 Tarapacá,1,Iquique,11,2020-03-10,
 Tarapacá,1,Iquique,11,2020-03-11,
 Tarapacá,1,Iquique,11,2020-03-12,
@@ -1642,13 +1654,13 @@ Tarapacá,1,Iquique,11,2021-08-13,0.623412698412698
 Tarapacá,1,Iquique,11,2021-08-14,0.7126984126984129
 Tarapacá,1,Iquique,11,2021-08-15,0.776190476190476
 Tarapacá,1,Iquique,11,2021-08-16,0.7212454212454209
-Tarapacá,1,Iquique,11,2021-08-17,0.7229461015175301
-Tarapacá,1,Iquique,11,2021-08-18,0.705939298796442
-Tarapacá,1,Iquique,11,2021-08-19,0.743615907901622
-Tarapacá,1,Iquique,11,2021-08-20,0.7531397174254321
-Tarapacá,1,Iquique,11,2021-08-21,0.651098901098901
-Tarapacá,1,Iquique,11,2021-08-22,0.508241758241758
-Tarapacá,1,Iquique,11,2021-08-23,0.506043956043956
+Tarapacá,1,Iquique,11,2021-08-17,0.730521859093288
+Tarapacá,1,Iquique,11,2021-08-18,0.713515056372199
+Tarapacá,1,Iquique,11,2021-08-19,0.75119166547738
+Tarapacá,1,Iquique,11,2021-08-20,0.7607154750011891
+Tarapacá,1,Iquique,11,2021-08-21,0.6586746586746589
+Tarapacá,1,Iquique,11,2021-08-22,0.515817515817516
+Tarapacá,1,Iquique,11,2021-08-23,0.513619713619714
 Tarapacá,1,Iquique,11,2021-08-24,0.52985347985348
 Tarapacá,1,Iquique,11,2021-08-25,0.550261643118786
 Tarapacá,1,Iquique,11,2021-08-26,0.5049319727891161
@@ -1676,6 +1688,12 @@ Tarapacá,1,Iquique,11,2021-09-16,0.6233147804576379
 Tarapacá,1,Iquique,11,2021-09-17,0.558008658008658
 Tarapacá,1,Iquique,11,2021-09-18,
 Tarapacá,1,Iquique,11,2021-09-19,
+Tarapacá,1,Iquique,11,2021-09-20,
+Tarapacá,1,Iquique,11,2021-09-21,
+Tarapacá,1,Iquique,11,2021-09-22,
+Tarapacá,1,Iquique,11,2021-09-23,
+Tarapacá,1,Iquique,11,2021-09-24,
+Tarapacá,1,Iquique,11,2021-09-25,0.496938775510204
 Tarapacá,1,Tamarugal,14,2020-03-10,
 Tarapacá,1,Tamarugal,14,2020-03-11,
 Tarapacá,1,Tamarugal,14,2020-03-12,
@@ -2235,6 +2253,12 @@ Tarapacá,1,Tamarugal,14,2021-09-16,
 Tarapacá,1,Tamarugal,14,2021-09-17,
 Tarapacá,1,Tamarugal,14,2021-09-18,
 Tarapacá,1,Tamarugal,14,2021-09-19,
+Tarapacá,1,Tamarugal,14,2021-09-20,
+Tarapacá,1,Tamarugal,14,2021-09-21,
+Tarapacá,1,Tamarugal,14,2021-09-22,
+Tarapacá,1,Tamarugal,14,2021-09-23,
+Tarapacá,1,Tamarugal,14,2021-09-24,
+Tarapacá,1,Tamarugal,14,2021-09-25,
 Antofagasta,2,Antofagasta,21,2020-03-10,
 Antofagasta,2,Antofagasta,21,2020-03-11,
 Antofagasta,2,Antofagasta,21,2020-03-12,
@@ -2317,13 +2341,13 @@ Antofagasta,2,Antofagasta,21,2020-05-27,0.342095995782213
 Antofagasta,2,Antofagasta,21,2020-05-28,0.303389604134645
 Antofagasta,2,Antofagasta,21,2020-05-29,0.3061168768619181
 Antofagasta,2,Antofagasta,21,2020-05-30,0.28928014216804
-Antofagasta,2,Antofagasta,21,2020-05-31,0.281989187508665
-Antofagasta,2,Antofagasta,21,2020-06-01,0.279299536552005
-Antofagasta,2,Antofagasta,21,2020-06-02,0.26519070905874303
-Antofagasta,2,Antofagasta,21,2020-06-03,0.272673702256022
-Antofagasta,2,Antofagasta,21,2020-06-04,0.271358890617081
-Antofagasta,2,Antofagasta,21,2020-06-05,0.284070260879471
-Antofagasta,2,Antofagasta,21,2020-06-06,0.30192740373661403
+Antofagasta,2,Antofagasta,21,2020-05-31,0.27766018317965996
+Antofagasta,2,Antofagasta,21,2020-06-01,0.274970532223
+Antofagasta,2,Antofagasta,21,2020-06-02,0.26086170472973896
+Antofagasta,2,Antofagasta,21,2020-06-03,0.268344697927018
+Antofagasta,2,Antofagasta,21,2020-06-04,0.267029886288076
+Antofagasta,2,Antofagasta,21,2020-06-05,0.279741256550467
+Antofagasta,2,Antofagasta,21,2020-06-06,0.29759839940761
 Antofagasta,2,Antofagasta,21,2020-06-07,0.31795641976563
 Antofagasta,2,Antofagasta,21,2020-06-08,0.31836065616307596
 Antofagasta,2,Antofagasta,21,2020-06-09,0.328680273140301
@@ -2794,6 +2818,12 @@ Antofagasta,2,Antofagasta,21,2021-09-16,1.0
 Antofagasta,2,Antofagasta,21,2021-09-17,1.0
 Antofagasta,2,Antofagasta,21,2021-09-18,0.9642857142857142
 Antofagasta,2,Antofagasta,21,2021-09-19,0.9234693877551021
+Antofagasta,2,Antofagasta,21,2021-09-20,0.9155328798185941
+Antofagasta,2,Antofagasta,21,2021-09-21,0.886961451247166
+Antofagasta,2,Antofagasta,21,2021-09-22,0.8544939187796329
+Antofagasta,2,Antofagasta,21,2021-09-23,0.783065347351062
+Antofagasta,2,Antofagasta,21,2021-09-24,0.719573283858998
+Antofagasta,2,Antofagasta,21,2021-09-25,0.719573283858998
 Antofagasta,2,El Loa,22,2020-03-10,
 Antofagasta,2,El Loa,22,2020-03-11,
 Antofagasta,2,El Loa,22,2020-03-12,
@@ -3353,6 +3383,12 @@ Antofagasta,2,El Loa,22,2021-09-16,
 Antofagasta,2,El Loa,22,2021-09-17,
 Antofagasta,2,El Loa,22,2021-09-18,
 Antofagasta,2,El Loa,22,2021-09-19,
+Antofagasta,2,El Loa,22,2021-09-20,
+Antofagasta,2,El Loa,22,2021-09-21,
+Antofagasta,2,El Loa,22,2021-09-22,1.0
+Antofagasta,2,El Loa,22,2021-09-23,1.0
+Antofagasta,2,El Loa,22,2021-09-24,0.9761904761904759
+Antofagasta,2,El Loa,22,2021-09-25,0.9761904761904759
 Antofagasta,2,Tocopilla,23,2020-03-10,
 Antofagasta,2,Tocopilla,23,2020-03-11,
 Antofagasta,2,Tocopilla,23,2020-03-12,
@@ -3912,6 +3948,12 @@ Antofagasta,2,Tocopilla,23,2021-09-16,
 Antofagasta,2,Tocopilla,23,2021-09-17,
 Antofagasta,2,Tocopilla,23,2021-09-18,
 Antofagasta,2,Tocopilla,23,2021-09-19,
+Antofagasta,2,Tocopilla,23,2021-09-20,
+Antofagasta,2,Tocopilla,23,2021-09-21,
+Antofagasta,2,Tocopilla,23,2021-09-22,
+Antofagasta,2,Tocopilla,23,2021-09-23,
+Antofagasta,2,Tocopilla,23,2021-09-24,
+Antofagasta,2,Tocopilla,23,2021-09-25,
 Atacama,3,Copiapó,31,2020-03-10,
 Atacama,3,Copiapó,31,2020-03-11,
 Atacama,3,Copiapó,31,2020-03-12,
@@ -4442,7 +4484,7 @@ Atacama,3,Copiapó,31,2021-08-18,
 Atacama,3,Copiapó,31,2021-08-19,
 Atacama,3,Copiapó,31,2021-08-20,
 Atacama,3,Copiapó,31,2021-08-21,
-Atacama,3,Copiapó,31,2021-08-22,0.846825396825397
+Atacama,3,Copiapó,31,2021-08-22,0.818253968253968
 Atacama,3,Copiapó,31,2021-08-23,0.846825396825397
 Atacama,3,Copiapó,31,2021-08-24,0.846825396825397
 Atacama,3,Copiapó,31,2021-08-25,0.8785714285714291
@@ -4470,7 +4512,13 @@ Atacama,3,Copiapó,31,2021-09-15,0.7795918367346941
 Atacama,3,Copiapó,31,2021-09-16,0.7081632653061221
 Atacama,3,Copiapó,31,2021-09-17,0.636734693877551
 Atacama,3,Copiapó,31,2021-09-18,0.6938775510204079
-Atacama,3,Copiapó,31,2021-09-19,0.6938775510204079
+Atacama,3,Copiapó,31,2021-09-19,0.64625850340136
+Atacama,3,Copiapó,31,2021-09-20,0.6190476190476191
+Atacama,3,Copiapó,31,2021-09-21,0.751700680272109
+Atacama,3,Copiapó,31,2021-09-22,0.6088435374149661
+Atacama,3,Copiapó,31,2021-09-23,0.6326530612244899
+Atacama,3,Copiapó,31,2021-09-24,0.7040816326530609
+Atacama,3,Copiapó,31,2021-09-25,0.7040816326530609
 Atacama,3,Chañaral,32,2020-03-10,
 Atacama,3,Chañaral,32,2020-03-11,
 Atacama,3,Chañaral,32,2020-03-12,
@@ -5030,6 +5078,12 @@ Atacama,3,Chañaral,32,2021-09-16,
 Atacama,3,Chañaral,32,2021-09-17,
 Atacama,3,Chañaral,32,2021-09-18,
 Atacama,3,Chañaral,32,2021-09-19,
+Atacama,3,Chañaral,32,2021-09-20,
+Atacama,3,Chañaral,32,2021-09-21,
+Atacama,3,Chañaral,32,2021-09-22,
+Atacama,3,Chañaral,32,2021-09-23,
+Atacama,3,Chañaral,32,2021-09-24,
+Atacama,3,Chañaral,32,2021-09-25,
 Atacama,3,Huasco,33,2020-03-10,
 Atacama,3,Huasco,33,2020-03-11,
 Atacama,3,Huasco,33,2020-03-12,
@@ -5589,6 +5643,12 @@ Atacama,3,Huasco,33,2021-09-16,
 Atacama,3,Huasco,33,2021-09-17,
 Atacama,3,Huasco,33,2021-09-18,
 Atacama,3,Huasco,33,2021-09-19,
+Atacama,3,Huasco,33,2021-09-20,
+Atacama,3,Huasco,33,2021-09-21,
+Atacama,3,Huasco,33,2021-09-22,
+Atacama,3,Huasco,33,2021-09-23,
+Atacama,3,Huasco,33,2021-09-24,
+Atacama,3,Huasco,33,2021-09-25,
 Coquimbo,4,Elqui,41,2020-03-10,
 Coquimbo,4,Elqui,41,2020-03-11,
 Coquimbo,4,Elqui,41,2020-03-12,
@@ -6148,6 +6208,12 @@ Coquimbo,4,Elqui,41,2021-09-16,0.788548752834467
 Coquimbo,4,Elqui,41,2021-09-17,
 Coquimbo,4,Elqui,41,2021-09-18,
 Coquimbo,4,Elqui,41,2021-09-19,
+Coquimbo,4,Elqui,41,2021-09-20,
+Coquimbo,4,Elqui,41,2021-09-21,
+Coquimbo,4,Elqui,41,2021-09-22,
+Coquimbo,4,Elqui,41,2021-09-23,
+Coquimbo,4,Elqui,41,2021-09-24,0.655265216134301
+Coquimbo,4,Elqui,41,2021-09-25,0.6858774610322601
 Coquimbo,4,Choapa,42,2020-03-10,
 Coquimbo,4,Choapa,42,2020-03-11,
 Coquimbo,4,Choapa,42,2020-03-12,
@@ -6707,6 +6773,12 @@ Coquimbo,4,Choapa,42,2021-09-16,
 Coquimbo,4,Choapa,42,2021-09-17,
 Coquimbo,4,Choapa,42,2021-09-18,
 Coquimbo,4,Choapa,42,2021-09-19,
+Coquimbo,4,Choapa,42,2021-09-20,
+Coquimbo,4,Choapa,42,2021-09-21,
+Coquimbo,4,Choapa,42,2021-09-22,
+Coquimbo,4,Choapa,42,2021-09-23,
+Coquimbo,4,Choapa,42,2021-09-24,
+Coquimbo,4,Choapa,42,2021-09-25,
 Coquimbo,4,Limarí,43,2020-03-10,
 Coquimbo,4,Limarí,43,2020-03-11,
 Coquimbo,4,Limarí,43,2020-03-12,
@@ -7217,13 +7289,13 @@ Coquimbo,4,Limarí,43,2021-07-29,0.56530612244898
 Coquimbo,4,Limarí,43,2021-07-30,0.538095238095238
 Coquimbo,4,Limarí,43,2021-07-31,0.46666666666666706
 Coquimbo,4,Limarí,43,2021-08-01,0.5857142857142861
-Coquimbo,4,Limarí,43,2021-08-02,0.628571428571429
-Coquimbo,4,Limarí,43,2021-08-03,0.628571428571429
-Coquimbo,4,Limarí,43,2021-08-04,0.654081632653061
-Coquimbo,4,Limarí,43,2021-08-05,0.665986394557823
-Coquimbo,4,Limarí,43,2021-08-06,0.713605442176871
-Coquimbo,4,Limarí,43,2021-08-07,0.856462585034014
-Coquimbo,4,Limarí,43,2021-08-08,0.880272108843537
+Coquimbo,4,Limarí,43,2021-08-02,0.616883116883117
+Coquimbo,4,Limarí,43,2021-08-03,0.616883116883117
+Coquimbo,4,Limarí,43,2021-08-04,0.64239332096475
+Coquimbo,4,Limarí,43,2021-08-05,0.6542980828695111
+Coquimbo,4,Limarí,43,2021-08-06,0.701917130488559
+Coquimbo,4,Limarí,43,2021-08-07,0.844774273345702
+Coquimbo,4,Limarí,43,2021-08-08,0.868583797155226
 Coquimbo,4,Limarí,43,2021-08-09,0.8231292517006801
 Coquimbo,4,Limarí,43,2021-08-10,0.8231292517006801
 Coquimbo,4,Limarí,43,2021-08-11,0.9047619047619051
@@ -7266,6 +7338,12 @@ Coquimbo,4,Limarí,43,2021-09-16,
 Coquimbo,4,Limarí,43,2021-09-17,
 Coquimbo,4,Limarí,43,2021-09-18,
 Coquimbo,4,Limarí,43,2021-09-19,0.5904761904761899
+Coquimbo,4,Limarí,43,2021-09-20,0.62108843537415
+Coquimbo,4,Limarí,43,2021-09-21,0.62108843537415
+Coquimbo,4,Limarí,43,2021-09-22,0.716326530612245
+Coquimbo,4,Limarí,43,2021-09-23,0.716326530612245
+Coquimbo,4,Limarí,43,2021-09-24,0.8448979591836729
+Coquimbo,4,Limarí,43,2021-09-25,0.8448979591836729
 Valparaíso,5,Valparaíso,51,2020-03-10,
 Valparaíso,5,Valparaíso,51,2020-03-11,
 Valparaíso,5,Valparaíso,51,2020-03-12,
@@ -7665,13 +7743,13 @@ Valparaíso,5,Valparaíso,51,2021-04-09,0.658442903889454
 Valparaíso,5,Valparaíso,51,2021-04-10,0.6778635753838579
 Valparaíso,5,Valparaíso,51,2021-04-11,0.674092588195091
 Valparaíso,5,Valparaíso,51,2021-04-12,0.6602279192950871
-Valparaíso,5,Valparaíso,51,2021-04-13,0.644814199156957
-Valparaíso,5,Valparaíso,51,2021-04-14,0.649819753980706
-Valparaíso,5,Valparaíso,51,2021-04-15,0.6388896030505561
-Valparaíso,5,Valparaíso,51,2021-04-16,0.6602243658487329
-Valparaíso,5,Valparaíso,51,2021-04-17,0.661137375271951
-Valparaíso,5,Valparaíso,51,2021-04-18,0.685142866599594
-Valparaíso,5,Valparaíso,51,2021-04-19,0.6891424006344641
+Valparaíso,5,Valparaíso,51,2021-04-13,0.644569664506397
+Valparaíso,5,Valparaíso,51,2021-04-14,0.649575219330147
+Valparaíso,5,Valparaíso,51,2021-04-15,0.6386450683999959
+Valparaíso,5,Valparaíso,51,2021-04-16,0.6599798311981729
+Valparaíso,5,Valparaíso,51,2021-04-17,0.660892840621391
+Valparaíso,5,Valparaíso,51,2021-04-18,0.6848983319490339
+Valparaíso,5,Valparaíso,51,2021-04-19,0.688897865983904
 Valparaíso,5,Valparaíso,51,2021-04-20,0.7042683900701159
 Valparaíso,5,Valparaíso,51,2021-04-21,0.7098828629334971
 Valparaíso,5,Valparaíso,51,2021-04-22,0.7098142664182
@@ -7712,13 +7790,13 @@ Valparaíso,5,Valparaíso,51,2021-05-26,0.7610163812997242
 Valparaíso,5,Valparaíso,51,2021-05-27,0.7815730546732991
 Valparaíso,5,Valparaíso,51,2021-05-28,0.7896158240198431
 Valparaíso,5,Valparaíso,51,2021-05-29,0.7755790635982109
-Valparaíso,5,Valparaíso,51,2021-05-30,0.7749209141595741
-Valparaíso,5,Valparaíso,51,2021-05-31,0.7798364287525079
-Valparaíso,5,Valparaíso,51,2021-06-01,0.774623954152278
-Valparaíso,5,Valparaíso,51,2021-06-02,0.7917433541662661
-Valparaíso,5,Valparaíso,51,2021-06-03,0.7833636386436941
-Valparaíso,5,Valparaíso,51,2021-06-04,0.7814128583315691
-Valparaíso,5,Valparaíso,51,2021-06-05,0.80022415456222
+Valparaíso,5,Valparaíso,51,2021-05-30,0.7734731555689581
+Valparaíso,5,Valparaíso,51,2021-05-31,0.7783886701618921
+Valparaíso,5,Valparaíso,51,2021-06-01,0.7731761955616621
+Valparaíso,5,Valparaíso,51,2021-06-02,0.79029559557565
+Valparaíso,5,Valparaíso,51,2021-06-03,0.7819158800530779
+Valparaíso,5,Valparaíso,51,2021-06-04,0.779965099740953
+Valparaíso,5,Valparaíso,51,2021-06-05,0.798776395971604
 Valparaíso,5,Valparaíso,51,2021-06-06,0.7957508500889151
 Valparaíso,5,Valparaíso,51,2021-06-07,0.80519124235349
 Valparaíso,5,Valparaíso,51,2021-06-08,0.828760887209624
@@ -7794,13 +7872,13 @@ Valparaíso,5,Valparaíso,51,2021-08-16,0.863452817024246
 Valparaíso,5,Valparaíso,51,2021-08-17,0.8611852433281
 Valparaíso,5,Valparaíso,51,2021-08-18,0.8750741322169889
 Valparaíso,5,Valparaíso,51,2021-08-19,0.881196581196581
-Valparaíso,5,Valparaíso,51,2021-08-20,0.8769448805163091
-Valparaíso,5,Valparaíso,51,2021-08-21,0.898922902494331
-Valparaíso,5,Valparaíso,51,2021-08-22,0.9346371882086171
-Valparaíso,5,Valparaíso,51,2021-08-23,0.9213718820861679
-Valparaíso,5,Valparaíso,51,2021-08-24,0.9213718820861679
-Valparaíso,5,Valparaíso,51,2021-08-25,0.9283163265306121
-Valparaíso,5,Valparaíso,51,2021-08-26,0.942602040816326
+Valparaíso,5,Valparaíso,51,2021-08-20,0.8630559916274201
+Valparaíso,5,Valparaíso,51,2021-08-21,0.8850340136054421
+Valparaíso,5,Valparaíso,51,2021-08-22,0.920748299319728
+Valparaíso,5,Valparaíso,51,2021-08-23,0.9074829931972791
+Valparaíso,5,Valparaíso,51,2021-08-24,0.9074829931972791
+Valparaíso,5,Valparaíso,51,2021-08-25,0.914427437641723
+Valparaíso,5,Valparaíso,51,2021-08-26,0.928713151927438
 Valparaíso,5,Valparaíso,51,2021-08-27,0.947472170686456
 Valparaíso,5,Valparaíso,51,2021-08-28,0.947472170686456
 Valparaíso,5,Valparaíso,51,2021-08-29,0.947472170686456
@@ -7825,6 +7903,12 @@ Valparaíso,5,Valparaíso,51,2021-09-16,0.9134199134199129
 Valparaíso,5,Valparaíso,51,2021-09-17,0.841991341991342
 Valparaíso,5,Valparaíso,51,2021-09-18,0.841991341991342
 Valparaíso,5,Valparaíso,51,2021-09-19,0.841991341991342
+Valparaíso,5,Valparaíso,51,2021-09-20,0.880952380952381
+Valparaíso,5,Valparaíso,51,2021-09-21,0.9285714285714292
+Valparaíso,5,Valparaíso,51,2021-09-22,0.9107142857142858
+Valparaíso,5,Valparaíso,51,2021-09-23,0.9107142857142858
+Valparaíso,5,Valparaíso,51,2021-09-24,0.961734693877551
+Valparaíso,5,Valparaíso,51,2021-09-25,0.936524609843938
 Valparaíso,5,Los Andes,53,2020-03-10,
 Valparaíso,5,Los Andes,53,2020-03-11,
 Valparaíso,5,Los Andes,53,2020-03-12,
@@ -8384,6 +8468,12 @@ Valparaíso,5,Los Andes,53,2021-09-16,
 Valparaíso,5,Los Andes,53,2021-09-17,
 Valparaíso,5,Los Andes,53,2021-09-18,
 Valparaíso,5,Los Andes,53,2021-09-19,
+Valparaíso,5,Los Andes,53,2021-09-20,
+Valparaíso,5,Los Andes,53,2021-09-21,
+Valparaíso,5,Los Andes,53,2021-09-22,
+Valparaíso,5,Los Andes,53,2021-09-23,
+Valparaíso,5,Los Andes,53,2021-09-24,
+Valparaíso,5,Los Andes,53,2021-09-25,
 Valparaíso,5,Petorca,54,2020-03-10,
 Valparaíso,5,Petorca,54,2020-03-11,
 Valparaíso,5,Petorca,54,2020-03-12,
@@ -8943,6 +9033,12 @@ Valparaíso,5,Petorca,54,2021-09-16,
 Valparaíso,5,Petorca,54,2021-09-17,
 Valparaíso,5,Petorca,54,2021-09-18,
 Valparaíso,5,Petorca,54,2021-09-19,
+Valparaíso,5,Petorca,54,2021-09-20,
+Valparaíso,5,Petorca,54,2021-09-21,
+Valparaíso,5,Petorca,54,2021-09-22,
+Valparaíso,5,Petorca,54,2021-09-23,
+Valparaíso,5,Petorca,54,2021-09-24,
+Valparaíso,5,Petorca,54,2021-09-25,
 Valparaíso,5,Quillota,55,2020-03-10,
 Valparaíso,5,Quillota,55,2020-03-11,
 Valparaíso,5,Quillota,55,2020-03-12,
@@ -9502,6 +9598,12 @@ Valparaíso,5,Quillota,55,2021-09-16,
 Valparaíso,5,Quillota,55,2021-09-17,
 Valparaíso,5,Quillota,55,2021-09-18,
 Valparaíso,5,Quillota,55,2021-09-19,
+Valparaíso,5,Quillota,55,2021-09-20,
+Valparaíso,5,Quillota,55,2021-09-21,
+Valparaíso,5,Quillota,55,2021-09-22,0.9714285714285709
+Valparaíso,5,Quillota,55,2021-09-23,0.9510204081632649
+Valparaíso,5,Quillota,55,2021-09-24,0.9510204081632649
+Valparaíso,5,Quillota,55,2021-09-25,0.836734693877551
 Valparaíso,5,San Antonio,56,2020-03-10,
 Valparaíso,5,San Antonio,56,2020-03-11,
 Valparaíso,5,San Antonio,56,2020-03-12,
@@ -9917,13 +10019,13 @@ Valparaíso,5,San Antonio,56,2021-04-25,0.8989559797173821
 Valparaíso,5,San Antonio,56,2021-04-26,0.8955793563407591
 Valparaíso,5,San Antonio,56,2021-04-27,0.9061613669227699
 Valparaíso,5,San Antonio,56,2021-04-28,0.911761167818738
-Valparaíso,5,San Antonio,56,2021-04-29,0.909531202661943
-Valparaíso,5,San Antonio,56,2021-04-30,0.888732883334212
-Valparaíso,5,San Antonio,56,2021-05-01,0.893618558534525
-Valparaíso,5,San Antonio,56,2021-05-02,0.859227024142991
-Valparaíso,5,San Antonio,56,2021-05-03,0.8820841670001329
-Valparaíso,5,San Antonio,56,2021-05-04,0.89158638058398
-Valparaíso,5,San Antonio,56,2021-05-05,0.9068925030329591
+Valparaíso,5,San Antonio,56,2021-04-29,0.915245488376229
+Valparaíso,5,San Antonio,56,2021-04-30,0.894447169048498
+Valparaíso,5,San Antonio,56,2021-05-01,0.8993328442488109
+Valparaíso,5,San Antonio,56,2021-05-02,0.8649413098572759
+Valparaíso,5,San Antonio,56,2021-05-03,0.887798452714419
+Valparaíso,5,San Antonio,56,2021-05-04,0.897300666298265
+Valparaíso,5,San Antonio,56,2021-05-05,0.9126067887472449
 Valparaíso,5,San Antonio,56,2021-05-06,0.8921986254819391
 Valparaíso,5,San Antonio,56,2021-05-07,0.851264559547873
 Valparaíso,5,San Antonio,56,2021-05-08,0.8173398785643678
@@ -10043,13 +10145,13 @@ Valparaíso,5,San Antonio,56,2021-08-29,0.9171261487050959
 Valparaíso,5,San Antonio,56,2021-08-30,0.9171261487050959
 Valparaíso,5,San Antonio,56,2021-08-31,0.9171261487050959
 Valparaíso,5,San Antonio,56,2021-09-01,0.774269005847953
-Valparaíso,5,San Antonio,56,2021-09-02,0.7611111111111108
-Valparaíso,5,San Antonio,56,2021-09-03,0.7642857142857141
-Valparaíso,5,San Antonio,56,2021-09-04,0.792857142857143
-Valparaíso,5,San Antonio,56,2021-09-05,0.792857142857143
-Valparaíso,5,San Antonio,56,2021-09-06,0.792857142857143
-Valparaíso,5,San Antonio,56,2021-09-07,0.7642857142857141
-Valparaíso,5,San Antonio,56,2021-09-08,0.907142857142857
+Valparaíso,5,San Antonio,56,2021-09-02,0.796825396825397
+Valparaíso,5,San Antonio,56,2021-09-03,0.8
+Valparaíso,5,San Antonio,56,2021-09-04,0.8285714285714291
+Valparaíso,5,San Antonio,56,2021-09-05,0.8285714285714291
+Valparaíso,5,San Antonio,56,2021-09-06,0.8285714285714291
+Valparaíso,5,San Antonio,56,2021-09-07,0.8
+Valparaíso,5,San Antonio,56,2021-09-08,0.942857142857143
 Valparaíso,5,San Antonio,56,2021-09-09,0.925
 Valparaíso,5,San Antonio,56,2021-09-10,0.8964285714285709
 Valparaíso,5,San Antonio,56,2021-09-11,0.8607142857142859
@@ -10061,6 +10163,12 @@ Valparaíso,5,San Antonio,56,2021-09-16,
 Valparaíso,5,San Antonio,56,2021-09-17,
 Valparaíso,5,San Antonio,56,2021-09-18,
 Valparaíso,5,San Antonio,56,2021-09-19,0.880952380952381
+Valparaíso,5,San Antonio,56,2021-09-20,0.8452380952380949
+Valparaíso,5,San Antonio,56,2021-09-21,0.8452380952380949
+Valparaíso,5,San Antonio,56,2021-09-22,0.8122710622710619
+Valparaíso,5,San Antonio,56,2021-09-23,0.781658817373103
+Valparaíso,5,San Antonio,56,2021-09-24,0.781658817373103
+Valparaíso,5,San Antonio,56,2021-09-25,0.880298273155416
 Valparaíso,5,San Felipe de Aconcagua,57,2020-03-10,
 Valparaíso,5,San Felipe de Aconcagua,57,2020-03-11,
 Valparaíso,5,San Felipe de Aconcagua,57,2020-03-12,
@@ -10526,13 +10634,13 @@ Valparaíso,5,San Felipe de Aconcagua,57,2021-06-14,0.577494410163536
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-15,0.57323064792105
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-16,0.543306773609421
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-17,0.549853072838647
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-18,0.621281644267218
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-19,0.71301833894509
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-20,0.726907227833979
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-21,0.7377154985106701
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-22,0.7431558466929542
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-23,0.7818389157393879
-Valparaíso,5,San Felipe de Aconcagua,57,2021-06-24,0.819711965277337
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-18,0.620901705057492
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-19,0.712638399735363
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-20,0.7265272886242521
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-21,0.7373355593009441
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-22,0.7427759074832271
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-23,0.7814589765296608
+Valparaíso,5,San Felipe de Aconcagua,57,2021-06-24,0.8193320260676099
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-25,0.812359024100866
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-26,0.807780269522111
 Valparaíso,5,San Felipe de Aconcagua,57,2021-06-27,0.8196850314268729
@@ -10620,6 +10728,12 @@ Valparaíso,5,San Felipe de Aconcagua,57,2021-09-16,
 Valparaíso,5,San Felipe de Aconcagua,57,2021-09-17,
 Valparaíso,5,San Felipe de Aconcagua,57,2021-09-18,
 Valparaíso,5,San Felipe de Aconcagua,57,2021-09-19,
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-20,
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-21,1.0
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-22,1.0
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-23,1.0
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-24,1.0
+Valparaíso,5,San Felipe de Aconcagua,57,2021-09-25,1.0
 Valparaíso,5,Marga Marga,58,2020-03-10,
 Valparaíso,5,Marga Marga,58,2020-03-11,
 Valparaíso,5,Marga Marga,58,2020-03-12,
@@ -11106,13 +11220,13 @@ Valparaíso,5,Marga Marga,58,2021-07-05,0.852069029595959
 Valparaíso,5,Marga Marga,58,2021-07-06,0.890396555728364
 Valparaíso,5,Marga Marga,58,2021-07-07,0.894184434516242
 Valparaíso,5,Marga Marga,58,2021-07-08,0.85336810798563
-Valparaíso,5,Marga Marga,58,2021-07-09,0.840669695287217
-Valparaíso,5,Marga Marga,58,2021-07-10,0.80414982418088
-Valparaíso,5,Marga Marga,58,2021-07-11,0.7987150415721841
-Valparaíso,5,Marga Marga,58,2021-07-12,0.8031920460491891
-Valparaíso,5,Marga Marga,58,2021-07-13,0.8031920460491891
-Valparaíso,5,Marga Marga,58,2021-07-14,0.779069239031645
-Valparaíso,5,Marga Marga,58,2021-07-15,0.799477402296951
+Valparaíso,5,Marga Marga,58,2021-07-09,0.8369830593425172
+Valparaíso,5,Marga Marga,58,2021-07-10,0.8004631882361801
+Valparaíso,5,Marga Marga,58,2021-07-11,0.795028405627484
+Valparaíso,5,Marga Marga,58,2021-07-12,0.7995054101044891
+Valparaíso,5,Marga Marga,58,2021-07-13,0.7995054101044891
+Valparaíso,5,Marga Marga,58,2021-07-14,0.775382603086945
+Valparaíso,5,Marga Marga,58,2021-07-15,0.795790766352251
 Valparaíso,5,Marga Marga,58,2021-07-16,0.780429783249332
 Valparaíso,5,Marga Marga,58,2021-07-17,0.862062436310557
 Valparaíso,5,Marga Marga,58,2021-07-18,0.835963535211655
@@ -11166,11 +11280,11 @@ Valparaíso,5,Marga Marga,58,2021-09-03,0.880952380952381
 Valparaíso,5,Marga Marga,58,2021-09-04,0.880952380952381
 Valparaíso,5,Marga Marga,58,2021-09-05,0.880952380952381
 Valparaíso,5,Marga Marga,58,2021-09-06,0.9047619047619051
-Valparaíso,5,Marga Marga,58,2021-09-07,0.869047619047619
-Valparaíso,5,Marga Marga,58,2021-09-08,0.8214285714285708
-Valparaíso,5,Marga Marga,58,2021-09-09,0.8214285714285708
-Valparaíso,5,Marga Marga,58,2021-09-10,0.8214285714285708
-Valparaíso,5,Marga Marga,58,2021-09-11,0.6785714285714289
+Valparaíso,5,Marga Marga,58,2021-09-07,0.8476190476190479
+Valparaíso,5,Marga Marga,58,2021-09-08,0.8
+Valparaíso,5,Marga Marga,58,2021-09-09,0.8
+Valparaíso,5,Marga Marga,58,2021-09-10,0.8
+Valparaíso,5,Marga Marga,58,2021-09-11,0.6571428571428571
 Valparaíso,5,Marga Marga,58,2021-09-12,
 Valparaíso,5,Marga Marga,58,2021-09-13,
 Valparaíso,5,Marga Marga,58,2021-09-14,
@@ -11179,6 +11293,12 @@ Valparaíso,5,Marga Marga,58,2021-09-16,
 Valparaíso,5,Marga Marga,58,2021-09-17,
 Valparaíso,5,Marga Marga,58,2021-09-18,
 Valparaíso,5,Marga Marga,58,2021-09-19,0.554761904761905
+Valparaíso,5,Marga Marga,58,2021-09-20,0.583333333333333
+Valparaíso,5,Marga Marga,58,2021-09-21,0.583333333333333
+Valparaíso,5,Marga Marga,58,2021-09-22,0.47619047619047605
+Valparaíso,5,Marga Marga,58,2021-09-23,0.47619047619047605
+Valparaíso,5,Marga Marga,58,2021-09-24,0.5
+Valparaíso,5,Marga Marga,58,2021-09-25,0.6428571428571429
 Metropolitana,13,Santiago,131,2020-03-10,
 Metropolitana,13,Santiago,131,2020-03-11,
 Metropolitana,13,Santiago,131,2020-03-12,
@@ -11186,31 +11306,31 @@ Metropolitana,13,Santiago,131,2020-03-13,
 Metropolitana,13,Santiago,131,2020-03-14,
 Metropolitana,13,Santiago,131,2020-03-15,
 Metropolitana,13,Santiago,131,2020-03-16,0.07519371384917599
-Metropolitana,13,Santiago,131,2020-03-17,0.0785950743933937
-Metropolitana,13,Santiago,131,2020-03-18,0.0949216050056386
-Metropolitana,13,Santiago,131,2020-03-19,0.119411400924006
-Metropolitana,13,Santiago,131,2020-03-20,0.103890336622454
-Metropolitana,13,Santiago,131,2020-03-21,0.100095270208792
-Metropolitana,13,Santiago,131,2020-03-22,0.0878503722496079
-Metropolitana,13,Santiago,131,2020-03-23,0.11416616172329198
-Metropolitana,13,Santiago,131,2020-03-24,0.14647908689335998
-Metropolitana,13,Santiago,131,2020-03-25,0.16709836908899697
-Metropolitana,13,Santiago,131,2020-03-26,0.18115732600509699
-Metropolitana,13,Santiago,131,2020-03-27,0.198059987432927
-Metropolitana,13,Santiago,131,2020-03-28,0.244880263930623
-Metropolitana,13,Santiago,131,2020-03-29,0.27842063660143
-Metropolitana,13,Santiago,131,2020-03-30,0.304485799508698
-Metropolitana,13,Santiago,131,2020-03-31,0.30305722808012703
-Metropolitana,13,Santiago,131,2020-04-01,0.3387931195328969
+Metropolitana,13,Santiago,131,2020-03-17,0.0785159729853887
+Metropolitana,13,Santiago,131,2020-03-18,0.0948425035976335
+Metropolitana,13,Santiago,131,2020-03-19,0.119332299516001
+Metropolitana,13,Santiago,131,2020-03-20,0.103811235214449
+Metropolitana,13,Santiago,131,2020-03-21,0.0998721595841967
+Metropolitana,13,Santiago,131,2020-03-22,0.087627261625013
+Metropolitana,13,Santiago,131,2020-03-23,0.113943051098697
+Metropolitana,13,Santiago,131,2020-03-24,0.14633507767677
+Metropolitana,13,Santiago,131,2020-03-25,0.16695435987240698
+Metropolitana,13,Santiago,131,2020-03-26,0.18041099252546802
+Metropolitana,13,Santiago,131,2020-03-27,0.19731365395329897
+Metropolitana,13,Santiago,131,2020-03-28,0.24427793966758402
+Metropolitana,13,Santiago,131,2020-03-29,0.27781831233839194
+Metropolitana,13,Santiago,131,2020-03-30,0.30388347524566
+Metropolitana,13,Santiago,131,2020-03-31,0.302454903817088
+Metropolitana,13,Santiago,131,2020-04-01,0.338190795269858
 Metropolitana,13,Santiago,131,2020-04-02,0.354666135405913
 Metropolitana,13,Santiago,131,2020-04-03,0.403203369448466
-Metropolitana,13,Santiago,131,2020-04-04,0.416709862954959
-Metropolitana,13,Santiago,131,2020-04-05,0.439419490284152
-Metropolitana,13,Santiago,131,2020-04-06,0.45934894354693895
-Metropolitana,13,Santiago,131,2020-04-07,0.500612679810675
-Metropolitana,13,Santiago,131,2020-04-08,0.498623169953558
-Metropolitana,13,Santiago,131,2020-04-09,0.497170903653779
-Metropolitana,13,Santiago,131,2020-04-10,0.524135189368065
+Metropolitana,13,Santiago,131,2020-04-04,0.41526686151195796
+Metropolitana,13,Santiago,131,2020-04-05,0.43797648884115004
+Metropolitana,13,Santiago,131,2020-04-06,0.45790594210393704
+Metropolitana,13,Santiago,131,2020-04-07,0.499169678367673
+Metropolitana,13,Santiago,131,2020-04-08,0.497180168510556
+Metropolitana,13,Santiago,131,2020-04-09,0.49572790221077795
+Metropolitana,13,Santiago,131,2020-04-10,0.522692187925064
 Metropolitana,13,Santiago,131,2020-04-11,0.532932843327009
 Metropolitana,13,Santiago,131,2020-04-12,0.517499169857622
 Metropolitana,13,Santiago,131,2020-04-13,0.5311353379653351
@@ -11228,57 +11348,57 @@ Metropolitana,13,Santiago,131,2020-04-24,0.49553729416158504
 Metropolitana,13,Santiago,131,2020-04-25,0.48550328055614295
 Metropolitana,13,Santiago,131,2020-04-26,0.48726536274993504
 Metropolitana,13,Santiago,131,2020-04-27,0.47834937540888206
-Metropolitana,13,Santiago,131,2020-04-28,0.481111692456913
-Metropolitana,13,Santiago,131,2020-04-29,0.46546023941816295
-Metropolitana,13,Santiago,131,2020-04-30,0.4508391636457729
-Metropolitana,13,Santiago,131,2020-05-01,0.415527928363882
-Metropolitana,13,Santiago,131,2020-05-02,0.400716967124349
-Metropolitana,13,Santiago,131,2020-05-03,0.40274414473449893
-Metropolitana,13,Santiago,131,2020-05-04,0.34004593617075607
-Metropolitana,13,Santiago,131,2020-05-05,0.30081885285549603
-Metropolitana,13,Santiago,131,2020-05-06,0.28563752976181
-Metropolitana,13,Santiago,131,2020-05-07,0.262334446305062
-Metropolitana,13,Santiago,131,2020-05-08,0.236887682591508
-Metropolitana,13,Santiago,131,2020-05-09,0.212513297561386
-Metropolitana,13,Santiago,131,2020-05-10,0.17229230637107096
-Metropolitana,13,Santiago,131,2020-05-11,0.17686831722014001
-Metropolitana,13,Santiago,131,2020-05-12,0.16515869177946502
-Metropolitana,13,Santiago,131,2020-05-13,0.145764269058353
-Metropolitana,13,Santiago,131,2020-05-14,0.13677911961758699
-Metropolitana,13,Santiago,131,2020-05-15,0.130890577922666
-Metropolitana,13,Santiago,131,2020-05-16,0.12924097707478802
-Metropolitana,13,Santiago,131,2020-05-17,0.135266165185099
-Metropolitana,13,Santiago,131,2020-05-18,0.14186896289112602
-Metropolitana,13,Santiago,131,2020-05-19,0.149410659803319
-Metropolitana,13,Santiago,131,2020-05-20,0.160196076726487
-Metropolitana,13,Santiago,131,2020-05-21,0.174354502786553
-Metropolitana,13,Santiago,131,2020-05-22,0.188353292242595
-Metropolitana,13,Santiago,131,2020-05-23,0.19391892615539397
-Metropolitana,13,Santiago,131,2020-05-24,0.20107832978380702
-Metropolitana,13,Santiago,131,2020-05-25,0.205536736961339
-Metropolitana,13,Santiago,131,2020-05-26,0.199729961636902
-Metropolitana,13,Santiago,131,2020-05-27,0.19729108679633603
-Metropolitana,13,Santiago,131,2020-05-28,0.19725317763426398
-Metropolitana,13,Santiago,131,2020-05-29,0.192648024180541
-Metropolitana,13,Santiago,131,2020-05-30,0.19524280167839397
-Metropolitana,13,Santiago,131,2020-05-31,0.193547473379617
-Metropolitana,13,Santiago,131,2020-06-01,0.19949239128568302
-Metropolitana,13,Santiago,131,2020-06-02,0.213084033477978
-Metropolitana,13,Santiago,131,2020-06-03,0.22556630950443599
-Metropolitana,13,Santiago,131,2020-06-04,0.22814331357530102
-Metropolitana,13,Santiago,131,2020-06-05,0.249511540934955
+Metropolitana,13,Santiago,131,2020-04-28,0.48082135011425703
+Metropolitana,13,Santiago,131,2020-04-29,0.465088161288472
+Metropolitana,13,Santiago,131,2020-04-30,0.45046708551608206
+Metropolitana,13,Santiago,131,2020-05-01,0.4150755986882821
+Metropolitana,13,Santiago,131,2020-05-02,0.40026463744874896
+Metropolitana,13,Santiago,131,2020-05-03,0.402291815058899
+Metropolitana,13,Santiago,131,2020-05-04,0.33958757254625394
+Metropolitana,13,Santiago,131,2020-05-05,0.30063434534989697
+Metropolitana,13,Santiago,131,2020-05-06,0.2855347580432461
+Metropolitana,13,Santiago,131,2020-05-07,0.262231674586497
+Metropolitana,13,Santiago,131,2020-05-08,0.236865162418853
+Metropolitana,13,Santiago,131,2020-05-09,0.212490777388731
+Metropolitana,13,Santiago,131,2020-05-10,0.172269786198416
+Metropolitana,13,Santiago,131,2020-05-11,0.17685183099638702
+Metropolitana,13,Santiago,131,2020-05-12,0.165135889884022
+Metropolitana,13,Santiago,131,2020-05-13,0.14574146716291
+Metropolitana,13,Santiago,131,2020-05-14,0.136756317722144
+Metropolitana,13,Santiago,131,2020-05-15,0.130867776027223
+Metropolitana,13,Santiago,131,2020-05-16,0.129218175179345
+Metropolitana,13,Santiago,131,2020-05-17,0.135243363289656
+Metropolitana,13,Santiago,131,2020-05-18,0.14183983467549302
+Metropolitana,13,Santiago,131,2020-05-19,0.14940433348312898
+Metropolitana,13,Santiago,131,2020-05-20,0.160189750406297
+Metropolitana,13,Santiago,131,2020-05-21,0.174348176466364
+Metropolitana,13,Santiago,131,2020-05-22,0.18834696592240502
+Metropolitana,13,Santiago,131,2020-05-23,0.193912599835205
+Metropolitana,13,Santiago,131,2020-05-24,0.20105292542353198
+Metropolitana,13,Santiago,131,2020-05-25,0.205517658921253
+Metropolitana,13,Santiago,131,2020-05-26,0.19970434934710604
+Metropolitana,13,Santiago,131,2020-05-27,0.197248761123991
+Metropolitana,13,Santiago,131,2020-05-28,0.19721085196191895
+Metropolitana,13,Santiago,131,2020-05-29,0.19259714462759803
+Metropolitana,13,Santiago,131,2020-05-30,0.19524596282581896
+Metropolitana,13,Santiago,131,2020-05-31,0.19356971256712696
+Metropolitana,13,Santiago,131,2020-06-01,0.199514630473193
+Metropolitana,13,Santiago,131,2020-06-02,0.21311280691519802
+Metropolitana,13,Santiago,131,2020-06-03,0.225611796324205
+Metropolitana,13,Santiago,131,2020-06-04,0.22818880039507003
+Metropolitana,13,Santiago,131,2020-06-05,0.24956558163532197
 Metropolitana,13,Santiago,131,2020-06-06,0.262263284516136
 Metropolitana,13,Santiago,131,2020-06-07,0.276481489803281
 Metropolitana,13,Santiago,131,2020-06-08,0.29463653971607895
 Metropolitana,13,Santiago,131,2020-06-09,0.302827548394492
 Metropolitana,13,Santiago,131,2020-06-10,0.318700429304359
-Metropolitana,13,Santiago,131,2020-06-11,0.338726081748979
-Metropolitana,13,Santiago,131,2020-06-12,0.35251023516116203
-Metropolitana,13,Santiago,131,2020-06-13,0.37190054963004204
-Metropolitana,13,Santiago,131,2020-06-14,0.388758213771562
-Metropolitana,13,Santiago,131,2020-06-15,0.39768760807367104
-Metropolitana,13,Santiago,131,2020-06-16,0.40210051842246597
-Metropolitana,13,Santiago,131,2020-06-17,0.40378250527444504
+Metropolitana,13,Santiago,131,2020-06-11,0.338702766087989
+Metropolitana,13,Santiago,131,2020-06-12,0.3524869195001721
+Metropolitana,13,Santiago,131,2020-06-13,0.371877233969052
+Metropolitana,13,Santiago,131,2020-06-14,0.38873489811057205
+Metropolitana,13,Santiago,131,2020-06-15,0.39766429241268103
+Metropolitana,13,Santiago,131,2020-06-16,0.402077202761476
+Metropolitana,13,Santiago,131,2020-06-17,0.403759189613454
 Metropolitana,13,Santiago,131,2020-06-18,0.40334478528187
 Metropolitana,13,Santiago,131,2020-06-19,0.39393148023082303
 Metropolitana,13,Santiago,131,2020-06-20,0.381625745679683
@@ -11293,16 +11413,16 @@ Metropolitana,13,Santiago,131,2020-06-28,0.49018909498598406
 Metropolitana,13,Santiago,131,2020-06-29,0.49306431242952703
 Metropolitana,13,Santiago,131,2020-06-30,0.500836144145021
 Metropolitana,13,Santiago,131,2020-07-01,0.50854349111472
-Metropolitana,13,Santiago,131,2020-07-02,0.517838734103902
-Metropolitana,13,Santiago,131,2020-07-03,0.517156887211857
-Metropolitana,13,Santiago,131,2020-07-04,0.5208263514401861
-Metropolitana,13,Santiago,131,2020-07-05,0.540252779916793
-Metropolitana,13,Santiago,131,2020-07-06,0.540694815272504
-Metropolitana,13,Santiago,131,2020-07-07,0.538826252880495
-Metropolitana,13,Santiago,131,2020-07-08,0.5309766377717811
-Metropolitana,13,Santiago,131,2020-07-09,0.5319580228151211
-Metropolitana,13,Santiago,131,2020-07-10,0.5603311477383671
-Metropolitana,13,Santiago,131,2020-07-11,0.552236161914052
+Metropolitana,13,Santiago,131,2020-07-02,0.517769420221754
+Metropolitana,13,Santiago,131,2020-07-03,0.517087573329708
+Metropolitana,13,Santiago,131,2020-07-04,0.520757037558037
+Metropolitana,13,Santiago,131,2020-07-05,0.5400592213514079
+Metropolitana,13,Santiago,131,2020-07-06,0.540501256707119
+Metropolitana,13,Santiago,131,2020-07-07,0.53863269431511
+Metropolitana,13,Santiago,131,2020-07-08,0.530783079206396
+Metropolitana,13,Santiago,131,2020-07-09,0.531833778131885
+Metropolitana,13,Santiago,131,2020-07-10,0.56020690305513
+Metropolitana,13,Santiago,131,2020-07-11,0.552111917230816
 Metropolitana,13,Santiago,131,2020-07-12,0.53911228877667
 Metropolitana,13,Santiago,131,2020-07-13,0.535380312783458
 Metropolitana,13,Santiago,131,2020-07-14,0.537914164302294
@@ -11324,24 +11444,24 @@ Metropolitana,13,Santiago,131,2020-07-29,0.465070023576584
 Metropolitana,13,Santiago,131,2020-07-30,0.475152200353159
 Metropolitana,13,Santiago,131,2020-07-31,0.472320981677814
 Metropolitana,13,Santiago,131,2020-08-01,0.47667228953219704
-Metropolitana,13,Santiago,131,2020-08-02,0.47898395989277004
-Metropolitana,13,Santiago,131,2020-08-03,0.48609171482039004
-Metropolitana,13,Santiago,131,2020-08-04,0.48959203169118004
-Metropolitana,13,Santiago,131,2020-08-05,0.496227472752851
-Metropolitana,13,Santiago,131,2020-08-06,0.485462979790719
-Metropolitana,13,Santiago,131,2020-08-07,0.47796663022566105
-Metropolitana,13,Santiago,131,2020-08-08,0.486968620697501
-Metropolitana,13,Santiago,131,2020-08-09,0.48874059197168296
+Metropolitana,13,Santiago,131,2020-08-02,0.478603066110861
+Metropolitana,13,Santiago,131,2020-08-03,0.485918233232323
+Metropolitana,13,Santiago,131,2020-08-04,0.489418550103114
+Metropolitana,13,Santiago,131,2020-08-05,0.496053991164784
+Metropolitana,13,Santiago,131,2020-08-06,0.48528949820265294
+Metropolitana,13,Santiago,131,2020-08-07,0.477793148637595
+Metropolitana,13,Santiago,131,2020-08-08,0.486795139109435
+Metropolitana,13,Santiago,131,2020-08-09,0.488948004165525
 Metropolitana,13,Santiago,131,2020-08-10,0.49686939494405896
 Metropolitana,13,Santiago,131,2020-08-11,0.517560427006886
 Metropolitana,13,Santiago,131,2020-08-12,0.514353429922337
-Metropolitana,13,Santiago,131,2020-08-13,0.527909603302558
-Metropolitana,13,Santiago,131,2020-08-14,0.540929199630298
-Metropolitana,13,Santiago,131,2020-08-15,0.534963934736461
-Metropolitana,13,Santiago,131,2020-08-16,0.525082686951988
-Metropolitana,13,Santiago,131,2020-08-17,0.511641775703767
-Metropolitana,13,Santiago,131,2020-08-18,0.49524769772531607
-Metropolitana,13,Santiago,131,2020-08-19,0.505052514660696
+Metropolitana,13,Santiago,131,2020-08-13,0.5282696732590071
+Metropolitana,13,Santiago,131,2020-08-14,0.5412892695867461
+Metropolitana,13,Santiago,131,2020-08-15,0.53532400469291
+Metropolitana,13,Santiago,131,2020-08-16,0.525442756908436
+Metropolitana,13,Santiago,131,2020-08-17,0.512001845660216
+Metropolitana,13,Santiago,131,2020-08-18,0.495607767681765
+Metropolitana,13,Santiago,131,2020-08-19,0.505412584617145
 Metropolitana,13,Santiago,131,2020-08-20,0.493580195577383
 Metropolitana,13,Santiago,131,2020-08-21,0.49021521322080397
 Metropolitana,13,Santiago,131,2020-08-22,0.48509998883647704
@@ -11360,13 +11480,13 @@ Metropolitana,13,Santiago,131,2020-09-03,0.47014250104383903
 Metropolitana,13,Santiago,131,2020-09-04,0.47168369843565894
 Metropolitana,13,Santiago,131,2020-09-05,0.464705184486726
 Metropolitana,13,Santiago,131,2020-09-06,0.505949310619474
-Metropolitana,13,Santiago,131,2020-09-07,0.498428002518476
-Metropolitana,13,Santiago,131,2020-09-08,0.49232070129839295
-Metropolitana,13,Santiago,131,2020-09-09,0.48295022681164
-Metropolitana,13,Santiago,131,2020-09-10,0.46943028138853604
-Metropolitana,13,Santiago,131,2020-09-11,0.471608441562228
-Metropolitana,13,Santiago,131,2020-09-12,0.475611972414473
-Metropolitana,13,Santiago,131,2020-09-13,0.461239980769754
+Metropolitana,13,Santiago,131,2020-09-07,0.49815049758727403
+Metropolitana,13,Santiago,131,2020-09-08,0.49204319636719
+Metropolitana,13,Santiago,131,2020-09-09,0.482672721880437
+Metropolitana,13,Santiago,131,2020-09-10,0.469152776457334
+Metropolitana,13,Santiago,131,2020-09-11,0.471330936631025
+Metropolitana,13,Santiago,131,2020-09-12,0.47533446748327096
+Metropolitana,13,Santiago,131,2020-09-13,0.460962475838552
 Metropolitana,13,Santiago,131,2020-09-14,0.45855509551479706
 Metropolitana,13,Santiago,131,2020-09-15,0.45655990015312004
 Metropolitana,13,Santiago,131,2020-09-16,0.45215341554861604
@@ -11398,17 +11518,17 @@ Metropolitana,13,Santiago,131,2020-10-11,0.5647433662367161
 Metropolitana,13,Santiago,131,2020-10-12,0.551121724019151
 Metropolitana,13,Santiago,131,2020-10-13,0.5498718002340159
 Metropolitana,13,Santiago,131,2020-10-14,0.5448078478845011
-Metropolitana,13,Santiago,131,2020-10-15,0.5417899347258449
-Metropolitana,13,Santiago,131,2020-10-16,0.531145615364818
-Metropolitana,13,Santiago,131,2020-10-17,0.528547812489623
-Metropolitana,13,Santiago,131,2020-10-18,0.513084903896943
-Metropolitana,13,Santiago,131,2020-10-19,0.519282917302419
-Metropolitana,13,Santiago,131,2020-10-20,0.500726014748064
-Metropolitana,13,Santiago,131,2020-10-21,0.49653002600774
-Metropolitana,13,Santiago,131,2020-10-22,0.49874228214765504
-Metropolitana,13,Santiago,131,2020-10-23,0.510674624893313
-Metropolitana,13,Santiago,131,2020-10-24,0.511976671370711
-Metropolitana,13,Santiago,131,2020-10-25,0.531145205102351
+Metropolitana,13,Santiago,131,2020-10-15,0.542095670325698
+Metropolitana,13,Santiago,131,2020-10-16,0.531451350964672
+Metropolitana,13,Santiago,131,2020-10-17,0.528853548089476
+Metropolitana,13,Santiago,131,2020-10-18,0.513390639496797
+Metropolitana,13,Santiago,131,2020-10-19,0.519251703134074
+Metropolitana,13,Santiago,131,2020-10-20,0.50069480057972
+Metropolitana,13,Santiago,131,2020-10-21,0.496498811839396
+Metropolitana,13,Santiago,131,2020-10-22,0.49840533237945706
+Metropolitana,13,Santiago,131,2020-10-23,0.510337675125115
+Metropolitana,13,Santiago,131,2020-10-24,0.5116397216025129
+Metropolitana,13,Santiago,131,2020-10-25,0.530808255334154
 Metropolitana,13,Santiago,131,2020-10-26,0.5328030382097101
 Metropolitana,13,Santiago,131,2020-10-27,0.5451831595177039
 Metropolitana,13,Santiago,131,2020-10-28,0.546694148528693
@@ -11416,13 +11536,13 @@ Metropolitana,13,Santiago,131,2020-10-29,0.537925423647436
 Metropolitana,13,Santiago,131,2020-10-30,0.526433318630151
 Metropolitana,13,Santiago,131,2020-10-31,0.541540660268105
 Metropolitana,13,Santiago,131,2020-11-01,0.542518646682985
-Metropolitana,13,Santiago,131,2020-11-02,0.54275256481164
-Metropolitana,13,Santiago,131,2020-11-03,0.5505563121556619
-Metropolitana,13,Santiago,131,2020-11-04,0.555662970203496
-Metropolitana,13,Santiago,131,2020-11-05,0.571730372774281
-Metropolitana,13,Santiago,131,2020-11-06,0.572445254223107
-Metropolitana,13,Santiago,131,2020-11-07,0.589984193688957
-Metropolitana,13,Santiago,131,2020-11-08,0.5699270150951931
+Metropolitana,13,Santiago,131,2020-11-02,0.542378916827372
+Metropolitana,13,Santiago,131,2020-11-03,0.550182664171394
+Metropolitana,13,Santiago,131,2020-11-04,0.555289322219229
+Metropolitana,13,Santiago,131,2020-11-05,0.5713567247900129
+Metropolitana,13,Santiago,131,2020-11-06,0.5720716062388389
+Metropolitana,13,Santiago,131,2020-11-07,0.589610545704689
+Metropolitana,13,Santiago,131,2020-11-08,0.569553367110925
 Metropolitana,13,Santiago,131,2020-11-09,0.576460014259771
 Metropolitana,13,Santiago,131,2020-11-10,0.565287019433501
 Metropolitana,13,Santiago,131,2020-11-11,0.5560125779495899
@@ -11440,25 +11560,25 @@ Metropolitana,13,Santiago,131,2020-11-22,0.5292566281759771
 Metropolitana,13,Santiago,131,2020-11-23,0.522762532488523
 Metropolitana,13,Santiago,131,2020-11-24,0.509944546819521
 Metropolitana,13,Santiago,131,2020-11-25,0.49355158305813596
-Metropolitana,13,Santiago,131,2020-11-26,0.48439517036209895
-Metropolitana,13,Santiago,131,2020-11-27,0.48407251165434706
-Metropolitana,13,Santiago,131,2020-11-28,0.48702262787104705
-Metropolitana,13,Santiago,131,2020-11-29,0.510075405446052
-Metropolitana,13,Santiago,131,2020-11-30,0.5003049000189289
-Metropolitana,13,Santiago,131,2020-12-01,0.515843552118275
-Metropolitana,13,Santiago,131,2020-12-02,0.513327281401563
+Metropolitana,13,Santiago,131,2020-11-26,0.48481664329909996
+Metropolitana,13,Santiago,131,2020-11-27,0.48449398459134796
+Metropolitana,13,Santiago,131,2020-11-28,0.48744410080804706
+Metropolitana,13,Santiago,131,2020-11-29,0.5104968783830529
+Metropolitana,13,Santiago,131,2020-11-30,0.50072637295593
+Metropolitana,13,Santiago,131,2020-12-01,0.516265025055276
+Metropolitana,13,Santiago,131,2020-12-02,0.5137487543385639
 Metropolitana,13,Santiago,131,2020-12-03,0.5150577394710789
 Metropolitana,13,Santiago,131,2020-12-04,0.5118801751254011
 Metropolitana,13,Santiago,131,2020-12-05,0.518766262893841
 Metropolitana,13,Santiago,131,2020-12-06,0.509509338588373
-Metropolitana,13,Santiago,131,2020-12-07,0.5134897296062271
-Metropolitana,13,Santiago,131,2020-12-08,0.512853620748642
-Metropolitana,13,Santiago,131,2020-12-09,0.5130574227282021
-Metropolitana,13,Santiago,131,2020-12-10,0.5173606824936471
-Metropolitana,13,Santiago,131,2020-12-11,0.525001692296559
-Metropolitana,13,Santiago,131,2020-12-12,0.516850038060568
-Metropolitana,13,Santiago,131,2020-12-13,0.5049980688915251
-Metropolitana,13,Santiago,131,2020-12-14,0.5103728781298529
+Metropolitana,13,Santiago,131,2020-12-07,0.5131832390586121
+Metropolitana,13,Santiago,131,2020-12-08,0.513071863947237
+Metropolitana,13,Santiago,131,2020-12-09,0.513275665926798
+Metropolitana,13,Santiago,131,2020-12-10,0.517578925692243
+Metropolitana,13,Santiago,131,2020-12-11,0.525219935495155
+Metropolitana,13,Santiago,131,2020-12-12,0.5170682812591629
+Metropolitana,13,Santiago,131,2020-12-13,0.5052163120901211
+Metropolitana,13,Santiago,131,2020-12-14,0.510897611876064
 Metropolitana,13,Santiago,131,2020-12-15,0.510943576207742
 Metropolitana,13,Santiago,131,2020-12-16,0.516958996016265
 Metropolitana,13,Santiago,131,2020-12-17,0.518559636272368
@@ -11482,248 +11602,248 @@ Metropolitana,13,Santiago,131,2021-01-03,0.469049971785649
 Metropolitana,13,Santiago,131,2021-01-04,0.451379727512604
 Metropolitana,13,Santiago,131,2021-01-05,0.446172326793562
 Metropolitana,13,Santiago,131,2021-01-06,0.43500482158181397
-Metropolitana,13,Santiago,131,2021-01-07,0.454339715062873
-Metropolitana,13,Santiago,131,2021-01-08,0.47369705149338
-Metropolitana,13,Santiago,131,2021-01-09,0.461787825073112
-Metropolitana,13,Santiago,131,2021-01-10,0.47505716442940793
-Metropolitana,13,Santiago,131,2021-01-11,0.48412959700380104
-Metropolitana,13,Santiago,131,2021-01-12,0.486092901066056
-Metropolitana,13,Santiago,131,2021-01-13,0.500914891327638
-Metropolitana,13,Santiago,131,2021-01-14,0.505800185281349
-Metropolitana,13,Santiago,131,2021-01-15,0.513171796560716
-Metropolitana,13,Santiago,131,2021-01-16,0.520491814672101
-Metropolitana,13,Santiago,131,2021-01-17,0.5245816102048201
-Metropolitana,13,Santiago,131,2021-01-18,0.5354552708043511
-Metropolitana,13,Santiago,131,2021-01-19,0.550005906392854
-Metropolitana,13,Santiago,131,2021-01-20,0.552176548348667
-Metropolitana,13,Santiago,131,2021-01-21,0.5568408748943321
-Metropolitana,13,Santiago,131,2021-01-22,0.5698569590554741
-Metropolitana,13,Santiago,131,2021-01-23,0.5685679469750949
-Metropolitana,13,Santiago,131,2021-01-24,0.569427435567861
-Metropolitana,13,Santiago,131,2021-01-25,0.5734647799366971
+Metropolitana,13,Santiago,131,2021-01-07,0.45480318163460404
+Metropolitana,13,Santiago,131,2021-01-08,0.47416051806511206
+Metropolitana,13,Santiago,131,2021-01-09,0.46225129164484396
+Metropolitana,13,Santiago,131,2021-01-10,0.47552063100114
+Metropolitana,13,Santiago,131,2021-01-11,0.48459306357553295
+Metropolitana,13,Santiago,131,2021-01-12,0.486723469605079
+Metropolitana,13,Santiago,131,2021-01-13,0.501716606549436
+Metropolitana,13,Santiago,131,2021-01-14,0.5057259865540109
+Metropolitana,13,Santiago,131,2021-01-15,0.512910414370186
+Metropolitana,13,Santiago,131,2021-01-16,0.5202304324815711
+Metropolitana,13,Santiago,131,2021-01-17,0.523618348912966
+Metropolitana,13,Santiago,131,2021-01-18,0.5343891039846249
+Metropolitana,13,Santiago,131,2021-01-19,0.548644850117093
+Metropolitana,13,Santiago,131,2021-01-20,0.550644345390131
+Metropolitana,13,Santiago,131,2021-01-21,0.5557211193132
+Metropolitana,13,Santiago,131,2021-01-22,0.5689243869375339
+Metropolitana,13,Santiago,131,2021-01-23,0.567635374857155
+Metropolitana,13,Santiago,131,2021-01-24,0.569196742551246
+Metropolitana,13,Santiago,131,2021-01-25,0.573336992447953
 Metropolitana,13,Santiago,131,2021-01-26,0.56971323842959
-Metropolitana,13,Santiago,131,2021-01-27,0.574706750149559
-Metropolitana,13,Santiago,131,2021-01-28,0.5641203537873011
-Metropolitana,13,Santiago,131,2021-01-29,0.5583199808609429
-Metropolitana,13,Santiago,131,2021-01-30,0.559340481881445
-Metropolitana,13,Santiago,131,2021-01-31,0.559352581651307
-Metropolitana,13,Santiago,131,2021-02-01,0.5446528561082079
-Metropolitana,13,Santiago,131,2021-02-02,0.5374081731280179
-Metropolitana,13,Santiago,131,2021-02-03,0.5385035689602561
-Metropolitana,13,Santiago,131,2021-02-04,0.549975910833724
-Metropolitana,13,Santiago,131,2021-02-05,0.54603400443517
-Metropolitana,13,Santiago,131,2021-02-06,0.546744769954298
-Metropolitana,13,Santiago,131,2021-02-07,0.5609815791701871
-Metropolitana,13,Santiago,131,2021-02-08,0.566265874245224
-Metropolitana,13,Santiago,131,2021-02-09,0.57977893673323
-Metropolitana,13,Santiago,131,2021-02-10,0.583275193379968
-Metropolitana,13,Santiago,131,2021-02-11,0.580563064962238
-Metropolitana,13,Santiago,131,2021-02-12,0.575592330113187
+Metropolitana,13,Santiago,131,2021-01-27,0.574546670297963
+Metropolitana,13,Santiago,131,2021-01-28,0.563960273935704
+Metropolitana,13,Santiago,131,2021-01-29,0.5581599010093471
+Metropolitana,13,Santiago,131,2021-01-30,0.559180402029848
+Metropolitana,13,Santiago,131,2021-01-31,0.5591925017997099
+Metropolitana,13,Santiago,131,2021-02-01,0.5444927762566111
+Metropolitana,13,Santiago,131,2021-02-02,0.537083167086439
+Metropolitana,13,Santiago,131,2021-02-03,0.538338642770273
+Metropolitana,13,Santiago,131,2021-02-04,0.549658128470216
+Metropolitana,13,Santiago,131,2021-02-05,0.5459042201774029
+Metropolitana,13,Santiago,131,2021-02-06,0.5463868456600279
+Metropolitana,13,Santiago,131,2021-02-07,0.560623654875917
+Metropolitana,13,Santiago,131,2021-02-08,0.565907949950954
+Metropolitana,13,Santiago,131,2021-02-09,0.579585938628942
+Metropolitana,13,Santiago,131,2021-02-10,0.5830821952756811
+Metropolitana,13,Santiago,131,2021-02-11,0.580522923031476
+Metropolitana,13,Santiago,131,2021-02-12,0.575364190076685
 Metropolitana,13,Santiago,131,2021-02-13,0.5898080795205749
 Metropolitana,13,Santiago,131,2021-02-14,0.579275305208273
 Metropolitana,13,Santiago,131,2021-02-15,0.601377272930346
 Metropolitana,13,Santiago,131,2021-02-16,0.6128666426671379
-Metropolitana,13,Santiago,131,2021-02-17,0.632584014497186
-Metropolitana,13,Santiago,131,2021-02-18,0.6414076418404421
-Metropolitana,13,Santiago,131,2021-02-19,0.674346638636141
-Metropolitana,13,Santiago,131,2021-02-20,0.65901167419938
-Metropolitana,13,Santiago,131,2021-02-21,0.659873268627736
-Metropolitana,13,Santiago,131,2021-02-22,0.64978132596832
-Metropolitana,13,Santiago,131,2021-02-23,0.640123458063029
-Metropolitana,13,Santiago,131,2021-02-24,0.630008572948144
-Metropolitana,13,Santiago,131,2021-02-25,0.631430878873887
-Metropolitana,13,Santiago,131,2021-02-26,0.621984217087996
-Metropolitana,13,Santiago,131,2021-02-27,0.62289028548377
-Metropolitana,13,Santiago,131,2021-02-28,0.618510456135984
-Metropolitana,13,Santiago,131,2021-03-01,0.612276106216241
-Metropolitana,13,Santiago,131,2021-03-02,0.6069533040184381
-Metropolitana,13,Santiago,131,2021-03-03,0.589096161161296
-Metropolitana,13,Santiago,131,2021-03-04,0.589525972120965
-Metropolitana,13,Santiago,131,2021-03-05,0.584913795062806
-Metropolitana,13,Santiago,131,2021-03-06,0.587472804233905
-Metropolitana,13,Santiago,131,2021-03-07,0.590257694425667
-Metropolitana,13,Santiago,131,2021-03-08,0.5882796173671839
-Metropolitana,13,Santiago,131,2021-03-09,0.581722407684974
-Metropolitana,13,Santiago,131,2021-03-10,0.569973075935643
-Metropolitana,13,Santiago,131,2021-03-11,0.547201019441948
-Metropolitana,13,Santiago,131,2021-03-12,0.532070193920304
-Metropolitana,13,Santiago,131,2021-03-13,0.523326753023988
-Metropolitana,13,Santiago,131,2021-03-14,0.507862122498563
-Metropolitana,13,Santiago,131,2021-03-15,0.50150640497761
-Metropolitana,13,Santiago,131,2021-03-16,0.499313456070629
-Metropolitana,13,Santiago,131,2021-03-17,0.506365339345689
-Metropolitana,13,Santiago,131,2021-03-18,0.512907558186809
-Metropolitana,13,Santiago,131,2021-03-19,0.50560337035324
-Metropolitana,13,Santiago,131,2021-03-20,0.503472240741958
-Metropolitana,13,Santiago,131,2021-03-21,0.501311471043562
-Metropolitana,13,Santiago,131,2021-03-22,0.49031334837451396
-Metropolitana,13,Santiago,131,2021-03-23,0.481089328189226
-Metropolitana,13,Santiago,131,2021-03-24,0.481913345130492
-Metropolitana,13,Santiago,131,2021-03-25,0.47614522027029604
-Metropolitana,13,Santiago,131,2021-03-26,0.483626573898514
-Metropolitana,13,Santiago,131,2021-03-27,0.483223552404978
-Metropolitana,13,Santiago,131,2021-03-28,0.49413189609578995
-Metropolitana,13,Santiago,131,2021-03-29,0.506834941379519
-Metropolitana,13,Santiago,131,2021-03-30,0.5133735295626211
-Metropolitana,13,Santiago,131,2021-03-31,0.513276141998757
-Metropolitana,13,Santiago,131,2021-04-01,0.517697666158057
-Metropolitana,13,Santiago,131,2021-04-02,0.5248639449818351
-Metropolitana,13,Santiago,131,2021-04-03,0.537115131791869
-Metropolitana,13,Santiago,131,2021-04-04,0.5489017206513621
-Metropolitana,13,Santiago,131,2021-04-05,0.559356248127167
-Metropolitana,13,Santiago,131,2021-04-06,0.5750662640059
-Metropolitana,13,Santiago,131,2021-04-07,0.584632803172173
-Metropolitana,13,Santiago,131,2021-04-08,0.590171468579323
-Metropolitana,13,Santiago,131,2021-04-09,0.585884532944425
-Metropolitana,13,Santiago,131,2021-04-10,0.584866697466284
-Metropolitana,13,Santiago,131,2021-04-11,0.582529932714481
-Metropolitana,13,Santiago,131,2021-04-12,0.5820934476720839
-Metropolitana,13,Santiago,131,2021-04-13,0.5801200308162701
-Metropolitana,13,Santiago,131,2021-04-14,0.583804616746144
-Metropolitana,13,Santiago,131,2021-04-15,0.5928204875850601
-Metropolitana,13,Santiago,131,2021-04-16,0.595325132599411
-Metropolitana,13,Santiago,131,2021-04-17,0.606413256873511
-Metropolitana,13,Santiago,131,2021-04-18,0.609751803143994
-Metropolitana,13,Santiago,131,2021-04-19,0.611436809434912
-Metropolitana,13,Santiago,131,2021-04-20,0.621129152197943
-Metropolitana,13,Santiago,131,2021-04-21,0.6272013892009771
-Metropolitana,13,Santiago,131,2021-04-22,0.631363929603049
-Metropolitana,13,Santiago,131,2021-04-23,0.64332713637457
-Metropolitana,13,Santiago,131,2021-04-24,0.63821603039123
-Metropolitana,13,Santiago,131,2021-04-25,0.632350679125285
-Metropolitana,13,Santiago,131,2021-04-26,0.642780458834178
-Metropolitana,13,Santiago,131,2021-04-27,0.64898915886826
-Metropolitana,13,Santiago,131,2021-04-28,0.6582934232330351
-Metropolitana,13,Santiago,131,2021-04-29,0.677448910326198
+Metropolitana,13,Santiago,131,2021-02-17,0.632829096517969
+Metropolitana,13,Santiago,131,2021-02-18,0.641652723861225
+Metropolitana,13,Santiago,131,2021-02-19,0.674591720656924
+Metropolitana,13,Santiago,131,2021-02-20,0.659256756220163
+Metropolitana,13,Santiago,131,2021-02-21,0.660118350648519
+Metropolitana,13,Santiago,131,2021-02-22,0.650026407989103
+Metropolitana,13,Santiago,131,2021-02-23,0.640368540083812
+Metropolitana,13,Santiago,131,2021-02-24,0.629733847673419
+Metropolitana,13,Santiago,131,2021-02-25,0.63125146921777
+Metropolitana,13,Santiago,131,2021-02-26,0.621804807431879
+Metropolitana,13,Santiago,131,2021-02-27,0.6227108758276529
+Metropolitana,13,Santiago,131,2021-02-28,0.618331046479866
+Metropolitana,13,Santiago,131,2021-03-01,0.6117296478784681
+Metropolitana,13,Santiago,131,2021-03-02,0.606406845680666
+Metropolitana,13,Santiago,131,2021-03-03,0.588824428098248
+Metropolitana,13,Santiago,131,2021-03-04,0.5891589234393101
+Metropolitana,13,Santiago,131,2021-03-05,0.58454674638115
+Metropolitana,13,Santiago,131,2021-03-06,0.5869791786490229
+Metropolitana,13,Santiago,131,2021-03-07,0.589852652893697
+Metropolitana,13,Santiago,131,2021-03-08,0.5883211611296469
+Metropolitana,13,Santiago,131,2021-03-09,0.581763951447437
+Metropolitana,13,Santiago,131,2021-03-10,0.570014619698105
+Metropolitana,13,Santiago,131,2021-03-11,0.547242563204411
+Metropolitana,13,Santiago,131,2021-03-12,0.5321117376827671
+Metropolitana,13,Santiago,131,2021-03-13,0.523494873689677
+Metropolitana,13,Santiago,131,2021-03-14,0.507941659111341
+Metropolitana,13,Santiago,131,2021-03-15,0.5013248771307871
+Metropolitana,13,Santiago,131,2021-03-16,0.499066409921121
+Metropolitana,13,Santiago,131,2021-03-17,0.5061182931961811
+Metropolitana,13,Santiago,131,2021-03-18,0.512660512037301
+Metropolitana,13,Santiago,131,2021-03-19,0.5053563242037321
+Metropolitana,13,Santiago,131,2021-03-20,0.5032251945924501
+Metropolitana,13,Santiago,131,2021-03-21,0.5010644248940539
+Metropolitana,13,Santiago,131,2021-03-22,0.49028958743613504
+Metropolitana,13,Santiago,131,2021-03-23,0.48113108555353096
+Metropolitana,13,Santiago,131,2021-03-24,0.48190333095306104
+Metropolitana,13,Santiago,131,2021-03-25,0.476083012945376
+Metropolitana,13,Santiago,131,2021-03-26,0.483623136768175
+Metropolitana,13,Santiago,131,2021-03-27,0.483158871907812
+Metropolitana,13,Santiago,131,2021-03-28,0.493868572989785
+Metropolitana,13,Santiago,131,2021-03-29,0.5065298609092079
+Metropolitana,13,Santiago,131,2021-03-30,0.51306844909231
+Metropolitana,13,Santiago,131,2021-03-31,0.5130228330701829
+Metropolitana,13,Santiago,131,2021-04-01,0.517542803434566
+Metropolitana,13,Santiago,131,2021-04-02,0.524650312063762
+Metropolitana,13,Santiago,131,2021-04-03,0.536962742240624
+Metropolitana,13,Santiago,131,2021-04-04,0.548947973708956
+Metropolitana,13,Santiago,131,2021-04-05,0.5593568255512911
+Metropolitana,13,Santiago,131,2021-04-06,0.5751489432362641
+Metropolitana,13,Santiago,131,2021-04-07,0.584715482402538
+Metropolitana,13,Santiago,131,2021-04-08,0.5902546304189921
+Metropolitana,13,Santiago,131,2021-04-09,0.5859152545556999
+Metropolitana,13,Santiago,131,2021-04-10,0.5848974190775601
+Metropolitana,13,Santiago,131,2021-04-11,0.5825606543257571
+Metropolitana,13,Santiago,131,2021-04-12,0.58213781285485
+Metropolitana,13,Santiago,131,2021-04-13,0.580082294192795
+Metropolitana,13,Santiago,131,2021-04-14,0.58376688012267
+Metropolitana,13,Santiago,131,2021-04-15,0.592736015294686
+Metropolitana,13,Santiago,131,2021-04-16,0.5953101029269631
+Metropolitana,13,Santiago,131,2021-04-17,0.606398227201063
+Metropolitana,13,Santiago,131,2021-04-18,0.609736773471547
+Metropolitana,13,Santiago,131,2021-04-19,0.6113977523983061
+Metropolitana,13,Santiago,131,2021-04-20,0.6210900951613371
+Metropolitana,13,Santiago,131,2021-04-21,0.6271623321643709
+Metropolitana,13,Santiago,131,2021-04-22,0.631324872566444
+Metropolitana,13,Santiago,131,2021-04-23,0.643187588274196
+Metropolitana,13,Santiago,131,2021-04-24,0.6380764822908559
+Metropolitana,13,Santiago,131,2021-04-25,0.632211131024911
+Metropolitana,13,Santiago,131,2021-04-26,0.642696970159942
+Metropolitana,13,Santiago,131,2021-04-27,0.6489056701940239
+Metropolitana,13,Santiago,131,2021-04-28,0.658209934558799
+Metropolitana,13,Santiago,131,2021-04-29,0.6773654216519621
 Metropolitana,13,Santiago,131,2021-04-30,0.679053495046458
 Metropolitana,13,Santiago,131,2021-05-01,0.691606661672304
-Metropolitana,13,Santiago,131,2021-05-02,0.6946795002865811
-Metropolitana,13,Santiago,131,2021-05-03,0.6936432363899909
-Metropolitana,13,Santiago,131,2021-05-04,0.700447600449345
-Metropolitana,13,Santiago,131,2021-05-05,0.7090362491305641
-Metropolitana,13,Santiago,131,2021-05-06,0.695989998966048
-Metropolitana,13,Santiago,131,2021-05-07,0.703895107153509
-Metropolitana,13,Santiago,131,2021-05-08,0.7208328691686009
-Metropolitana,13,Santiago,131,2021-05-09,0.7352314972238531
-Metropolitana,13,Santiago,131,2021-05-10,0.743254288206663
-Metropolitana,13,Santiago,131,2021-05-11,0.738589251964912
-Metropolitana,13,Santiago,131,2021-05-12,0.728410818983629
-Metropolitana,13,Santiago,131,2021-05-13,0.734967912642602
-Metropolitana,13,Santiago,131,2021-05-14,0.7259273831717191
-Metropolitana,13,Santiago,131,2021-05-15,0.70487106627665
-Metropolitana,13,Santiago,131,2021-05-16,0.6989402004789521
-Metropolitana,13,Santiago,131,2021-05-17,0.6960423345605479
-Metropolitana,13,Santiago,131,2021-05-18,0.6921320779632699
-Metropolitana,13,Santiago,131,2021-05-19,0.690453196308513
-Metropolitana,13,Santiago,131,2021-05-20,0.687296366036561
-Metropolitana,13,Santiago,131,2021-05-21,0.6978921911792291
-Metropolitana,13,Santiago,131,2021-05-22,0.713402818831509
-Metropolitana,13,Santiago,131,2021-05-23,0.7169879737241229
-Metropolitana,13,Santiago,131,2021-05-24,0.713748480437042
-Metropolitana,13,Santiago,131,2021-05-25,0.713565681462854
-Metropolitana,13,Santiago,131,2021-05-26,0.7125652046167069
-Metropolitana,13,Santiago,131,2021-05-27,0.7050560328515258
-Metropolitana,13,Santiago,131,2021-05-28,0.691557008725166
-Metropolitana,13,Santiago,131,2021-05-29,0.6717454385696962
-Metropolitana,13,Santiago,131,2021-05-30,0.663981233724078
+Metropolitana,13,Santiago,131,2021-05-02,0.694752857094093
+Metropolitana,13,Santiago,131,2021-05-03,0.6937165931975029
+Metropolitana,13,Santiago,131,2021-05-04,0.700520957256857
+Metropolitana,13,Santiago,131,2021-05-05,0.7091096059380759
+Metropolitana,13,Santiago,131,2021-05-06,0.695981230568846
+Metropolitana,13,Santiago,131,2021-05-07,0.7038863387563059
+Metropolitana,13,Santiago,131,2021-05-08,0.720824100771399
+Metropolitana,13,Santiago,131,2021-05-09,0.7351493720191379
+Metropolitana,13,Santiago,131,2021-05-10,0.7431052303060579
+Metropolitana,13,Santiago,131,2021-05-11,0.738440194064307
+Metropolitana,13,Santiago,131,2021-05-12,0.728261761083023
+Metropolitana,13,Santiago,131,2021-05-13,0.7349009799467109
+Metropolitana,13,Santiago,131,2021-05-14,0.7257453359368621
+Metropolitana,13,Santiago,131,2021-05-15,0.7046890190417929
+Metropolitana,13,Santiago,131,2021-05-16,0.698713615518921
+Metropolitana,13,Santiago,131,2021-05-17,0.6958826822964079
+Metropolitana,13,Santiago,131,2021-05-18,0.69197242569913
+Metropolitana,13,Santiago,131,2021-05-19,0.690234284720483
+Metropolitana,13,Santiago,131,2021-05-20,0.6870774544485301
+Metropolitana,13,Santiago,131,2021-05-21,0.6978245962293629
+Metropolitana,13,Santiago,131,2021-05-22,0.7133352238816429
+Metropolitana,13,Santiago,131,2021-05-23,0.7169649164994308
+Metropolitana,13,Santiago,131,2021-05-24,0.713708194036759
+Metropolitana,13,Santiago,131,2021-05-25,0.7135253950625708
+Metropolitana,13,Santiago,131,2021-05-26,0.7125841775403149
+Metropolitana,13,Santiago,131,2021-05-27,0.7050750057751339
+Metropolitana,13,Santiago,131,2021-05-28,0.691539779549575
+Metropolitana,13,Santiago,131,2021-05-29,0.6717282093941049
+Metropolitana,13,Santiago,131,2021-05-30,0.663964004548487
 Metropolitana,13,Santiago,131,2021-05-31,0.665054777105726
-Metropolitana,13,Santiago,131,2021-06-01,0.6687878291265219
-Metropolitana,13,Santiago,131,2021-06-02,0.6719166480768859
-Metropolitana,13,Santiago,131,2021-06-03,0.6735053353871829
-Metropolitana,13,Santiago,131,2021-06-04,0.68038823879216
-Metropolitana,13,Santiago,131,2021-06-05,0.693350316078933
-Metropolitana,13,Santiago,131,2021-06-06,0.704896495733491
-Metropolitana,13,Santiago,131,2021-06-07,0.706316422820348
-Metropolitana,13,Santiago,131,2021-06-08,0.7079870569249891
-Metropolitana,13,Santiago,131,2021-06-09,0.710356095653252
-Metropolitana,13,Santiago,131,2021-06-10,0.721804366877614
-Metropolitana,13,Santiago,131,2021-06-11,0.7256190146575799
-Metropolitana,13,Santiago,131,2021-06-12,0.7204238117703331
-Metropolitana,13,Santiago,131,2021-06-13,0.721904937127243
-Metropolitana,13,Santiago,131,2021-06-14,0.7267180149616079
-Metropolitana,13,Santiago,131,2021-06-15,0.7294915685974259
-Metropolitana,13,Santiago,131,2021-06-16,0.7355916046540291
-Metropolitana,13,Santiago,131,2021-06-17,0.7311818240301129
-Metropolitana,13,Santiago,131,2021-06-18,0.7339582850445471
-Metropolitana,13,Santiago,131,2021-06-19,0.748904020636395
-Metropolitana,13,Santiago,131,2021-06-20,0.743195394473335
-Metropolitana,13,Santiago,131,2021-06-21,0.7435305646174059
-Metropolitana,13,Santiago,131,2021-06-22,0.7501945205223491
-Metropolitana,13,Santiago,131,2021-06-23,0.7516286835912891
-Metropolitana,13,Santiago,131,2021-06-24,0.7541389995785741
-Metropolitana,13,Santiago,131,2021-06-25,0.7636446082831531
-Metropolitana,13,Santiago,131,2021-06-26,0.7676978176902249
-Metropolitana,13,Santiago,131,2021-06-27,0.7699073262731729
-Metropolitana,13,Santiago,131,2021-06-28,0.767811540782415
-Metropolitana,13,Santiago,131,2021-06-29,0.7670694360309092
-Metropolitana,13,Santiago,131,2021-06-30,0.771502657349758
-Metropolitana,13,Santiago,131,2021-07-01,0.7790324285281179
-Metropolitana,13,Santiago,131,2021-07-02,0.7821890877240429
-Metropolitana,13,Santiago,131,2021-07-03,0.7793474447377341
-Metropolitana,13,Santiago,131,2021-07-04,0.787051255022471
+Metropolitana,13,Santiago,131,2021-06-01,0.668741936213229
+Metropolitana,13,Santiago,131,2021-06-02,0.671870755163593
+Metropolitana,13,Santiago,131,2021-06-03,0.67345944247389
+Metropolitana,13,Santiago,131,2021-06-04,0.680281845493643
+Metropolitana,13,Santiago,131,2021-06-05,0.693243922780416
+Metropolitana,13,Santiago,131,2021-06-06,0.7047901024349742
+Metropolitana,13,Santiago,131,2021-06-07,0.706260685324886
+Metropolitana,13,Santiago,131,2021-06-08,0.707977212342821
+Metropolitana,13,Santiago,131,2021-06-09,0.7103705376348729
+Metropolitana,13,Santiago,131,2021-06-10,0.721818808859235
+Metropolitana,13,Santiago,131,2021-06-11,0.7256939570244251
+Metropolitana,13,Santiago,131,2021-06-12,0.7204987541371779
+Metropolitana,13,Santiago,131,2021-06-13,0.721979879494088
+Metropolitana,13,Santiago,131,2021-06-14,0.726761271342629
+Metropolitana,13,Santiago,131,2021-06-15,0.7295348249784469
+Metropolitana,13,Santiago,131,2021-06-16,0.73561057447126
+Metropolitana,13,Santiago,131,2021-06-17,0.7311221235033679
+Metropolitana,13,Santiago,131,2021-06-18,0.7340002945325009
+Metropolitana,13,Santiago,131,2021-06-19,0.7489460301243491
+Metropolitana,13,Santiago,131,2021-06-20,0.7432374039612891
+Metropolitana,13,Santiago,131,2021-06-21,0.7435536042881291
+Metropolitana,13,Santiago,131,2021-06-22,0.7501247611687
+Metropolitana,13,Santiago,131,2021-06-23,0.7513321147858549
+Metropolitana,13,Santiago,131,2021-06-24,0.753921101117115
+Metropolitana,13,Santiago,131,2021-06-25,0.763324999806996
+Metropolitana,13,Santiago,131,2021-06-26,0.7673782092140691
+Metropolitana,13,Santiago,131,2021-06-27,0.7695877177970161
+Metropolitana,13,Santiago,131,2021-06-28,0.7672966126757221
+Metropolitana,13,Santiago,131,2021-06-29,0.7666473069485891
+Metropolitana,13,Santiago,131,2021-06-30,0.771307337719222
+Metropolitana,13,Santiago,131,2021-07-01,0.778837108897582
+Metropolitana,13,Santiago,131,2021-07-02,0.7819937680935072
+Metropolitana,13,Santiago,131,2021-07-03,0.7791521251071991
+Metropolitana,13,Santiago,131,2021-07-04,0.7868559353919351
 Metropolitana,13,Santiago,131,2021-07-05,0.79485790489854
 Metropolitana,13,Santiago,131,2021-07-06,0.8006860504004699
-Metropolitana,13,Santiago,131,2021-07-07,0.8018263725110508
-Metropolitana,13,Santiago,131,2021-07-08,0.7992087398853821
-Metropolitana,13,Santiago,131,2021-07-09,0.7911055463406609
-Metropolitana,13,Santiago,131,2021-07-10,0.8016555290456079
-Metropolitana,13,Santiago,131,2021-07-11,0.8016428627209321
-Metropolitana,13,Santiago,131,2021-07-12,0.796777332065052
-Metropolitana,13,Santiago,131,2021-07-13,0.8012372149472371
+Metropolitana,13,Santiago,131,2021-07-07,0.801539450873123
+Metropolitana,13,Santiago,131,2021-07-08,0.7989218182474541
+Metropolitana,13,Santiago,131,2021-07-09,0.790818624702734
+Metropolitana,13,Santiago,131,2021-07-10,0.80136860740768
+Metropolitana,13,Santiago,131,2021-07-11,0.801355941083004
+Metropolitana,13,Santiago,131,2021-07-12,0.7964904104271241
+Metropolitana,13,Santiago,131,2021-07-13,0.8009502933093101
 Metropolitana,13,Santiago,131,2021-07-14,0.810062074052601
 Metropolitana,13,Santiago,131,2021-07-15,0.8216995661048401
 Metropolitana,13,Santiago,131,2021-07-16,0.8241887435940171
-Metropolitana,13,Santiago,131,2021-07-17,0.8179291133937091
-Metropolitana,13,Santiago,131,2021-07-18,0.8162002766367191
-Metropolitana,13,Santiago,131,2021-07-19,0.8193980695919241
-Metropolitana,13,Santiago,131,2021-07-20,0.8120269996406229
-Metropolitana,13,Santiago,131,2021-07-21,0.8042212826834341
-Metropolitana,13,Santiago,131,2021-07-22,0.795409105330223
-Metropolitana,13,Santiago,131,2021-07-23,0.7976818326029499
-Metropolitana,13,Santiago,131,2021-07-24,0.7924495648706821
-Metropolitana,13,Santiago,131,2021-07-25,0.790001990000543
-Metropolitana,13,Santiago,131,2021-07-26,0.787735964424473
-Metropolitana,13,Santiago,131,2021-07-27,0.789393826625215
-Metropolitana,13,Santiago,131,2021-07-28,0.782984658543721
-Metropolitana,13,Santiago,131,2021-07-29,0.7864718328134109
-Metropolitana,13,Santiago,131,2021-07-30,0.789315434709146
-Metropolitana,13,Santiago,131,2021-07-31,0.795128976006558
-Metropolitana,13,Santiago,131,2021-08-01,0.7964205775925239
-Metropolitana,13,Santiago,131,2021-08-02,0.798814956396678
-Metropolitana,13,Santiago,131,2021-08-03,0.796977235543677
-Metropolitana,13,Santiago,131,2021-08-04,0.796132707161109
+Metropolitana,13,Santiago,131,2021-07-17,0.818135474828884
+Metropolitana,13,Santiago,131,2021-07-18,0.8164066380718941
+Metropolitana,13,Santiago,131,2021-07-19,0.8196044310270992
+Metropolitana,13,Santiago,131,2021-07-20,0.812233361075798
+Metropolitana,13,Santiago,131,2021-07-21,0.804427644118609
+Metropolitana,13,Santiago,131,2021-07-22,0.795615466765398
+Metropolitana,13,Santiago,131,2021-07-23,0.7978881940381249
+Metropolitana,13,Santiago,131,2021-07-24,0.793233277282302
+Metropolitana,13,Santiago,131,2021-07-25,0.790785702412162
+Metropolitana,13,Santiago,131,2021-07-26,0.787779468472045
+Metropolitana,13,Santiago,131,2021-07-27,0.789437330672787
+Metropolitana,13,Santiago,131,2021-07-28,0.782449490780877
+Metropolitana,13,Santiago,131,2021-07-29,0.785451010537716
+Metropolitana,13,Santiago,131,2021-07-30,0.7882946124334499
+Metropolitana,13,Santiago,131,2021-07-31,0.7933244413192428
+Metropolitana,13,Santiago,131,2021-08-01,0.7946160429052099
+Metropolitana,13,Santiago,131,2021-08-02,0.7977506300734108
+Metropolitana,13,Santiago,131,2021-08-03,0.7959129092204091
+Metropolitana,13,Santiago,131,2021-08-04,0.7956470526482579
 Metropolitana,13,Santiago,131,2021-08-05,0.789824071281798
-Metropolitana,13,Santiago,131,2021-08-06,0.794522166267862
-Metropolitana,13,Santiago,131,2021-08-07,0.7926864653119259
-Metropolitana,13,Santiago,131,2021-08-08,0.7917375837807951
-Metropolitana,13,Santiago,131,2021-08-09,0.787665882107425
-Metropolitana,13,Santiago,131,2021-08-10,0.776666209938701
-Metropolitana,13,Santiago,131,2021-08-11,0.775209530756903
-Metropolitana,13,Santiago,131,2021-08-12,0.7770059014791049
-Metropolitana,13,Santiago,131,2021-08-13,0.7724624409288772
-Metropolitana,13,Santiago,131,2021-08-14,0.766286798389598
-Metropolitana,13,Santiago,131,2021-08-15,0.752564963961095
-Metropolitana,13,Santiago,131,2021-08-16,0.7529758792860269
-Metropolitana,13,Santiago,131,2021-08-17,0.752453757200263
-Metropolitana,13,Santiago,131,2021-08-18,0.76024596499247
-Metropolitana,13,Santiago,131,2021-08-19,0.758342913695616
-Metropolitana,13,Santiago,131,2021-08-20,0.744470476937607
-Metropolitana,13,Santiago,131,2021-08-21,0.760887794559744
-Metropolitana,13,Santiago,131,2021-08-22,0.7723437449893421
-Metropolitana,13,Santiago,131,2021-08-23,0.775904491321773
-Metropolitana,13,Santiago,131,2021-08-24,0.793776295215745
-Metropolitana,13,Santiago,131,2021-08-25,0.7995538509933001
-Metropolitana,13,Santiago,131,2021-08-26,0.8036977986486991
-Metropolitana,13,Santiago,131,2021-08-27,0.827615477336007
+Metropolitana,13,Santiago,131,2021-08-06,0.79390687631247
+Metropolitana,13,Santiago,131,2021-08-07,0.7929468148685379
+Metropolitana,13,Santiago,131,2021-08-08,0.791997933337407
+Metropolitana,13,Santiago,131,2021-08-09,0.787926231664037
+Metropolitana,13,Santiago,131,2021-08-10,0.776926559495313
+Metropolitana,13,Santiago,131,2021-08-11,0.775469880313515
+Metropolitana,13,Santiago,131,2021-08-12,0.777266251035717
+Metropolitana,13,Santiago,131,2021-08-13,0.7719077883601808
+Metropolitana,13,Santiago,131,2021-08-14,0.7648565063088991
+Metropolitana,13,Santiago,131,2021-08-15,0.751134671880396
+Metropolitana,13,Santiago,131,2021-08-16,0.751545587205328
+Metropolitana,13,Santiago,131,2021-08-17,0.7510234651195641
+Metropolitana,13,Santiago,131,2021-08-18,0.758815672911772
+Metropolitana,13,Santiago,131,2021-08-19,0.7569126216149169
+Metropolitana,13,Santiago,131,2021-08-20,0.7429497193808531
+Metropolitana,13,Santiago,131,2021-08-21,0.757994198711047
+Metropolitana,13,Santiago,131,2021-08-22,0.7694501491406449
+Metropolitana,13,Santiago,131,2021-08-23,0.773010895473076
+Metropolitana,13,Santiago,131,2021-08-24,0.7908826993670469
+Metropolitana,13,Santiago,131,2021-08-25,0.7966602551446029
+Metropolitana,13,Santiago,131,2021-08-26,0.8008042028000009
+Metropolitana,13,Santiago,131,2021-08-27,0.8262426390440641
 Metropolitana,13,Santiago,131,2021-08-28,0.820796156653639
 Metropolitana,13,Santiago,131,2021-08-29,0.8364630294633689
-Metropolitana,13,Santiago,131,2021-08-30,0.8479009379601009
-Metropolitana,13,Santiago,131,2021-08-31,0.840995020253213
-Metropolitana,13,Santiago,131,2021-09-01,0.8476272768854691
-Metropolitana,13,Santiago,131,2021-09-02,0.841661813777149
-Metropolitana,13,Santiago,131,2021-09-03,0.8391065814475641
-Metropolitana,13,Santiago,131,2021-09-04,0.8505054447903689
-Metropolitana,13,Santiago,131,2021-09-05,0.8548577233361959
+Metropolitana,13,Santiago,131,2021-08-30,0.8469010629444781
+Metropolitana,13,Santiago,131,2021-08-31,0.8399951452375899
+Metropolitana,13,Santiago,131,2021-09-01,0.846627401869846
+Metropolitana,13,Santiago,131,2021-09-02,0.840661938761526
+Metropolitana,13,Santiago,131,2021-09-03,0.838106706431941
+Metropolitana,13,Santiago,131,2021-09-04,0.849505569774746
+Metropolitana,13,Santiago,131,2021-09-05,0.853857848320573
 Metropolitana,13,Santiago,131,2021-09-06,0.849216109260847
 Metropolitana,13,Santiago,131,2021-09-07,0.8586067364478579
 Metropolitana,13,Santiago,131,2021-09-08,0.8526285876125659
@@ -11736,8 +11856,14 @@ Metropolitana,13,Santiago,131,2021-09-14,0.8341353604316741
 Metropolitana,13,Santiago,131,2021-09-15,0.836545773415765
 Metropolitana,13,Santiago,131,2021-09-16,0.839813236770708
 Metropolitana,13,Santiago,131,2021-09-17,0.835679966300804
-Metropolitana,13,Santiago,131,2021-09-18,0.814396667389472
-Metropolitana,13,Santiago,131,2021-09-19,0.8203415673435891
+Metropolitana,13,Santiago,131,2021-09-18,0.81501509657933
+Metropolitana,13,Santiago,131,2021-09-19,0.821074386833149
+Metropolitana,13,Santiago,131,2021-09-20,0.8235039300790191
+Metropolitana,13,Santiago,131,2021-09-21,0.8211597491634101
+Metropolitana,13,Santiago,131,2021-09-22,0.803915208695726
+Metropolitana,13,Santiago,131,2021-09-23,0.807216185915715
+Metropolitana,13,Santiago,131,2021-09-24,0.8108974433508241
+Metropolitana,13,Santiago,131,2021-09-25,0.818516490969872
 Metropolitana,13,Cordillera,132,2020-03-10,
 Metropolitana,13,Cordillera,132,2020-03-11,
 Metropolitana,13,Cordillera,132,2020-03-12,
@@ -11813,18 +11939,18 @@ Metropolitana,13,Cordillera,132,2020-05-20,0.0865695683362907
 Metropolitana,13,Cordillera,132,2020-05-21,0.0890832589727931
 Metropolitana,13,Cordillera,132,2020-05-22,0.09346628835685901
 Metropolitana,13,Cordillera,132,2020-05-23,0.0953146744847211
-Metropolitana,13,Cordillera,132,2020-05-24,0.0990321088455967
-Metropolitana,13,Cordillera,132,2020-05-25,0.0983426279161197
-Metropolitana,13,Cordillera,132,2020-05-26,0.08447230863175
-Metropolitana,13,Cordillera,132,2020-05-27,0.0831358553276417
-Metropolitana,13,Cordillera,132,2020-05-28,0.0949824844571449
-Metropolitana,13,Cordillera,132,2020-05-29,0.100473473343099
-Metropolitana,13,Cordillera,132,2020-05-30,0.100836163221918
-Metropolitana,13,Cordillera,132,2020-05-31,0.116465361609737
-Metropolitana,13,Cordillera,132,2020-06-01,0.131091222548323
-Metropolitana,13,Cordillera,132,2020-06-02,0.15576341026398902
-Metropolitana,13,Cordillera,132,2020-06-03,0.164424748925328
-Metropolitana,13,Cordillera,132,2020-06-04,0.16051505960412502
+Metropolitana,13,Cordillera,132,2020-05-24,0.09906790409675999
+Metropolitana,13,Cordillera,132,2020-05-25,0.0983784231672831
+Metropolitana,13,Cordillera,132,2020-05-26,0.0845081038829133
+Metropolitana,13,Cordillera,132,2020-05-27,0.08317165057880499
+Metropolitana,13,Cordillera,132,2020-05-28,0.0950182797083082
+Metropolitana,13,Cordillera,132,2020-05-29,0.10056237000360198
+Metropolitana,13,Cordillera,132,2020-05-30,0.100925059882421
+Metropolitana,13,Cordillera,132,2020-05-31,0.11651846301907699
+Metropolitana,13,Cordillera,132,2020-06-01,0.131144323957663
+Metropolitana,13,Cordillera,132,2020-06-02,0.155816511673329
+Metropolitana,13,Cordillera,132,2020-06-03,0.164477850334668
+Metropolitana,13,Cordillera,132,2020-06-04,0.160568161013465
 Metropolitana,13,Cordillera,132,2020-06-05,0.186116157990034
 Metropolitana,13,Cordillera,132,2020-06-06,0.210595383197032
 Metropolitana,13,Cordillera,132,2020-06-07,0.207765810535057
@@ -11881,13 +12007,13 @@ Metropolitana,13,Cordillera,132,2020-07-27,0.44382814722488
 Metropolitana,13,Cordillera,132,2020-07-28,0.42380205459604703
 Metropolitana,13,Cordillera,132,2020-07-29,0.41737348316747597
 Metropolitana,13,Cordillera,132,2020-07-30,0.38077116656515897
-Metropolitana,13,Cordillera,132,2020-07-31,0.35219973799373105
-Metropolitana,13,Cordillera,132,2020-08-01,0.32966279218092304
-Metropolitana,13,Cordillera,132,2020-08-02,0.307632358385783
-Metropolitana,13,Cordillera,132,2020-08-03,0.301409266409266
-Metropolitana,13,Cordillera,132,2020-08-04,0.301506448139101
-Metropolitana,13,Cordillera,132,2020-08-05,0.28214136877402196
-Metropolitana,13,Cordillera,132,2020-08-06,0.267241853874507
+Metropolitana,13,Cordillera,132,2020-07-31,0.350799177769641
+Metropolitana,13,Cordillera,132,2020-08-01,0.328262231956833
+Metropolitana,13,Cordillera,132,2020-08-02,0.306231798161693
+Metropolitana,13,Cordillera,132,2020-08-03,0.300008706185177
+Metropolitana,13,Cordillera,132,2020-08-04,0.30010588791501197
+Metropolitana,13,Cordillera,132,2020-08-05,0.280740808549932
+Metropolitana,13,Cordillera,132,2020-08-06,0.265841293650417
 Metropolitana,13,Cordillera,132,2020-08-07,0.281893868526522
 Metropolitana,13,Cordillera,132,2020-08-08,0.264036725669379
 Metropolitana,13,Cordillera,132,2020-08-09,0.268326729959383
@@ -12005,13 +12131,13 @@ Metropolitana,13,Cordillera,132,2020-11-28,0.6404124860646601
 Metropolitana,13,Cordillera,132,2020-11-29,0.622205203151495
 Metropolitana,13,Cordillera,132,2020-11-30,0.637242797136457
 Metropolitana,13,Cordillera,132,2020-12-01,0.6391678224657379
-Metropolitana,13,Cordillera,132,2020-12-02,0.611616802057575
-Metropolitana,13,Cordillera,132,2020-12-03,0.633886155185888
-Metropolitana,13,Cordillera,132,2020-12-04,0.5726025112935489
-Metropolitana,13,Cordillera,132,2020-12-05,0.5711040097950469
-Metropolitana,13,Cordillera,132,2020-12-06,0.554679258076178
-Metropolitana,13,Cordillera,132,2020-12-07,0.571387695837247
-Metropolitana,13,Cordillera,132,2020-12-08,0.5696697098454411
+Metropolitana,13,Cordillera,132,2020-12-02,0.6143779064993511
+Metropolitana,13,Cordillera,132,2020-12-03,0.6366472596276651
+Metropolitana,13,Cordillera,132,2020-12-04,0.575363615735326
+Metropolitana,13,Cordillera,132,2020-12-05,0.573865114236824
+Metropolitana,13,Cordillera,132,2020-12-06,0.5574403625179549
+Metropolitana,13,Cordillera,132,2020-12-07,0.5741488002790239
+Metropolitana,13,Cordillera,132,2020-12-08,0.572430814287218
 Metropolitana,13,Cordillera,132,2020-12-09,0.549151232184106
 Metropolitana,13,Cordillera,132,2020-12-10,0.517382427101097
 Metropolitana,13,Cordillera,132,2020-12-11,0.572310444819813
@@ -12019,13 +12145,13 @@ Metropolitana,13,Cordillera,132,2020-12-12,0.5658169383263061
 Metropolitana,13,Cordillera,132,2020-12-13,0.5671156396250071
 Metropolitana,13,Cordillera,132,2020-12-14,0.5291584277547521
 Metropolitana,13,Cordillera,132,2020-12-15,0.528951388417278
-Metropolitana,13,Cordillera,132,2020-12-16,0.49640864158881703
-Metropolitana,13,Cordillera,132,2020-12-17,0.479913154505094
-Metropolitana,13,Cordillera,132,2020-12-18,0.42260418440542696
-Metropolitana,13,Cordillera,132,2020-12-19,0.36026652206776394
-Metropolitana,13,Cordillera,132,2020-12-20,0.32047060370041697
-Metropolitana,13,Cordillera,132,2020-12-21,0.280196523053666
-Metropolitana,13,Cordillera,132,2020-12-22,0.23752253037967302
+Metropolitana,13,Cordillera,132,2020-12-16,0.495459424692756
+Metropolitana,13,Cordillera,132,2020-12-17,0.47896393760903405
+Metropolitana,13,Cordillera,132,2020-12-18,0.42165496750936604
+Metropolitana,13,Cordillera,132,2020-12-19,0.359317305171704
+Metropolitana,13,Cordillera,132,2020-12-20,0.319521386804357
+Metropolitana,13,Cordillera,132,2020-12-21,0.27924730615760496
+Metropolitana,13,Cordillera,132,2020-12-22,0.23657331348361202
 Metropolitana,13,Cordillera,132,2020-12-23,0.252983260126117
 Metropolitana,13,Cordillera,132,2020-12-24,0.256369503512361
 Metropolitana,13,Cordillera,132,2020-12-25,0.248304987383328
@@ -12038,13 +12164,13 @@ Metropolitana,13,Cordillera,132,2020-12-31,0.31251689453949894
 Metropolitana,13,Cordillera,132,2021-01-01,0.31037732903587895
 Metropolitana,13,Cordillera,132,2021-01-02,0.271272654908163
 Metropolitana,13,Cordillera,132,2021-01-03,0.256391702527211
-Metropolitana,13,Cordillera,132,2021-01-04,0.265907718426205
-Metropolitana,13,Cordillera,132,2021-01-05,0.250542368306058
-Metropolitana,13,Cordillera,132,2021-01-06,0.254068009331699
-Metropolitana,13,Cordillera,132,2021-01-07,0.259016054853717
-Metropolitana,13,Cordillera,132,2021-01-08,0.271833376904489
-Metropolitana,13,Cordillera,132,2021-01-09,0.23592045778801002
-Metropolitana,13,Cordillera,132,2021-01-10,0.227710277164037
+Metropolitana,13,Cordillera,132,2021-01-04,0.265141817660304
+Metropolitana,13,Cordillera,132,2021-01-05,0.24977646754015698
+Metropolitana,13,Cordillera,132,2021-01-06,0.253302108565798
+Metropolitana,13,Cordillera,132,2021-01-07,0.258250154087817
+Metropolitana,13,Cordillera,132,2021-01-08,0.271067476138588
+Metropolitana,13,Cordillera,132,2021-01-09,0.23515455702211
+Metropolitana,13,Cordillera,132,2021-01-10,0.22694437639813603
 Metropolitana,13,Cordillera,132,2021-01-11,0.21287511232887196
 Metropolitana,13,Cordillera,132,2021-01-12,0.226426403492103
 Metropolitana,13,Cordillera,132,2021-01-13,0.23438315762232698
@@ -12103,18 +12229,18 @@ Metropolitana,13,Cordillera,132,2021-03-06,0.542311840421576
 Metropolitana,13,Cordillera,132,2021-03-07,0.581561479671215
 Metropolitana,13,Cordillera,132,2021-03-08,0.578227151661563
 Metropolitana,13,Cordillera,132,2021-03-09,0.5574366340493659
-Metropolitana,13,Cordillera,132,2021-03-10,0.532559786758725
-Metropolitana,13,Cordillera,132,2021-03-11,0.515642493525643
-Metropolitana,13,Cordillera,132,2021-03-12,0.515733438994739
-Metropolitana,13,Cordillera,132,2021-03-13,0.503253468576891
-Metropolitana,13,Cordillera,132,2021-03-14,0.460233988057411
-Metropolitana,13,Cordillera,132,2021-03-15,0.445013720920386
-Metropolitana,13,Cordillera,132,2021-03-16,0.450491778144701
-Metropolitana,13,Cordillera,132,2021-03-17,0.42466440008322903
-Metropolitana,13,Cordillera,132,2021-03-18,0.39228283266775704
-Metropolitana,13,Cordillera,132,2021-03-19,0.368562944712575
-Metropolitana,13,Cordillera,132,2021-03-20,0.3611365919454121
-Metropolitana,13,Cordillera,132,2021-03-21,0.37522389353271296
+Metropolitana,13,Cordillera,132,2021-03-10,0.5319177085304401
+Metropolitana,13,Cordillera,132,2021-03-11,0.5150004152973571
+Metropolitana,13,Cordillera,132,2021-03-12,0.515091360766454
+Metropolitana,13,Cordillera,132,2021-03-13,0.502611390348606
+Metropolitana,13,Cordillera,132,2021-03-14,0.459591909829126
+Metropolitana,13,Cordillera,132,2021-03-15,0.444715876771274
+Metropolitana,13,Cordillera,132,2021-03-16,0.45019393399559005
+Metropolitana,13,Cordillera,132,2021-03-17,0.425008634162403
+Metropolitana,13,Cordillera,132,2021-03-18,0.392627066746931
+Metropolitana,13,Cordillera,132,2021-03-19,0.36890717879174895
+Metropolitana,13,Cordillera,132,2021-03-20,0.361480826024585
+Metropolitana,13,Cordillera,132,2021-03-21,0.375568127611887
 Metropolitana,13,Cordillera,132,2021-03-22,0.375375077418837
 Metropolitana,13,Cordillera,132,2021-03-23,0.369091597843432
 Metropolitana,13,Cordillera,132,2021-03-24,0.41608627307715507
@@ -12143,13 +12269,13 @@ Metropolitana,13,Cordillera,132,2021-04-15,0.46755800756857
 Metropolitana,13,Cordillera,132,2021-04-16,0.490000771476164
 Metropolitana,13,Cordillera,132,2021-04-17,0.5062914982932071
 Metropolitana,13,Cordillera,132,2021-04-18,0.4842003266649099
-Metropolitana,13,Cordillera,132,2021-04-19,0.4985342653685971
-Metropolitana,13,Cordillera,132,2021-04-20,0.49234571707478597
-Metropolitana,13,Cordillera,132,2021-04-21,0.48539264599128
-Metropolitana,13,Cordillera,132,2021-04-22,0.49842718934656705
-Metropolitana,13,Cordillera,132,2021-04-23,0.489861976459382
-Metropolitana,13,Cordillera,132,2021-04-24,0.485597584135288
-Metropolitana,13,Cordillera,132,2021-04-25,0.488639483850723
+Metropolitana,13,Cordillera,132,2021-04-19,0.498769988072979
+Metropolitana,13,Cordillera,132,2021-04-20,0.492581439779168
+Metropolitana,13,Cordillera,132,2021-04-21,0.485628368695662
+Metropolitana,13,Cordillera,132,2021-04-22,0.49866291205095
+Metropolitana,13,Cordillera,132,2021-04-23,0.49009769916376394
+Metropolitana,13,Cordillera,132,2021-04-24,0.48583330683967
+Metropolitana,13,Cordillera,132,2021-04-25,0.488875206555106
 Metropolitana,13,Cordillera,132,2021-04-26,0.510946957564847
 Metropolitana,13,Cordillera,132,2021-04-27,0.528014626737779
 Metropolitana,13,Cordillera,132,2021-04-28,0.5523361394508101
@@ -12164,24 +12290,24 @@ Metropolitana,13,Cordillera,132,2021-05-06,0.650976936496943
 Metropolitana,13,Cordillera,132,2021-05-07,0.658783457237797
 Metropolitana,13,Cordillera,132,2021-05-08,0.6382399725418051
 Metropolitana,13,Cordillera,132,2021-05-09,0.65742911673095
-Metropolitana,13,Cordillera,132,2021-05-10,0.6616906069562579
-Metropolitana,13,Cordillera,132,2021-05-11,0.6567279661622349
-Metropolitana,13,Cordillera,132,2021-05-12,0.6511257252658771
-Metropolitana,13,Cordillera,132,2021-05-13,0.662947760124561
-Metropolitana,13,Cordillera,132,2021-05-14,0.647541767940453
-Metropolitana,13,Cordillera,132,2021-05-15,0.622905338565553
-Metropolitana,13,Cordillera,132,2021-05-16,0.606688346602293
+Metropolitana,13,Cordillera,132,2021-05-10,0.662053598002479
+Metropolitana,13,Cordillera,132,2021-05-11,0.657090957208456
+Metropolitana,13,Cordillera,132,2021-05-12,0.651488716312097
+Metropolitana,13,Cordillera,132,2021-05-13,0.663310751170782
+Metropolitana,13,Cordillera,132,2021-05-14,0.647904758986674
+Metropolitana,13,Cordillera,132,2021-05-15,0.6232683296117739
+Metropolitana,13,Cordillera,132,2021-05-16,0.607051337648514
 Metropolitana,13,Cordillera,132,2021-05-17,0.632858353657612
 Metropolitana,13,Cordillera,132,2021-05-18,0.6330916126590771
 Metropolitana,13,Cordillera,132,2021-05-19,0.6162448739635981
 Metropolitana,13,Cordillera,132,2021-05-20,0.604123661842386
-Metropolitana,13,Cordillera,132,2021-05-21,0.629115812548823
-Metropolitana,13,Cordillera,132,2021-05-22,0.6859377348661371
-Metropolitana,13,Cordillera,132,2021-05-23,0.6883951812901911
-Metropolitana,13,Cordillera,132,2021-05-24,0.6823086621755029
-Metropolitana,13,Cordillera,132,2021-05-25,0.667643871204615
-Metropolitana,13,Cordillera,132,2021-05-26,0.681978394251502
-Metropolitana,13,Cordillera,132,2021-05-27,0.6840031411581391
+Metropolitana,13,Cordillera,132,2021-05-21,0.6289195802097328
+Metropolitana,13,Cordillera,132,2021-05-22,0.6857415025270469
+Metropolitana,13,Cordillera,132,2021-05-23,0.688198948951101
+Metropolitana,13,Cordillera,132,2021-05-24,0.682112429836413
+Metropolitana,13,Cordillera,132,2021-05-25,0.667447638865526
+Metropolitana,13,Cordillera,132,2021-05-26,0.6817821619124129
+Metropolitana,13,Cordillera,132,2021-05-27,0.683806908819049
 Metropolitana,13,Cordillera,132,2021-05-28,0.6652460361941371
 Metropolitana,13,Cordillera,132,2021-05-29,0.6225889903537299
 Metropolitana,13,Cordillera,132,2021-05-30,0.609192999122015
@@ -12213,13 +12339,13 @@ Metropolitana,13,Cordillera,132,2021-06-24,0.66658474099946
 Metropolitana,13,Cordillera,132,2021-06-25,0.670199116042407
 Metropolitana,13,Cordillera,132,2021-06-26,0.6940556450667441
 Metropolitana,13,Cordillera,132,2021-06-27,0.699114078696606
-Metropolitana,13,Cordillera,132,2021-06-28,0.6962336472447459
-Metropolitana,13,Cordillera,132,2021-06-29,0.7002067702362739
-Metropolitana,13,Cordillera,132,2021-06-30,0.679530078506951
-Metropolitana,13,Cordillera,132,2021-07-01,0.7051447688275241
-Metropolitana,13,Cordillera,132,2021-07-02,0.715002714719585
-Metropolitana,13,Cordillera,132,2021-07-03,0.702866117139949
-Metropolitana,13,Cordillera,132,2021-07-04,0.694929609203441
+Metropolitana,13,Cordillera,132,2021-06-28,0.6947101211676489
+Metropolitana,13,Cordillera,132,2021-06-29,0.6986832441591769
+Metropolitana,13,Cordillera,132,2021-06-30,0.678006552429854
+Metropolitana,13,Cordillera,132,2021-07-01,0.703621242750426
+Metropolitana,13,Cordillera,132,2021-07-02,0.713479188642487
+Metropolitana,13,Cordillera,132,2021-07-03,0.701342591062852
+Metropolitana,13,Cordillera,132,2021-07-04,0.6934060831263439
 Metropolitana,13,Cordillera,132,2021-07-05,0.7099239402692009
 Metropolitana,13,Cordillera,132,2021-07-06,0.710548452369123
 Metropolitana,13,Cordillera,132,2021-07-07,0.693798243513651
@@ -12232,13 +12358,13 @@ Metropolitana,13,Cordillera,132,2021-07-13,0.7083150257844021
 Metropolitana,13,Cordillera,132,2021-07-14,0.75702012185792
 Metropolitana,13,Cordillera,132,2021-07-15,0.758215194481564
 Metropolitana,13,Cordillera,132,2021-07-16,0.763099199365569
-Metropolitana,13,Cordillera,132,2021-07-17,0.769401720373972
-Metropolitana,13,Cordillera,132,2021-07-18,0.7805675660225759
-Metropolitana,13,Cordillera,132,2021-07-19,0.7690427433275409
-Metropolitana,13,Cordillera,132,2021-07-20,0.7556178611795601
-Metropolitana,13,Cordillera,132,2021-07-21,0.741833400026677
-Metropolitana,13,Cordillera,132,2021-07-22,0.7506769374416429
-Metropolitana,13,Cordillera,132,2021-07-23,0.746708683473389
+Metropolitana,13,Cordillera,132,2021-07-17,0.76702076799302
+Metropolitana,13,Cordillera,132,2021-07-18,0.778186613641624
+Metropolitana,13,Cordillera,132,2021-07-19,0.766661790946588
+Metropolitana,13,Cordillera,132,2021-07-20,0.7532369087986069
+Metropolitana,13,Cordillera,132,2021-07-21,0.739452447645725
+Metropolitana,13,Cordillera,132,2021-07-22,0.748295985060691
+Metropolitana,13,Cordillera,132,2021-07-23,0.7443277310924371
 Metropolitana,13,Cordillera,132,2021-07-24,0.753851540616246
 Metropolitana,13,Cordillera,132,2021-07-25,0.734803921568628
 Metropolitana,13,Cordillera,132,2021-07-26,0.7353450471097529
@@ -12264,13 +12390,13 @@ Metropolitana,13,Cordillera,132,2021-08-14,0.7254676244515021
 Metropolitana,13,Cordillera,132,2021-08-15,0.766981665965543
 Metropolitana,13,Cordillera,132,2021-08-16,0.747143032837873
 Metropolitana,13,Cordillera,132,2021-08-17,0.7700494367787599
-Metropolitana,13,Cordillera,132,2021-08-18,0.739371781101104
-Metropolitana,13,Cordillera,132,2021-08-19,0.7366661533954771
-Metropolitana,13,Cordillera,132,2021-08-20,0.743683697255126
-Metropolitana,13,Cordillera,132,2021-08-21,0.6865408401122691
-Metropolitana,13,Cordillera,132,2021-08-22,0.7085188620902909
-Metropolitana,13,Cordillera,132,2021-08-23,0.713961038961039
-Metropolitana,13,Cordillera,132,2021-08-24,0.6907467532467529
+Metropolitana,13,Cordillera,132,2021-08-18,0.736220520596903
+Metropolitana,13,Cordillera,132,2021-08-19,0.733514892891275
+Metropolitana,13,Cordillera,132,2021-08-20,0.7405324367509242
+Metropolitana,13,Cordillera,132,2021-08-21,0.683389579608067
+Metropolitana,13,Cordillera,132,2021-08-22,0.7053676015860891
+Metropolitana,13,Cordillera,132,2021-08-23,0.7108097784568371
+Metropolitana,13,Cordillera,132,2021-08-24,0.687595492742552
 Metropolitana,13,Cordillera,132,2021-08-25,0.7540584415584419
 Metropolitana,13,Cordillera,132,2021-08-26,0.757954545454545
 Metropolitana,13,Cordillera,132,2021-08-27,0.7520937395937399
@@ -12292,11 +12418,17 @@ Metropolitana,13,Cordillera,132,2021-09-11,0.7235335699731981
 Metropolitana,13,Cordillera,132,2021-09-12,0.6773797238193521
 Metropolitana,13,Cordillera,132,2021-09-13,0.7049486461251171
 Metropolitana,13,Cordillera,132,2021-09-14,0.7142857142857142
-Metropolitana,13,Cordillera,132,2021-09-15,0.7341269841269841
-Metropolitana,13,Cordillera,132,2021-09-16,0.6905895691609979
-Metropolitana,13,Cordillera,132,2021-09-17,0.712234590806019
-Metropolitana,13,Cordillera,132,2021-09-18,0.707472686044115
-Metropolitana,13,Cordillera,132,2021-09-19,0.7408060193774479
+Metropolitana,13,Cordillera,132,2021-09-15,0.7362278244631191
+Metropolitana,13,Cordillera,132,2021-09-16,0.6926904094971321
+Metropolitana,13,Cordillera,132,2021-09-17,0.714335431142154
+Metropolitana,13,Cordillera,132,2021-09-18,0.709573526380249
+Metropolitana,13,Cordillera,132,2021-09-19,0.7429068597135821
+Metropolitana,13,Cordillera,132,2021-09-20,0.7619544787612009
+Metropolitana,13,Cordillera,132,2021-09-21,0.7526174106006039
+Metropolitana,13,Cordillera,132,2021-09-22,0.7481356178835171
+Metropolitana,13,Cordillera,132,2021-09-23,0.770244461420932
+Metropolitana,13,Cordillera,132,2021-09-24,0.7192954104718811
+Metropolitana,13,Cordillera,132,2021-09-25,0.694295410471881
 Metropolitana,13,Chacabuco,133,2020-03-10,
 Metropolitana,13,Chacabuco,133,2020-03-11,
 Metropolitana,13,Chacabuco,133,2020-03-12,
@@ -12566,16 +12698,16 @@ Metropolitana,13,Chacabuco,133,2020-11-30,0.5918367346938779
 Metropolitana,13,Chacabuco,133,2020-12-01,0.551020408163265
 Metropolitana,13,Chacabuco,133,2020-12-02,0.622448979591837
 Metropolitana,13,Chacabuco,133,2020-12-03,0.622448979591837
-Metropolitana,13,Chacabuco,133,2020-12-04,0.6795918367346939
-Metropolitana,13,Chacabuco,133,2020-12-05,0.8020408163265309
-Metropolitana,13,Chacabuco,133,2020-12-06,0.7972789115646259
-Metropolitana,13,Chacabuco,133,2020-12-07,0.7539888682745831
-Metropolitana,13,Chacabuco,133,2020-12-08,0.759090909090909
-Metropolitana,13,Chacabuco,133,2020-12-09,0.733116883116883
-Metropolitana,13,Chacabuco,133,2020-12-10,0.668181818181818
-Metropolitana,13,Chacabuco,133,2020-12-11,0.6926716141001861
-Metropolitana,13,Chacabuco,133,2020-12-12,0.6069573283859
-Metropolitana,13,Chacabuco,133,2020-12-13,0.587909709338281
+Metropolitana,13,Chacabuco,133,2020-12-04,0.6938775510204079
+Metropolitana,13,Chacabuco,133,2020-12-05,0.816326530612245
+Metropolitana,13,Chacabuco,133,2020-12-06,0.81156462585034
+Metropolitana,13,Chacabuco,133,2020-12-07,0.7639455782312919
+Metropolitana,13,Chacabuco,133,2020-12-08,0.769047619047619
+Metropolitana,13,Chacabuco,133,2020-12-09,0.7430735930735931
+Metropolitana,13,Chacabuco,133,2020-12-10,0.678138528138528
+Metropolitana,13,Chacabuco,133,2020-12-11,0.688342609771181
+Metropolitana,13,Chacabuco,133,2020-12-12,0.602628324056895
+Metropolitana,13,Chacabuco,133,2020-12-13,0.583580705009276
 Metropolitana,13,Chacabuco,133,2020-12-14,0.62687074829932
 Metropolitana,13,Chacabuco,133,2020-12-15,0.623623995052566
 Metropolitana,13,Chacabuco,133,2020-12-16,0.596026592455164
@@ -12856,6 +12988,12 @@ Metropolitana,13,Chacabuco,133,2021-09-16,0.9795918367346941
 Metropolitana,13,Chacabuco,133,2021-09-17,0.9795918367346941
 Metropolitana,13,Chacabuco,133,2021-09-18,0.836734693877551
 Metropolitana,13,Chacabuco,133,2021-09-19,0.836734693877551
+Metropolitana,13,Chacabuco,133,2021-09-20,0.836734693877551
+Metropolitana,13,Chacabuco,133,2021-09-21,0.831168831168831
+Metropolitana,13,Chacabuco,133,2021-09-22,0.7835497835497841
+Metropolitana,13,Chacabuco,133,2021-09-23,0.7835497835497841
+Metropolitana,13,Chacabuco,133,2021-09-24,0.7359307359307359
+Metropolitana,13,Chacabuco,133,2021-09-25,0.85021645021645
 Metropolitana,13,Maipo,134,2020-03-10,
 Metropolitana,13,Maipo,134,2020-03-11,
 Metropolitana,13,Maipo,134,2020-03-12,
@@ -12937,13 +13075,13 @@ Metropolitana,13,Maipo,134,2020-05-26,0.270573496152172
 Metropolitana,13,Maipo,134,2020-05-27,0.267496915234387
 Metropolitana,13,Maipo,134,2020-05-28,0.26403464733865195
 Metropolitana,13,Maipo,134,2020-05-29,0.275218694997628
-Metropolitana,13,Maipo,134,2020-05-30,0.283031194997628
-Metropolitana,13,Maipo,134,2020-05-31,0.220058222024655
-Metropolitana,13,Maipo,134,2020-06-01,0.212737383732059
-Metropolitana,13,Maipo,134,2020-06-02,0.20020992956857503
-Metropolitana,13,Maipo,134,2020-06-03,0.21676833529484302
-Metropolitana,13,Maipo,134,2020-06-04,0.233608903512925
-Metropolitana,13,Maipo,134,2020-06-05,0.25082732269520897
+Metropolitana,13,Maipo,134,2020-05-30,0.282099517978995
+Metropolitana,13,Maipo,134,2020-05-31,0.219126545006022
+Metropolitana,13,Maipo,134,2020-06-01,0.21180570671342605
+Metropolitana,13,Maipo,134,2020-06-02,0.199278252549942
+Metropolitana,13,Maipo,134,2020-06-03,0.21583665827620999
+Metropolitana,13,Maipo,134,2020-06-04,0.232677226494291
+Metropolitana,13,Maipo,134,2020-06-05,0.24989564567657502
 Metropolitana,13,Maipo,134,2020-06-06,0.26239673919420303
 Metropolitana,13,Maipo,134,2020-06-07,0.274728312750266
 Metropolitana,13,Maipo,134,2020-06-08,0.299258460943997
@@ -13241,13 +13379,13 @@ Metropolitana,13,Maipo,134,2021-03-26,0.29272807658350897
 Metropolitana,13,Maipo,134,2021-03-27,0.267105597796473
 Metropolitana,13,Maipo,134,2021-03-28,0.270411780357863
 Metropolitana,13,Maipo,134,2021-03-29,0.28429863522644605
-Metropolitana,13,Maipo,134,2021-03-30,0.289609990537801
-Metropolitana,13,Maipo,134,2021-03-31,0.30602730815993795
-Metropolitana,13,Maipo,134,2021-04-01,0.30311927471755296
-Metropolitana,13,Maipo,134,2021-04-02,0.291823044066484
-Metropolitana,13,Maipo,134,2021-04-03,0.301360722697923
-Metropolitana,13,Maipo,134,2021-04-04,0.30175959358648496
-Metropolitana,13,Maipo,134,2021-04-05,0.29472010440741
+Metropolitana,13,Maipo,134,2021-03-30,0.289343797103906
+Metropolitana,13,Maipo,134,2021-03-31,0.30576111472604306
+Metropolitana,13,Maipo,134,2021-04-01,0.302853081283658
+Metropolitana,13,Maipo,134,2021-04-02,0.29155685063258896
+Metropolitana,13,Maipo,134,2021-04-03,0.301094529264028
+Metropolitana,13,Maipo,134,2021-04-04,0.30149340015259
+Metropolitana,13,Maipo,134,2021-04-05,0.294453910973514
 Metropolitana,13,Maipo,134,2021-04-06,0.30869859903106606
 Metropolitana,13,Maipo,134,2021-04-07,0.318427723409871
 Metropolitana,13,Maipo,134,2021-04-08,0.33507816656782
@@ -13394,13 +13532,13 @@ Metropolitana,13,Maipo,134,2021-08-26,0.635575139146568
 Metropolitana,13,Maipo,134,2021-08-27,0.538636363636364
 Metropolitana,13,Maipo,134,2021-08-28,0.63982683982684
 Metropolitana,13,Maipo,134,2021-08-29,0.5489177489177489
-Metropolitana,13,Maipo,134,2021-08-30,0.601018589253883
-Metropolitana,13,Maipo,134,2021-08-31,0.6486376368729311
-Metropolitana,13,Maipo,134,2021-09-01,0.695715558950853
-Metropolitana,13,Maipo,134,2021-09-02,0.701667939903234
-Metropolitana,13,Maipo,134,2021-09-03,0.7611917494270429
-Metropolitana,13,Maipo,134,2021-09-04,0.731429844665139
-Metropolitana,13,Maipo,134,2021-09-05,0.7866246498599442
+Metropolitana,13,Maipo,134,2021-08-30,0.594949494949495
+Metropolitana,13,Maipo,134,2021-08-31,0.642568542568543
+Metropolitana,13,Maipo,134,2021-09-01,0.6896464646464651
+Metropolitana,13,Maipo,134,2021-09-02,0.6955988455988461
+Metropolitana,13,Maipo,134,2021-09-03,0.7551226551226551
+Metropolitana,13,Maipo,134,2021-09-04,0.72536075036075
+Metropolitana,13,Maipo,134,2021-09-05,0.780555555555556
 Metropolitana,13,Maipo,134,2021-09-06,0.780555555555556
 Metropolitana,13,Maipo,134,2021-09-07,0.6996031746031751
 Metropolitana,13,Maipo,134,2021-09-08,0.6777777777777779
@@ -13411,10 +13549,16 @@ Metropolitana,13,Maipo,134,2021-09-12,0.6594104308390021
 Metropolitana,13,Maipo,134,2021-09-13,0.6395691609977321
 Metropolitana,13,Maipo,134,2021-09-14,0.668140589569161
 Metropolitana,13,Maipo,134,2021-09-15,0.674856096284668
-Metropolitana,13,Maipo,134,2021-09-16,0.611364032792604
-Metropolitana,13,Maipo,134,2021-09-17,0.5542211756497472
-Metropolitana,13,Maipo,134,2021-09-18,0.544017094017094
-Metropolitana,13,Maipo,134,2021-09-19,0.5399354613640329
+Metropolitana,13,Maipo,134,2021-09-16,0.6034275248560961
+Metropolitana,13,Maipo,134,2021-09-17,0.546284667713239
+Metropolitana,13,Maipo,134,2021-09-18,0.5360805860805861
+Metropolitana,13,Maipo,134,2021-09-19,0.531998953427525
+Metropolitana,13,Maipo,134,2021-09-20,0.50989010989011
+Metropolitana,13,Maipo,134,2021-09-21,0.517826617826618
+Metropolitana,13,Maipo,134,2021-09-22,0.484126984126984
+Metropolitana,13,Maipo,134,2021-09-23,0.453514739229025
+Metropolitana,13,Maipo,134,2021-09-24,0.47732426303854897
+Metropolitana,13,Maipo,134,2021-09-25,0.54875283446712
 Metropolitana,13,Melipilla,135,2020-03-10,
 Metropolitana,13,Melipilla,135,2020-03-11,
 Metropolitana,13,Melipilla,135,2020-03-12,
@@ -13974,6 +14118,12 @@ Metropolitana,13,Melipilla,135,2021-09-16,0.80952380952381
 Metropolitana,13,Melipilla,135,2021-09-17,
 Metropolitana,13,Melipilla,135,2021-09-18,
 Metropolitana,13,Melipilla,135,2021-09-19,
+Metropolitana,13,Melipilla,135,2021-09-20,
+Metropolitana,13,Melipilla,135,2021-09-21,
+Metropolitana,13,Melipilla,135,2021-09-22,
+Metropolitana,13,Melipilla,135,2021-09-23,
+Metropolitana,13,Melipilla,135,2021-09-24,0.9220779220779219
+Metropolitana,13,Melipilla,135,2021-09-25,0.779220779220779
 Metropolitana,13,Talagante,136,2020-03-10,
 Metropolitana,13,Talagante,136,2020-03-11,
 Metropolitana,13,Talagante,136,2020-03-12,
@@ -14038,13 +14188,13 @@ Metropolitana,13,Talagante,136,2020-05-09,0.0650676768188289
 Metropolitana,13,Talagante,136,2020-05-10,0.0414127603067695
 Metropolitana,13,Talagante,136,2020-05-11,0.049766195489472996
 Metropolitana,13,Talagante,136,2020-05-12,0.0656392113624889
-Metropolitana,13,Talagante,136,2020-05-13,0.0775144329151298
-Metropolitana,13,Talagante,136,2020-05-14,0.0775144329151298
-Metropolitana,13,Talagante,136,2020-05-15,0.069652271657184
-Metropolitana,13,Talagante,136,2020-05-16,0.0728990249039372
-Metropolitana,13,Talagante,136,2020-05-17,0.0714177872475844
-Metropolitana,13,Talagante,136,2020-05-18,0.0729341119346407
-Metropolitana,13,Talagante,136,2020-05-19,0.084015273959199
+Metropolitana,13,Talagante,136,2020-05-13,0.0769039323046292
+Metropolitana,13,Talagante,136,2020-05-14,0.0769039323046292
+Metropolitana,13,Talagante,136,2020-05-15,0.0690417710466834
+Metropolitana,13,Talagante,136,2020-05-16,0.0722885242934366
+Metropolitana,13,Talagante,136,2020-05-17,0.0708072866370837
+Metropolitana,13,Talagante,136,2020-05-18,0.0723236113241401
+Metropolitana,13,Talagante,136,2020-05-19,0.0834047733486984
 Metropolitana,13,Talagante,136,2020-05-20,0.0936641616568672
 Metropolitana,13,Talagante,136,2020-05-21,0.12144193943464501
 Metropolitana,13,Talagante,136,2020-05-22,0.137638732255139
@@ -14352,13 +14502,13 @@ Metropolitana,13,Talagante,136,2021-03-19,0.71515132749429
 Metropolitana,13,Talagante,136,2021-03-20,0.679437041780005
 Metropolitana,13,Talagante,136,2021-03-21,0.674301654291676
 Metropolitana,13,Talagante,136,2021-03-22,0.652617980822288
-Metropolitana,13,Talagante,136,2021-03-23,0.663052855550822
-Metropolitana,13,Talagante,136,2021-03-24,0.6659188167501171
-Metropolitana,13,Talagante,136,2021-03-25,0.644193997790275
-Metropolitana,13,Talagante,136,2021-03-26,0.635846658854701
-Metropolitana,13,Talagante,136,2021-03-27,0.6547970961724849
-Metropolitana,13,Talagante,136,2021-03-28,0.6606079311447719
-Metropolitana,13,Talagante,136,2021-03-29,0.685750420572976
+Metropolitana,13,Talagante,136,2021-03-23,0.661297314624775
+Metropolitana,13,Talagante,136,2021-03-24,0.664163275824069
+Metropolitana,13,Talagante,136,2021-03-25,0.6424384568642271
+Metropolitana,13,Talagante,136,2021-03-26,0.634091117928653
+Metropolitana,13,Talagante,136,2021-03-27,0.653041555246437
+Metropolitana,13,Talagante,136,2021-03-28,0.658852390218724
+Metropolitana,13,Talagante,136,2021-03-29,0.6839948796469281
 Metropolitana,13,Talagante,136,2021-03-30,0.673825863586895
 Metropolitana,13,Talagante,136,2021-03-31,0.6760496194338399
 Metropolitana,13,Talagante,136,2021-04-01,0.6910156058283969
@@ -14435,13 +14585,13 @@ Metropolitana,13,Talagante,136,2021-06-10,0.8145044554974771
 Metropolitana,13,Talagante,136,2021-06-11,0.81723172822475
 Metropolitana,13,Talagante,136,2021-06-12,0.8442645537986609
 Metropolitana,13,Talagante,136,2021-06-13,0.851653716360237
-Metropolitana,13,Talagante,136,2021-06-14,0.87037803777197
-Metropolitana,13,Talagante,136,2021-06-15,0.8827888958350021
-Metropolitana,13,Talagante,136,2021-06-16,0.895501480869016
-Metropolitana,13,Talagante,136,2021-06-17,0.909453769203077
-Metropolitana,13,Talagante,136,2021-06-18,0.9113219010712091
-Metropolitana,13,Talagante,136,2021-06-19,0.9098578546721999
-Metropolitana,13,Talagante,136,2021-06-20,0.9131653845807151
+Metropolitana,13,Talagante,136,2021-06-14,0.8690606791453509
+Metropolitana,13,Talagante,136,2021-06-15,0.8814715372083829
+Metropolitana,13,Talagante,136,2021-06-16,0.894184122242397
+Metropolitana,13,Talagante,136,2021-06-17,0.908136410576458
+Metropolitana,13,Talagante,136,2021-06-18,0.9100045424445901
+Metropolitana,13,Talagante,136,2021-06-19,0.908540496045581
+Metropolitana,13,Talagante,136,2021-06-20,0.911848025954096
 Metropolitana,13,Talagante,136,2021-06-21,0.9216519475227231
 Metropolitana,13,Talagante,136,2021-06-22,0.924799505018107
 Metropolitana,13,Talagante,136,2021-06-23,0.920605782074384
@@ -14533,6 +14683,12 @@ Metropolitana,13,Talagante,136,2021-09-16,0.9107142857142858
 Metropolitana,13,Talagante,136,2021-09-17,0.9107142857142858
 Metropolitana,13,Talagante,136,2021-09-18,0.9107142857142858
 Metropolitana,13,Talagante,136,2021-09-19,0.8903061224489799
+Metropolitana,13,Talagante,136,2021-09-20,0.9319727891156461
+Metropolitana,13,Talagante,136,2021-09-21,0.9319727891156461
+Metropolitana,13,Talagante,136,2021-09-22,0.912742019884877
+Metropolitana,13,Talagante,136,2021-09-23,0.901753008895866
+Metropolitana,13,Talagante,136,2021-09-24,0.901753008895866
+Metropolitana,13,Talagante,136,2021-09-25,0.8627919699348271
 O’Higgins,6,Cachapoal,61,2020-03-10,
 O’Higgins,6,Cachapoal,61,2020-03-11,
 O’Higgins,6,Cachapoal,61,2020-03-12,
@@ -15091,7 +15247,13 @@ O’Higgins,6,Cachapoal,61,2021-09-15,0.6844060701203559
 O’Higgins,6,Cachapoal,61,2021-09-16,0.6844060701203559
 O’Higgins,6,Cachapoal,61,2021-09-17,0.7864468864468859
 O’Higgins,6,Cachapoal,61,2021-09-18,0.774201988487703
-O’Higgins,6,Cachapoal,61,2021-09-19,0.7384877027734169
+O’Higgins,6,Cachapoal,61,2021-09-19,0.702773417059131
+O’Higgins,6,Cachapoal,61,2021-09-20,0.746729461015175
+O’Higgins,6,Cachapoal,61,2021-09-21,0.699110413396128
+O’Higgins,6,Cachapoal,61,2021-09-22,0.7526818419675558
+O’Higgins,6,Cachapoal,61,2021-09-23,0.784427873713588
+O’Higgins,6,Cachapoal,61,2021-09-24,0.7436115471829761
+O’Higgins,6,Cachapoal,61,2021-09-25,0.7129993022850171
 O’Higgins,6,Cardenal Caro,62,2020-03-10,
 O’Higgins,6,Cardenal Caro,62,2020-03-11,
 O’Higgins,6,Cardenal Caro,62,2020-03-12,
@@ -15651,6 +15813,12 @@ O’Higgins,6,Cardenal Caro,62,2021-09-16,
 O’Higgins,6,Cardenal Caro,62,2021-09-17,
 O’Higgins,6,Cardenal Caro,62,2021-09-18,
 O’Higgins,6,Cardenal Caro,62,2021-09-19,
+O’Higgins,6,Cardenal Caro,62,2021-09-20,
+O’Higgins,6,Cardenal Caro,62,2021-09-21,
+O’Higgins,6,Cardenal Caro,62,2021-09-22,
+O’Higgins,6,Cardenal Caro,62,2021-09-23,
+O’Higgins,6,Cardenal Caro,62,2021-09-24,
+O’Higgins,6,Cardenal Caro,62,2021-09-25,
 O’Higgins,6,Colchagua,63,2020-03-10,
 O’Higgins,6,Colchagua,63,2020-03-11,
 O’Higgins,6,Colchagua,63,2020-03-12,
@@ -16210,6 +16378,12 @@ O’Higgins,6,Colchagua,63,2021-09-16,
 O’Higgins,6,Colchagua,63,2021-09-17,
 O’Higgins,6,Colchagua,63,2021-09-18,
 O’Higgins,6,Colchagua,63,2021-09-19,
+O’Higgins,6,Colchagua,63,2021-09-20,
+O’Higgins,6,Colchagua,63,2021-09-21,
+O’Higgins,6,Colchagua,63,2021-09-22,
+O’Higgins,6,Colchagua,63,2021-09-23,
+O’Higgins,6,Colchagua,63,2021-09-24,
+O’Higgins,6,Colchagua,63,2021-09-25,
 Maule,7,Talca,71,2020-03-10,
 Maule,7,Talca,71,2020-03-11,
 Maule,7,Talca,71,2020-03-12,
@@ -16657,13 +16831,13 @@ Maule,7,Talca,71,2021-05-27,0.8288882566175501
 Maule,7,Talca,71,2021-05-28,0.805955212432134
 Maule,7,Talca,71,2021-05-29,0.7900036990834309
 Maule,7,Talca,71,2021-05-30,0.7915910006707328
-Maule,7,Talca,71,2021-05-31,0.7883272056973121
-Maule,7,Talca,71,2021-06-01,0.791905425049994
-Maule,7,Talca,71,2021-06-02,0.8475519132780409
-Maule,7,Talca,71,2021-06-03,0.8915789531144058
-Maule,7,Talca,71,2021-06-04,0.88323281896182
-Maule,7,Talca,71,2021-06-05,0.8970262151081569
-Maule,7,Talca,71,2021-06-06,0.894604907602104
+Maule,7,Talca,71,2021-05-31,0.7882256176733209
+Maule,7,Talca,71,2021-06-01,0.791803837026003
+Maule,7,Talca,71,2021-06-02,0.847450325254051
+Maule,7,Talca,71,2021-06-03,0.8914773650904151
+Maule,7,Talca,71,2021-06-04,0.8831312309378292
+Maule,7,Talca,71,2021-06-05,0.896924627084166
+Maule,7,Talca,71,2021-06-06,0.8945033195781129
 Maule,7,Talca,71,2021-06-07,0.906726390624713
 Maule,7,Talca,71,2021-06-08,0.873133095206428
 Maule,7,Talca,71,2021-06-09,0.875204103915043
@@ -16769,6 +16943,12 @@ Maule,7,Talca,71,2021-09-16,0.932178932178932
 Maule,7,Talca,71,2021-09-17,0.932178932178932
 Maule,7,Talca,71,2021-09-18,0.932178932178932
 Maule,7,Talca,71,2021-09-19,0.932178932178932
+Maule,7,Talca,71,2021-09-20,0.971139971139971
+Maule,7,Talca,71,2021-09-21,0.987012987012987
+Maule,7,Talca,71,2021-09-22,0.987012987012987
+Maule,7,Talca,71,2021-09-23,1.0
+Maule,7,Talca,71,2021-09-24,0.957142857142857
+Maule,7,Talca,71,2021-09-25,0.957142857142857
 Maule,7,Cauquenes,72,2020-03-10,
 Maule,7,Cauquenes,72,2020-03-11,
 Maule,7,Cauquenes,72,2020-03-12,
@@ -17277,7 +17457,7 @@ Maule,7,Cauquenes,72,2021-07-27,1.0
 Maule,7,Cauquenes,72,2021-07-28,1.0
 Maule,7,Cauquenes,72,2021-07-29,1.0
 Maule,7,Cauquenes,72,2021-07-30,1.0
-Maule,7,Cauquenes,72,2021-07-31,1.0
+Maule,7,Cauquenes,72,2021-07-31,0.9714285714285709
 Maule,7,Cauquenes,72,2021-08-01,
 Maule,7,Cauquenes,72,2021-08-02,
 Maule,7,Cauquenes,72,2021-08-03,
@@ -17297,13 +17477,13 @@ Maule,7,Cauquenes,72,2021-08-16,0.9285714285714292
 Maule,7,Cauquenes,72,2021-08-17,0.9285714285714292
 Maule,7,Cauquenes,72,2021-08-18,0.9285714285714292
 Maule,7,Cauquenes,72,2021-08-19,0.915584415584416
-Maule,7,Cauquenes,72,2021-08-20,0.915584415584416
-Maule,7,Cauquenes,72,2021-08-21,0.987012987012987
-Maule,7,Cauquenes,72,2021-08-22,0.987012987012987
-Maule,7,Cauquenes,72,2021-08-23,0.987012987012987
-Maule,7,Cauquenes,72,2021-08-24,0.987012987012987
-Maule,7,Cauquenes,72,2021-08-25,0.987012987012987
-Maule,7,Cauquenes,72,2021-08-26,1.0
+Maule,7,Cauquenes,72,2021-08-20,0.9012987012987008
+Maule,7,Cauquenes,72,2021-08-21,0.972727272727273
+Maule,7,Cauquenes,72,2021-08-22,0.972727272727273
+Maule,7,Cauquenes,72,2021-08-23,0.972727272727273
+Maule,7,Cauquenes,72,2021-08-24,0.972727272727273
+Maule,7,Cauquenes,72,2021-08-25,0.972727272727273
+Maule,7,Cauquenes,72,2021-08-26,0.9857142857142859
 Maule,7,Cauquenes,72,2021-08-27,1.0
 Maule,7,Cauquenes,72,2021-08-28,1.0
 Maule,7,Cauquenes,72,2021-08-29,1.0
@@ -17328,6 +17508,12 @@ Maule,7,Cauquenes,72,2021-09-16,0.916666666666667
 Maule,7,Cauquenes,72,2021-09-17,0.9285714285714292
 Maule,7,Cauquenes,72,2021-09-18,0.9285714285714292
 Maule,7,Cauquenes,72,2021-09-19,0.9285714285714292
+Maule,7,Cauquenes,72,2021-09-20,0.9285714285714292
+Maule,7,Cauquenes,72,2021-09-21,0.9285714285714292
+Maule,7,Cauquenes,72,2021-09-22,1.0
+Maule,7,Cauquenes,72,2021-09-23,1.0
+Maule,7,Cauquenes,72,2021-09-24,1.0
+Maule,7,Cauquenes,72,2021-09-25,1.0
 Maule,7,Curicó,73,2020-03-10,
 Maule,7,Curicó,73,2020-03-11,
 Maule,7,Curicó,73,2020-03-12,
@@ -17798,13 +17984,13 @@ Maule,7,Curicó,73,2021-06-19,0.8715763228368271
 Maule,7,Curicó,73,2021-06-20,0.866866746698679
 Maule,7,Curicó,73,2021-06-21,0.897478991596639
 Maule,7,Curicó,73,2021-06-22,0.879775524667698
-Maule,7,Curicó,73,2021-06-23,0.8573265450758621
-Maule,7,Curicó,73,2021-06-24,0.821935465567135
-Maule,7,Curicó,73,2021-06-25,0.8355409077440059
-Maule,7,Curicó,73,2021-06-26,0.8273776424378829
-Maule,7,Curicó,73,2021-06-27,0.8251593638220891
-Maule,7,Curicó,73,2021-06-28,0.81563555429828
-Maule,7,Curicó,73,2021-06-29,0.8710497576957199
+Maule,7,Curicó,73,2021-06-23,0.857836749157494
+Maule,7,Curicó,73,2021-06-24,0.822445669648768
+Maule,7,Curicó,73,2021-06-25,0.836051111825639
+Maule,7,Curicó,73,2021-06-26,0.827887846519516
+Maule,7,Curicó,73,2021-06-27,0.825669567903722
+Maule,7,Curicó,73,2021-06-28,0.8161457583799119
+Maule,7,Curicó,73,2021-06-29,0.871559961777353
 Maule,7,Curicó,73,2021-06-30,0.8900973767433391
 Maule,7,Curicó,73,2021-07-01,0.937533274179237
 Maule,7,Curicó,73,2021-07-02,0.9318643399388741
@@ -17887,6 +18073,12 @@ Maule,7,Curicó,73,2021-09-16,
 Maule,7,Curicó,73,2021-09-17,
 Maule,7,Curicó,73,2021-09-18,
 Maule,7,Curicó,73,2021-09-19,
+Maule,7,Curicó,73,2021-09-20,
+Maule,7,Curicó,73,2021-09-21,
+Maule,7,Curicó,73,2021-09-22,
+Maule,7,Curicó,73,2021-09-23,
+Maule,7,Curicó,73,2021-09-24,0.817669172932331
+Maule,7,Curicó,73,2021-09-25,0.817669172932331
 Maule,7,Linares,74,2020-03-10,
 Maule,7,Linares,74,2020-03-11,
 Maule,7,Linares,74,2020-03-12,
@@ -18410,10 +18602,10 @@ Maule,7,Linares,74,2021-08-11,
 Maule,7,Linares,74,2021-08-12,
 Maule,7,Linares,74,2021-08-13,
 Maule,7,Linares,74,2021-08-14,
-Maule,7,Linares,74,2021-08-15,0.9795918367346941
-Maule,7,Linares,74,2021-08-16,0.9795918367346941
-Maule,7,Linares,74,2021-08-17,0.9795918367346941
-Maule,7,Linares,74,2021-08-18,1.0
+Maule,7,Linares,74,2021-08-15,0.9693877551020409
+Maule,7,Linares,74,2021-08-16,0.9693877551020409
+Maule,7,Linares,74,2021-08-17,0.9693877551020409
+Maule,7,Linares,74,2021-08-18,0.9897959183673469
 Maule,7,Linares,74,2021-08-19,0.9795918367346941
 Maule,7,Linares,74,2021-08-20,0.9795918367346941
 Maule,7,Linares,74,2021-08-21,
@@ -18446,6 +18638,12 @@ Maule,7,Linares,74,2021-09-16,0.915584415584416
 Maule,7,Linares,74,2021-09-17,0.915584415584416
 Maule,7,Linares,74,2021-09-18,0.915584415584416
 Maule,7,Linares,74,2021-09-19,0.915584415584416
+Maule,7,Linares,74,2021-09-20,0.903679653679654
+Maule,7,Linares,74,2021-09-21,0.8917748917748921
+Maule,7,Linares,74,2021-09-22,0.9047619047619051
+Maule,7,Linares,74,2021-09-23,0.9652014652014649
+Maule,7,Linares,74,2021-09-24,0.9652014652014649
+Maule,7,Linares,74,2021-09-25,0.9652014652014649
 Ñuble,16,Diguillín,161,2020-03-10,
 Ñuble,16,Diguillín,161,2020-03-11,
 Ñuble,16,Diguillín,161,2020-03-12,
@@ -19005,6 +19203,12 @@ Maule,7,Linares,74,2021-09-19,0.915584415584416
 Ñuble,16,Diguillín,161,2021-09-17,0.7639455782312919
 Ñuble,16,Diguillín,161,2021-09-18,0.7639455782312919
 Ñuble,16,Diguillín,161,2021-09-19,0.7401360544217691
+Ñuble,16,Diguillín,161,2021-09-20,0.757142857142857
+Ñuble,16,Diguillín,161,2021-09-21,0.757142857142857
+Ñuble,16,Diguillín,161,2021-09-22,0.6428571428571429
+Ñuble,16,Diguillín,161,2021-09-23,0.666666666666667
+Ñuble,16,Diguillín,161,2021-09-24,0.666666666666667
+Ñuble,16,Diguillín,161,2021-09-25,0.7380952380952379
 Ñuble,16,Itata,162,2020-03-10,
 Ñuble,16,Itata,162,2020-03-11,
 Ñuble,16,Itata,162,2020-03-12,
@@ -19564,6 +19768,12 @@ Maule,7,Linares,74,2021-09-19,0.915584415584416
 Ñuble,16,Itata,162,2021-09-17,
 Ñuble,16,Itata,162,2021-09-18,
 Ñuble,16,Itata,162,2021-09-19,
+Ñuble,16,Itata,162,2021-09-20,
+Ñuble,16,Itata,162,2021-09-21,
+Ñuble,16,Itata,162,2021-09-22,
+Ñuble,16,Itata,162,2021-09-23,
+Ñuble,16,Itata,162,2021-09-24,
+Ñuble,16,Itata,162,2021-09-25,
 Ñuble,16,Punilla,163,2020-03-10,
 Ñuble,16,Punilla,163,2020-03-11,
 Ñuble,16,Punilla,163,2020-03-12,
@@ -20123,6 +20333,12 @@ Maule,7,Linares,74,2021-09-19,0.915584415584416
 Ñuble,16,Punilla,163,2021-09-17,
 Ñuble,16,Punilla,163,2021-09-18,
 Ñuble,16,Punilla,163,2021-09-19,
+Ñuble,16,Punilla,163,2021-09-20,
+Ñuble,16,Punilla,163,2021-09-21,
+Ñuble,16,Punilla,163,2021-09-22,
+Ñuble,16,Punilla,163,2021-09-23,
+Ñuble,16,Punilla,163,2021-09-24,
+Ñuble,16,Punilla,163,2021-09-25,
 Biobío,8,Concepción,81,2020-03-10,
 Biobío,8,Concepción,81,2020-03-11,
 Biobío,8,Concepción,81,2020-03-12,
@@ -20145,13 +20361,13 @@ Biobío,8,Concepción,81,2020-03-28,0.523596517172849
 Biobío,8,Concepción,81,2020-03-29,0.546555700846319
 Biobío,8,Concepción,81,2020-03-30,0.615603319893938
 Biobío,8,Concepción,81,2020-03-31,0.7139260497956149
-Biobío,8,Concepción,81,2020-04-01,0.7294816053511709
-Biobío,8,Concepción,81,2020-04-02,0.779688644688645
-Biobío,8,Concepción,81,2020-04-03,0.774719700589266
-Biobío,8,Concepción,81,2020-04-04,0.719524895394461
-Biobío,8,Concepción,81,2020-04-05,0.7135725144420799
-Biobío,8,Concepción,81,2020-04-06,0.7175407684103341
-Biobío,8,Concepción,81,2020-04-07,0.679994980864546
+Biobío,8,Concepción,81,2020-04-01,0.725525561395127
+Biobío,8,Concepción,81,2020-04-02,0.775732600732601
+Biobío,8,Concepción,81,2020-04-03,0.7707636566332221
+Biobío,8,Concepción,81,2020-04-04,0.715568851438417
+Biobío,8,Concepción,81,2020-04-05,0.7096164704860359
+Biobío,8,Concepción,81,2020-04-06,0.71358472445429
+Biobío,8,Concepción,81,2020-04-07,0.6760389369085021
 Biobío,8,Concepción,81,2020-04-08,0.648566409435975
 Biobío,8,Concepción,81,2020-04-09,0.64006300807543
 Biobío,8,Concepción,81,2020-04-10,0.6545557616986191
@@ -20219,22 +20435,22 @@ Biobío,8,Concepción,81,2020-06-10,0.88085017396607
 Biobío,8,Concepción,81,2020-06-11,0.8813969955655229
 Biobío,8,Concepción,81,2020-06-12,0.902612636293359
 Biobío,8,Concepción,81,2020-06-13,0.8973637185444409
-Biobío,8,Concepción,81,2020-06-14,0.89014405648607
-Biobío,8,Concepción,81,2020-06-15,0.889273474011983
-Biobío,8,Concepción,81,2020-06-16,0.8877247517078841
-Biobío,8,Concepción,81,2020-06-17,0.8721544127734341
-Biobío,8,Concepción,81,2020-06-18,0.874876735822436
-Biobío,8,Concepción,81,2020-06-19,0.891461021266619
-Biobío,8,Concepción,81,2020-06-20,0.9004777761167081
+Biobío,8,Concepción,81,2020-06-14,0.8903510958235441
+Biobío,8,Concepción,81,2020-06-15,0.8894805133494571
+Biobío,8,Concepción,81,2020-06-16,0.8879317910453579
+Biobío,8,Concepción,81,2020-06-17,0.872361452110908
+Biobío,8,Concepción,81,2020-06-18,0.87508377515991
+Biobío,8,Concepción,81,2020-06-19,0.8916680606040941
+Biobío,8,Concepción,81,2020-06-20,0.900684815454182
 Biobío,8,Concepción,81,2020-06-21,0.9063385819775129
 Biobío,8,Concepción,81,2020-06-22,0.9042774689764929
-Biobío,8,Concepción,81,2020-06-23,0.917294137632259
-Biobío,8,Concepción,81,2020-06-24,0.932651680425412
-Biobío,8,Concepción,81,2020-06-25,0.9324842883932729
-Biobío,8,Concepción,81,2020-06-26,0.9360892929878871
-Biobío,8,Concepción,81,2020-06-27,0.939230072384374
-Biobío,8,Concepción,81,2020-06-28,0.93949171550316
-Biobío,8,Concepción,81,2020-06-29,0.946746923638133
+Biobío,8,Concepción,81,2020-06-23,0.9173563847533299
+Biobío,8,Concepción,81,2020-06-24,0.932713927546483
+Biobío,8,Concepción,81,2020-06-25,0.9325465355143441
+Biobío,8,Concepción,81,2020-06-26,0.936151540108957
+Biobío,8,Concepción,81,2020-06-27,0.9392923195054449
+Biobío,8,Concepción,81,2020-06-28,0.939553962624231
+Biobío,8,Concepción,81,2020-06-29,0.946809170759204
 Biobío,8,Concepción,81,2020-06-30,0.941443168936788
 Biobío,8,Concepción,81,2020-07-01,0.929337905778894
 Biobío,8,Concepción,81,2020-07-02,0.923505550431975
@@ -20444,13 +20660,13 @@ Biobío,8,Concepción,81,2021-01-21,0.900120095373621
 Biobío,8,Concepción,81,2021-01-22,0.91549547629522
 Biobío,8,Concepción,81,2021-01-23,0.915408843704039
 Biobío,8,Concepción,81,2021-01-24,0.9181187434534129
-Biobío,8,Concepción,81,2021-01-25,0.9212121463243971
-Biobío,8,Concepción,81,2021-01-26,0.915838665179991
-Biobío,8,Concepción,81,2021-01-27,0.91399915203613
-Biobío,8,Concepción,81,2021-01-28,0.9040068439225
-Biobío,8,Concepción,81,2021-01-29,0.899581405107921
-Biobío,8,Concepción,81,2021-01-30,0.8996381845764649
-Biobío,8,Concepción,81,2021-01-31,0.9009850368767071
+Biobío,8,Concepción,81,2021-01-25,0.921246085776415
+Biobío,8,Concepción,81,2021-01-26,0.9158726046320089
+Biobío,8,Concepción,81,2021-01-27,0.9140330914881479
+Biobío,8,Concepción,81,2021-01-28,0.9040407833745171
+Biobío,8,Concepción,81,2021-01-29,0.899615344559938
+Biobío,8,Concepción,81,2021-01-30,0.899672124028482
+Biobío,8,Concepción,81,2021-01-31,0.901018976328725
 Biobío,8,Concepción,81,2021-02-01,0.896930780130992
 Biobío,8,Concepción,81,2021-02-02,0.9008106092963101
 Biobío,8,Concepción,81,2021-02-03,0.908653008443057
@@ -20485,14 +20701,14 @@ Biobío,8,Concepción,81,2021-03-03,0.9070678758942721
 Biobío,8,Concepción,81,2021-03-04,0.8981016131645679
 Biobío,8,Concepción,81,2021-03-05,0.8887671344661379
 Biobío,8,Concepción,81,2021-03-06,0.8826425206746021
-Biobío,8,Concepción,81,2021-03-07,0.884342283544471
-Biobío,8,Concepción,81,2021-03-08,0.881400423570668
-Biobío,8,Concepción,81,2021-03-09,0.8748556255566751
-Biobío,8,Concepción,81,2021-03-10,0.863023958694208
-Biobío,8,Concepción,81,2021-03-11,0.8569982654890269
-Biobío,8,Concepción,81,2021-03-12,0.85852870769698
-Biobío,8,Concepción,81,2021-03-13,0.867921245258532
-Biobío,8,Concepción,81,2021-03-14,0.863813388421025
+Biobío,8,Concepción,81,2021-03-07,0.8847831907551479
+Biobío,8,Concepción,81,2021-03-08,0.881581614965446
+Biobío,8,Concepción,81,2021-03-09,0.875036816951453
+Biobío,8,Concepción,81,2021-03-10,0.863205150088986
+Biobío,8,Concepción,81,2021-03-11,0.8571794568838051
+Biobío,8,Concepción,81,2021-03-12,0.858709899091758
+Biobío,8,Concepción,81,2021-03-13,0.8681024366533101
+Biobío,8,Concepción,81,2021-03-14,0.8635536726051259
 Biobío,8,Concepción,81,2021-03-15,0.854073210857494
 Biobío,8,Concepción,81,2021-03-16,0.8425697330618809
 Biobío,8,Concepción,81,2021-03-17,0.843953450380132
@@ -20537,13 +20753,13 @@ Biobío,8,Concepción,81,2021-04-24,0.89898536693122
 Biobío,8,Concepción,81,2021-04-25,0.894544286220648
 Biobío,8,Concepción,81,2021-04-26,0.8969991442488628
 Biobío,8,Concepción,81,2021-04-27,0.904552993907976
-Biobío,8,Concepción,81,2021-04-28,0.905208131503756
-Biobío,8,Concepción,81,2021-04-29,0.907519909745084
-Biobío,8,Concepción,81,2021-04-30,0.9186548072321891
-Biobío,8,Concepción,81,2021-05-01,0.919013479722009
-Biobío,8,Concepción,81,2021-05-02,0.917422741354284
-Biobío,8,Concepción,81,2021-05-03,0.917882346508978
-Biobío,8,Concepción,81,2021-05-04,0.9200347564826171
+Biobío,8,Concepción,81,2021-04-28,0.9044690432575259
+Biobío,8,Concepción,81,2021-04-29,0.9067808214988551
+Biobío,8,Concepción,81,2021-04-30,0.9179157189859599
+Biobío,8,Concepción,81,2021-05-01,0.91827439147578
+Biobío,8,Concepción,81,2021-05-02,0.9166836531080541
+Biobío,8,Concepción,81,2021-05-03,0.917143258262748
+Biobío,8,Concepción,81,2021-05-04,0.9192956682363871
 Biobío,8,Concepción,81,2021-05-05,0.922451882110421
 Biobío,8,Concepción,81,2021-05-06,0.9241338735883309
 Biobío,8,Concepción,81,2021-05-07,0.9072596219434929
@@ -20682,6 +20898,12 @@ Biobío,8,Concepción,81,2021-09-16,0.796907854050711
 Biobío,8,Concepción,81,2021-09-17,
 Biobío,8,Concepción,81,2021-09-18,
 Biobío,8,Concepción,81,2021-09-19,
+Biobío,8,Concepción,81,2021-09-20,
+Biobío,8,Concepción,81,2021-09-21,
+Biobío,8,Concepción,81,2021-09-22,
+Biobío,8,Concepción,81,2021-09-23,
+Biobío,8,Concepción,81,2021-09-24,0.8343537414965991
+Biobío,8,Concepción,81,2021-09-25,0.8343537414965991
 Biobío,8,Arauco,82,2020-03-10,
 Biobío,8,Arauco,82,2020-03-11,
 Biobío,8,Arauco,82,2020-03-12,
@@ -21241,6 +21463,12 @@ Biobío,8,Arauco,82,2021-09-16,1.0
 Biobío,8,Arauco,82,2021-09-17,1.0
 Biobío,8,Arauco,82,2021-09-18,1.0
 Biobío,8,Arauco,82,2021-09-19,0.9714285714285709
+Biobío,8,Arauco,82,2021-09-20,0.9714285714285709
+Biobío,8,Arauco,82,2021-09-21,0.9476190476190479
+Biobío,8,Arauco,82,2021-09-22,0.9476190476190479
+Biobío,8,Arauco,82,2021-09-23,0.9
+Biobío,8,Arauco,82,2021-09-24,0.9
+Biobío,8,Arauco,82,2021-09-25,0.9
 Biobío,8,Biobío,83,2020-03-10,
 Biobío,8,Biobío,83,2020-03-11,
 Biobío,8,Biobío,83,2020-03-12,
@@ -21796,10 +22024,16 @@ Biobío,8,Biobío,83,2021-09-12,0.9033882783882778
 Biobío,8,Biobío,83,2021-09-13,0.9033882783882778
 Biobío,8,Biobío,83,2021-09-14,0.9212454212454209
 Biobío,8,Biobío,83,2021-09-15,0.885531135531135
-Biobío,8,Biobío,83,2021-09-16,0.893467643467644
-Biobío,8,Biobío,83,2021-09-17,0.875610500610501
-Biobío,8,Biobío,83,2021-09-18,0.9195665445665451
-Biobío,8,Biobío,83,2021-09-19,0.9115079365079359
+Biobío,8,Biobío,83,2021-09-16,0.8950549450549449
+Biobío,8,Biobío,83,2021-09-17,0.885531135531135
+Biobío,8,Biobío,83,2021-09-18,0.9294871794871801
+Biobío,8,Biobío,83,2021-09-19,0.9214285714285709
+Biobío,8,Biobío,83,2021-09-20,0.9157142857142858
+Biobío,8,Biobío,83,2021-09-21,0.90891156462585
+Biobío,8,Biobío,83,2021-09-22,0.939131344845631
+Biobío,8,Biobío,83,2021-09-23,0.9266313448456309
+Biobío,8,Biobío,83,2021-09-24,0.925951072736787
+Biobío,8,Biobío,83,2021-09-25,0.925951072736787
 Araucanía,9,Cautín,91,2020-03-10,
 Araucanía,9,Cautín,91,2020-03-11,
 Araucanía,9,Cautín,91,2020-03-12,
@@ -21968,13 +22202,13 @@ Araucanía,9,Cautín,91,2020-08-21,0.35668953300532197
 Araucanía,9,Cautín,91,2020-08-22,0.324943501259291
 Araucanía,9,Cautín,91,2020-08-23,0.410657786973576
 Araucanía,9,Cautín,91,2020-08-24,0.398302574618364
-Araucanía,9,Cautín,91,2020-08-25,0.34548872180451096
-Araucanía,9,Cautín,91,2020-08-26,0.33487394957983196
-Araucanía,9,Cautín,91,2020-08-27,0.313134819145049
-Araucanía,9,Cautín,91,2020-08-28,0.33849713798562897
-Araucanía,9,Cautín,91,2020-08-29,0.351484150972642
-Araucanía,9,Cautín,91,2020-08-30,0.26100796049645203
-Araucanía,9,Cautín,91,2020-08-31,0.23834786197428398
+Araucanía,9,Cautín,91,2020-08-25,0.3431077694235589
+Araucanía,9,Cautín,91,2020-08-26,0.33249299719888004
+Araucanía,9,Cautín,91,2020-08-27,0.310753866764097
+Araucanía,9,Cautín,91,2020-08-28,0.336116185604677
+Araucanía,9,Cautín,91,2020-08-29,0.34910319859169
+Araucanía,9,Cautín,91,2020-08-30,0.258627008115499
+Araucanía,9,Cautín,91,2020-08-31,0.235966909593332
 Araucanía,9,Cautín,91,2020-09-01,0.226707650334072
 Araucanía,9,Cautín,91,2020-09-02,0.20149756630045898
 Araucanía,9,Cautín,91,2020-09-03,0.163086320795392
@@ -22359,6 +22593,12 @@ Araucanía,9,Cautín,91,2021-09-16,0.918367346938776
 Araucanía,9,Cautín,91,2021-09-17,0.9719387755102041
 Araucanía,9,Cautín,91,2021-09-18,0.900510204081633
 Araucanía,9,Cautín,91,2021-09-19,0.900510204081633
+Araucanía,9,Cautín,91,2021-09-20,0.7993197278911559
+Araucanía,9,Cautín,91,2021-09-21,0.770748299319728
+Araucanía,9,Cautín,91,2021-09-22,0.7350340136054421
+Araucanía,9,Cautín,91,2021-09-23,0.7452380952380949
+Araucanía,9,Cautín,91,2021-09-24,0.7293650793650791
+Araucanía,9,Cautín,91,2021-09-25,0.800793650793651
 Araucanía,9,Malleco,92,2020-03-10,
 Araucanía,9,Malleco,92,2020-03-11,
 Araucanía,9,Malleco,92,2020-03-12,
@@ -22918,6 +23158,12 @@ Araucanía,9,Malleco,92,2021-09-16,
 Araucanía,9,Malleco,92,2021-09-17,
 Araucanía,9,Malleco,92,2021-09-18,
 Araucanía,9,Malleco,92,2021-09-19,0.742857142857143
+Araucanía,9,Malleco,92,2021-09-20,0.725
+Araucanía,9,Malleco,92,2021-09-21,0.704591836734694
+Araucanía,9,Malleco,92,2021-09-22,0.704591836734694
+Araucanía,9,Malleco,92,2021-09-23,0.704591836734694
+Araucanía,9,Malleco,92,2021-09-24,0.8474489795918371
+Araucanía,9,Malleco,92,2021-09-25,0.8474489795918371
 Los Ríos,14,Valdivia,141,2020-03-10,
 Los Ríos,14,Valdivia,141,2020-03-11,
 Los Ríos,14,Valdivia,141,2020-03-12,
@@ -23477,6 +23723,12 @@ Los Ríos,14,Valdivia,141,2021-09-16,
 Los Ríos,14,Valdivia,141,2021-09-17,
 Los Ríos,14,Valdivia,141,2021-09-18,
 Los Ríos,14,Valdivia,141,2021-09-19,
+Los Ríos,14,Valdivia,141,2021-09-20,
+Los Ríos,14,Valdivia,141,2021-09-21,
+Los Ríos,14,Valdivia,141,2021-09-22,
+Los Ríos,14,Valdivia,141,2021-09-23,0.7857142857142858
+Los Ríos,14,Valdivia,141,2021-09-24,0.7040816326530609
+Los Ríos,14,Valdivia,141,2021-09-25,
 Los Ríos,14,Ranco,142,2020-03-10,
 Los Ríos,14,Ranco,142,2020-03-11,
 Los Ríos,14,Ranco,142,2020-03-12,
@@ -23972,14 +24224,14 @@ Los Ríos,14,Ranco,142,2021-07-14,0.9036498171836519
 Los Ríos,14,Ranco,142,2021-07-15,0.8985993121331469
 Los Ríos,14,Ranco,142,2021-07-16,0.8856122991461339
 Los Ríos,14,Ranco,142,2021-07-17,0.845929759463594
-Los Ríos,14,Ranco,142,2021-07-18,0.836405949939785
-Los Ríos,14,Ranco,142,2021-07-19,0.7974449109787459
-Los Ríos,14,Ranco,142,2021-07-20,0.8110503531556159
-Los Ríos,14,Ranco,142,2021-07-21,0.783982683982684
-Los Ríos,14,Ranco,142,2021-07-22,0.788566335625159
-Los Ríos,14,Ranco,142,2021-07-23,0.787754647313471
-Los Ríos,14,Ranco,142,2021-07-24,0.8591832187420421
-Los Ríos,14,Ranco,142,2021-07-25,0.868707028265852
+Los Ríos,14,Ranco,142,2021-07-18,0.8280726166064509
+Los Ríos,14,Ranco,142,2021-07-19,0.7878940451778801
+Los Ríos,14,Ranco,142,2021-07-20,0.801499487354751
+Los Ríos,14,Ranco,142,2021-07-21,0.7744318181818179
+Los Ríos,14,Ranco,142,2021-07-22,0.7790154698242929
+Los Ríos,14,Ranco,142,2021-07-23,0.7782037815126049
+Los Ríos,14,Ranco,142,2021-07-24,0.8496323529411759
+Los Ríos,14,Ranco,142,2021-07-25,0.8674894957983191
 Los Ríos,14,Ranco,142,2021-07-26,0.907668067226891
 Los Ríos,14,Ranco,142,2021-07-27,0.868707028265852
 Los Ríos,14,Ranco,142,2021-07-28,0.925849885408709
@@ -24036,6 +24288,12 @@ Los Ríos,14,Ranco,142,2021-09-16,
 Los Ríos,14,Ranco,142,2021-09-17,
 Los Ríos,14,Ranco,142,2021-09-18,
 Los Ríos,14,Ranco,142,2021-09-19,
+Los Ríos,14,Ranco,142,2021-09-20,
+Los Ríos,14,Ranco,142,2021-09-21,
+Los Ríos,14,Ranco,142,2021-09-22,
+Los Ríos,14,Ranco,142,2021-09-23,
+Los Ríos,14,Ranco,142,2021-09-24,
+Los Ríos,14,Ranco,142,2021-09-25,
 Los Lagos,10,Llanquihue,101,2020-03-10,
 Los Lagos,10,Llanquihue,101,2020-03-11,
 Los Lagos,10,Llanquihue,101,2020-03-12,
@@ -24250,13 +24508,13 @@ Los Lagos,10,Llanquihue,101,2020-10-06,0.320096464556404
 Los Lagos,10,Llanquihue,101,2020-10-07,0.327957673556133
 Los Lagos,10,Llanquihue,101,2020-10-08,0.338083980176342
 Los Lagos,10,Llanquihue,101,2020-10-09,0.35256782249375607
-Los Lagos,10,Llanquihue,101,2020-10-10,0.338362300669951
-Los Lagos,10,Llanquihue,101,2020-10-11,0.312388274695925
-Los Lagos,10,Llanquihue,101,2020-10-12,0.36945401597219196
-Los Lagos,10,Llanquihue,101,2020-10-13,0.36538897532178605
-Los Lagos,10,Llanquihue,101,2020-10-14,0.396930193959779
-Los Lagos,10,Llanquihue,101,2020-10-15,0.422442507194291
-Los Lagos,10,Llanquihue,101,2020-10-16,0.42130218410274894
+Los Lagos,10,Llanquihue,101,2020-10-10,0.33614746124580897
+Los Lagos,10,Llanquihue,101,2020-10-11,0.31017343527178304
+Los Lagos,10,Llanquihue,101,2020-10-12,0.367239176548051
+Los Lagos,10,Llanquihue,101,2020-10-13,0.363174135897644
+Los Lagos,10,Llanquihue,101,2020-10-14,0.39471535453563705
+Los Lagos,10,Llanquihue,101,2020-10-15,0.42022766777014897
+Los Lagos,10,Llanquihue,101,2020-10-16,0.4190873446786071
 Los Lagos,10,Llanquihue,101,2020-10-17,0.38779482767180395
 Los Lagos,10,Llanquihue,101,2020-10-18,0.382832310514165
 Los Lagos,10,Llanquihue,101,2020-10-19,0.330737788494831
@@ -24500,13 +24758,13 @@ Los Lagos,10,Llanquihue,101,2021-06-13,0.636560123848796
 Los Lagos,10,Llanquihue,101,2021-06-14,0.6531043415358709
 Los Lagos,10,Llanquihue,101,2021-06-15,0.66198789495724
 Los Lagos,10,Llanquihue,101,2021-06-16,0.663730055235985
-Los Lagos,10,Llanquihue,101,2021-06-17,0.671834000048791
-Los Lagos,10,Llanquihue,101,2021-06-18,0.661652295788139
-Los Lagos,10,Llanquihue,101,2021-06-19,0.700357433015444
-Los Lagos,10,Llanquihue,101,2021-06-20,0.714775638923012
-Los Lagos,10,Llanquihue,101,2021-06-21,0.699520175035329
-Los Lagos,10,Llanquihue,101,2021-06-22,0.6791390648447738
-Los Lagos,10,Llanquihue,101,2021-06-23,0.6904866493630899
+Los Lagos,10,Llanquihue,101,2021-06-17,0.6732945648004951
+Los Lagos,10,Llanquihue,101,2021-06-18,0.663112860539843
+Los Lagos,10,Llanquihue,101,2021-06-19,0.701817997767148
+Los Lagos,10,Llanquihue,101,2021-06-20,0.7162362036747159
+Los Lagos,10,Llanquihue,101,2021-06-21,0.7009807397870329
+Los Lagos,10,Llanquihue,101,2021-06-22,0.680599629596478
+Los Lagos,10,Llanquihue,101,2021-06-23,0.691947214114794
 Los Lagos,10,Llanquihue,101,2021-06-24,0.6732012541923641
 Los Lagos,10,Llanquihue,101,2021-06-25,0.702244768149671
 Los Lagos,10,Llanquihue,101,2021-06-26,0.672819044371787
@@ -24574,13 +24832,13 @@ Los Lagos,10,Llanquihue,101,2021-08-26,0.493877551020408
 Los Lagos,10,Llanquihue,101,2021-08-27,0.4737310308738879
 Los Lagos,10,Llanquihue,101,2021-08-28,0.502302459445317
 Los Lagos,10,Llanquihue,101,2021-08-29,0.591588173731031
-Los Lagos,10,Llanquihue,101,2021-08-30,0.584445316588174
-Los Lagos,10,Llanquihue,101,2021-08-31,0.577302459445317
-Los Lagos,10,Llanquihue,101,2021-09-01,0.621520146520147
-Los Lagos,10,Llanquihue,101,2021-09-02,0.621520146520147
-Los Lagos,10,Llanquihue,101,2021-09-03,0.558333333333333
-Los Lagos,10,Llanquihue,101,2021-09-04,0.529761904761905
-Los Lagos,10,Llanquihue,101,2021-09-05,0.511904761904762
+Los Lagos,10,Llanquihue,101,2021-08-30,0.572540554683412
+Los Lagos,10,Llanquihue,101,2021-08-31,0.565397697540555
+Los Lagos,10,Llanquihue,101,2021-09-01,0.609615384615385
+Los Lagos,10,Llanquihue,101,2021-09-02,0.609615384615385
+Los Lagos,10,Llanquihue,101,2021-09-03,0.546428571428571
+Los Lagos,10,Llanquihue,101,2021-09-04,0.5178571428571429
+Los Lagos,10,Llanquihue,101,2021-09-05,0.5
 Los Lagos,10,Llanquihue,101,2021-09-06,0.527210884353742
 Los Lagos,10,Llanquihue,101,2021-09-07,0.562925170068027
 Los Lagos,10,Llanquihue,101,2021-09-08,0.539115646258503
@@ -24595,6 +24853,12 @@ Los Lagos,10,Llanquihue,101,2021-09-16,0.5493427207712921
 Los Lagos,10,Llanquihue,101,2021-09-17,0.406485577914149
 Los Lagos,10,Llanquihue,101,2021-09-18,0.416009387437959
 Los Lagos,10,Llanquihue,101,2021-09-19,0.530295101723673
+Los Lagos,10,Llanquihue,101,2021-09-20,0.525100296528868
+Los Lagos,10,Llanquihue,101,2021-09-21,0.546925693354265
+Los Lagos,10,Llanquihue,101,2021-09-22,0.540923292393881
+Los Lagos,10,Llanquihue,101,2021-09-23,0.548249299719888
+Los Lagos,10,Llanquihue,101,2021-09-24,0.6196778711484591
+Los Lagos,10,Llanquihue,101,2021-09-25,0.5244397759103641
 Los Lagos,10,Chiloé,102,2020-03-10,
 Los Lagos,10,Chiloé,102,2020-03-11,
 Los Lagos,10,Chiloé,102,2020-03-12,
@@ -25053,13 +25317,13 @@ Los Lagos,10,Chiloé,102,2021-06-07,0.517873128461364
 Los Lagos,10,Chiloé,102,2021-06-08,0.569741260329496
 Los Lagos,10,Chiloé,102,2021-06-09,0.635349725937961
 Los Lagos,10,Chiloé,102,2021-06-10,0.6654300933317621
-Los Lagos,10,Chiloé,102,2021-06-11,0.6613484606787
-Los Lagos,10,Chiloé,102,2021-06-12,0.6650249312669361
-Los Lagos,10,Chiloé,102,2021-06-13,0.662167788409793
-Los Lagos,10,Chiloé,102,2021-06-14,0.663240289482294
-Los Lagos,10,Chiloé,102,2021-06-15,0.6438614074947161
-Los Lagos,10,Chiloé,102,2021-06-16,0.626304889938199
-Los Lagos,10,Chiloé,102,2021-06-17,0.613569339889216
+Los Lagos,10,Chiloé,102,2021-06-11,0.6594500268865789
+Los Lagos,10,Chiloé,102,2021-06-12,0.663126497474814
+Los Lagos,10,Chiloé,102,2021-06-13,0.660269354617671
+Los Lagos,10,Chiloé,102,2021-06-14,0.661341855690172
+Los Lagos,10,Chiloé,102,2021-06-15,0.6419629737025949
+Los Lagos,10,Chiloé,102,2021-06-16,0.624406456146077
+Los Lagos,10,Chiloé,102,2021-06-17,0.611670906097094
 Los Lagos,10,Chiloé,102,2021-06-18,0.5938414487327529
 Los Lagos,10,Chiloé,102,2021-06-19,0.573669491060795
 Los Lagos,10,Chiloé,102,2021-06-20,0.555812348203653
@@ -25154,6 +25418,12 @@ Los Lagos,10,Chiloé,102,2021-09-16,
 Los Lagos,10,Chiloé,102,2021-09-17,
 Los Lagos,10,Chiloé,102,2021-09-18,
 Los Lagos,10,Chiloé,102,2021-09-19,
+Los Lagos,10,Chiloé,102,2021-09-20,
+Los Lagos,10,Chiloé,102,2021-09-21,
+Los Lagos,10,Chiloé,102,2021-09-22,
+Los Lagos,10,Chiloé,102,2021-09-23,
+Los Lagos,10,Chiloé,102,2021-09-24,
+Los Lagos,10,Chiloé,102,2021-09-25,
 Los Lagos,10,Osorno,103,2020-03-10,
 Los Lagos,10,Osorno,103,2020-03-11,
 Los Lagos,10,Osorno,103,2020-03-12,
@@ -25708,11 +25978,17 @@ Los Lagos,10,Osorno,103,2021-09-11,
 Los Lagos,10,Osorno,103,2021-09-12,1.0
 Los Lagos,10,Osorno,103,2021-09-13,1.0
 Los Lagos,10,Osorno,103,2021-09-14,1.0
-Los Lagos,10,Osorno,103,2021-09-15,1.0
-Los Lagos,10,Osorno,103,2021-09-16,1.0
-Los Lagos,10,Osorno,103,2021-09-17,0.942857142857143
-Los Lagos,10,Osorno,103,2021-09-18,0.942857142857143
-Los Lagos,10,Osorno,103,2021-09-19,0.942857142857143
+Los Lagos,10,Osorno,103,2021-09-15,0.9857142857142859
+Los Lagos,10,Osorno,103,2021-09-16,0.9857142857142859
+Los Lagos,10,Osorno,103,2021-09-17,0.9285714285714292
+Los Lagos,10,Osorno,103,2021-09-18,0.9285714285714292
+Los Lagos,10,Osorno,103,2021-09-19,0.9285714285714292
+Los Lagos,10,Osorno,103,2021-09-20,0.8766233766233771
+Los Lagos,10,Osorno,103,2021-09-21,0.815398886827458
+Los Lagos,10,Osorno,103,2021-09-22,0.8296846011131729
+Los Lagos,10,Osorno,103,2021-09-23,0.7939703153988871
+Los Lagos,10,Osorno,103,2021-09-24,0.851113172541744
+Los Lagos,10,Osorno,103,2021-09-25,0.851113172541744
 Los Lagos,10,Palena,104,2020-03-10,
 Los Lagos,10,Palena,104,2020-03-11,
 Los Lagos,10,Palena,104,2020-03-12,
@@ -26272,6 +26548,12 @@ Los Lagos,10,Palena,104,2021-09-16,
 Los Lagos,10,Palena,104,2021-09-17,
 Los Lagos,10,Palena,104,2021-09-18,
 Los Lagos,10,Palena,104,2021-09-19,
+Los Lagos,10,Palena,104,2021-09-20,
+Los Lagos,10,Palena,104,2021-09-21,
+Los Lagos,10,Palena,104,2021-09-22,
+Los Lagos,10,Palena,104,2021-09-23,
+Los Lagos,10,Palena,104,2021-09-24,
+Los Lagos,10,Palena,104,2021-09-25,
 Aysén,11,Coihaique,111,2020-03-10,
 Aysén,11,Coihaique,111,2020-03-11,
 Aysén,11,Coihaique,111,2020-03-12,
@@ -26831,6 +27113,12 @@ Aysén,11,Coihaique,111,2021-09-16,
 Aysén,11,Coihaique,111,2021-09-17,
 Aysén,11,Coihaique,111,2021-09-18,
 Aysén,11,Coihaique,111,2021-09-19,
+Aysén,11,Coihaique,111,2021-09-20,
+Aysén,11,Coihaique,111,2021-09-21,
+Aysén,11,Coihaique,111,2021-09-22,
+Aysén,11,Coihaique,111,2021-09-23,
+Aysén,11,Coihaique,111,2021-09-24,
+Aysén,11,Coihaique,111,2021-09-25,
 Aysén,11,Aisén,112,2020-03-10,
 Aysén,11,Aisén,112,2020-03-11,
 Aysén,11,Aisén,112,2020-03-12,
@@ -27390,6 +27678,12 @@ Aysén,11,Aisén,112,2021-09-16,
 Aysén,11,Aisén,112,2021-09-17,
 Aysén,11,Aisén,112,2021-09-18,
 Aysén,11,Aisén,112,2021-09-19,
+Aysén,11,Aisén,112,2021-09-20,
+Aysén,11,Aisén,112,2021-09-21,
+Aysén,11,Aisén,112,2021-09-22,
+Aysén,11,Aisén,112,2021-09-23,
+Aysén,11,Aisén,112,2021-09-24,
+Aysén,11,Aisén,112,2021-09-25,
 Magallanes,12,Magallanes,121,2020-03-10,
 Magallanes,12,Magallanes,121,2020-03-11,
 Magallanes,12,Magallanes,121,2020-03-12,
@@ -27949,6 +28243,12 @@ Magallanes,12,Magallanes,121,2021-09-16,
 Magallanes,12,Magallanes,121,2021-09-17,
 Magallanes,12,Magallanes,121,2021-09-18,
 Magallanes,12,Magallanes,121,2021-09-19,
+Magallanes,12,Magallanes,121,2021-09-20,
+Magallanes,12,Magallanes,121,2021-09-21,
+Magallanes,12,Magallanes,121,2021-09-22,
+Magallanes,12,Magallanes,121,2021-09-23,
+Magallanes,12,Magallanes,121,2021-09-24,
+Magallanes,12,Magallanes,121,2021-09-25,
 Magallanes,12,Tierra del Fuego,123,2020-03-10,
 Magallanes,12,Tierra del Fuego,123,2020-03-11,
 Magallanes,12,Tierra del Fuego,123,2020-03-12,
@@ -28508,6 +28808,12 @@ Magallanes,12,Tierra del Fuego,123,2021-09-16,
 Magallanes,12,Tierra del Fuego,123,2021-09-17,
 Magallanes,12,Tierra del Fuego,123,2021-09-18,
 Magallanes,12,Tierra del Fuego,123,2021-09-19,
+Magallanes,12,Tierra del Fuego,123,2021-09-20,
+Magallanes,12,Tierra del Fuego,123,2021-09-21,
+Magallanes,12,Tierra del Fuego,123,2021-09-22,
+Magallanes,12,Tierra del Fuego,123,2021-09-23,
+Magallanes,12,Tierra del Fuego,123,2021-09-24,
+Magallanes,12,Tierra del Fuego,123,2021-09-25,
 Magallanes,12,Última Esperanza,124,2020-03-10,
 Magallanes,12,Última Esperanza,124,2020-03-11,
 Magallanes,12,Última Esperanza,124,2020-03-12,
@@ -29067,3 +29373,9 @@ Magallanes,12,Última Esperanza,124,2021-09-16,
 Magallanes,12,Última Esperanza,124,2021-09-17,
 Magallanes,12,Última Esperanza,124,2021-09-18,
 Magallanes,12,Última Esperanza,124,2021-09-19,
+Magallanes,12,Última Esperanza,124,2021-09-20,
+Magallanes,12,Última Esperanza,124,2021-09-21,
+Magallanes,12,Última Esperanza,124,2021-09-22,
+Magallanes,12,Última Esperanza,124,2021-09-23,
+Magallanes,12,Última Esperanza,124,2021-09-24,
+Magallanes,12,Última Esperanza,124,2021-09-25,
