@@ -749,6 +749,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 01,Región de Tarapacá,2022-05-01,66.67
 01,Región de Tarapacá,2022-05-02,66.67
 01,Región de Tarapacá,2022-05-03,75.0
+01,Región de Tarapacá,2022-05-04,87.5
+01,Región de Tarapacá,2022-05-05,75.0
+01,Región de Tarapacá,2022-05-06,83.33
+01,Región de Tarapacá,2022-05-07,73.91
+01,Región de Tarapacá,2022-05-08,75.0
+01,Región de Tarapacá,2022-05-09,70.83
+01,Región de Tarapacá,2022-05-10,79.17
+01,Región de Tarapacá,2022-05-11,75.0
+01,Región de Tarapacá,2022-05-12,79.17
+01,Región de Tarapacá,2022-05-13,79.17
+01,Región de Tarapacá,2022-05-14,86.36
+01,Región de Tarapacá,2022-05-15,79.17
+01,Región de Tarapacá,2022-05-16,87.5
+01,Región de Tarapacá,2022-05-17,78.26
 02,Región de Antofagasta,2020-04-14,55.56
 02,Región de Antofagasta,2020-04-15,55.56
 02,Región de Antofagasta,2020-04-16,68.33
@@ -1499,6 +1513,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 02,Región de Antofagasta,2022-05-01,89.55
 02,Región de Antofagasta,2022-05-02,83.58
 02,Región de Antofagasta,2022-05-03,79.1
+02,Región de Antofagasta,2022-05-04,89.39
+02,Región de Antofagasta,2022-05-05,87.88
+02,Región de Antofagasta,2022-05-06,90.91
+02,Región de Antofagasta,2022-05-07,90.91
+02,Región de Antofagasta,2022-05-08,89.39
+02,Región de Antofagasta,2022-05-09,89.39
+02,Región de Antofagasta,2022-05-10,87.88
+02,Región de Antofagasta,2022-05-11,83.33
+02,Región de Antofagasta,2022-05-12,87.88
+02,Región de Antofagasta,2022-05-13,87.88
+02,Región de Antofagasta,2022-05-14,80.3
+02,Región de Antofagasta,2022-05-15,80.3
+02,Región de Antofagasta,2022-05-16,78.79
+02,Región de Antofagasta,2022-05-17,83.33
 03,Región de Atacama,2020-04-14,45.45
 03,Región de Atacama,2020-04-15,54.55
 03,Región de Atacama,2020-04-16,54.55
@@ -2249,6 +2277,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 03,Región de Atacama,2022-05-01,52.94
 03,Región de Atacama,2022-05-02,63.16
 03,Región de Atacama,2022-05-03,33.33
+03,Región de Atacama,2022-05-04,38.89
+03,Región de Atacama,2022-05-05,55.56
+03,Región de Atacama,2022-05-06,52.63
+03,Región de Atacama,2022-05-07,50.0
+03,Región de Atacama,2022-05-08,55.56
+03,Región de Atacama,2022-05-09,55.56
+03,Región de Atacama,2022-05-10,61.11
+03,Región de Atacama,2022-05-11,50.0
+03,Región de Atacama,2022-05-12,50.0
+03,Región de Atacama,2022-05-13,50.0
+03,Región de Atacama,2022-05-14,61.11
+03,Región de Atacama,2022-05-15,72.22
+03,Región de Atacama,2022-05-16,55.56
+03,Región de Atacama,2022-05-17,55.56
 04,Región de Coquimbo,2020-04-14,69.57
 04,Región de Coquimbo,2020-04-15,61.76
 04,Región de Coquimbo,2020-04-16,67.44
@@ -2999,6 +3041,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 04,Región de Coquimbo,2022-05-01,84.21
 04,Región de Coquimbo,2022-05-02,85.96
 04,Región de Coquimbo,2022-05-03,84.75
+04,Región de Coquimbo,2022-05-04,87.72
+04,Región de Coquimbo,2022-05-05,87.72
+04,Región de Coquimbo,2022-05-06,89.47
+04,Región de Coquimbo,2022-05-07,87.72
+04,Región de Coquimbo,2022-05-08,92.98
+04,Región de Coquimbo,2022-05-09,94.74
+04,Región de Coquimbo,2022-05-10,94.74
+04,Región de Coquimbo,2022-05-11,96.49
+04,Región de Coquimbo,2022-05-12,92.98
+04,Región de Coquimbo,2022-05-13,92.86
+04,Región de Coquimbo,2022-05-14,96.36
+04,Región de Coquimbo,2022-05-15,85.96
+04,Región de Coquimbo,2022-05-16,82.46
+04,Región de Coquimbo,2022-05-17,91.23
 05,Región de Valparaíso,2020-04-14,62.58
 05,Región de Valparaíso,2020-04-15,62.82
 05,Región de Valparaíso,2020-04-16,63.46
@@ -3749,6 +3805,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 05,Región de Valparaíso,2022-05-01,89.47
 05,Región de Valparaíso,2022-05-02,89.47
 05,Región de Valparaíso,2022-05-03,90.64
+05,Región de Valparaíso,2022-05-04,90.53
+05,Región de Valparaíso,2022-05-05,87.79
+05,Región de Valparaíso,2022-05-06,88.44
+05,Región de Valparaíso,2022-05-07,85.55
+05,Región de Valparaíso,2022-05-08,90.75
+05,Región de Valparaíso,2022-05-09,88.44
+05,Región de Valparaíso,2022-05-10,90.75
+05,Región de Valparaíso,2022-05-11,89.22
+05,Región de Valparaíso,2022-05-12,86.13
+05,Región de Valparaíso,2022-05-13,86.71
+05,Región de Valparaíso,2022-05-14,86.05
+05,Región de Valparaíso,2022-05-15,80.81
+05,Región de Valparaíso,2022-05-16,86.71
+05,Región de Valparaíso,2022-05-17,87.28
 06,Región del Libertador General Bernardo O'Higgins,2020-04-14,49.15
 06,Región del Libertador General Bernardo O'Higgins,2020-04-15,55.17
 06,Región del Libertador General Bernardo O'Higgins,2020-04-16,55.17
@@ -4499,6 +4569,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 06,Región del Libertador General Bernardo O'Higgins,2022-05-01,78.87
 06,Región del Libertador General Bernardo O'Higgins,2022-05-02,77.46
 06,Región del Libertador General Bernardo O'Higgins,2022-05-03,78.87
+06,Región del Libertador General Bernardo O'Higgins,2022-05-04,70.42
+06,Región del Libertador General Bernardo O'Higgins,2022-05-05,69.01
+06,Región del Libertador General Bernardo O'Higgins,2022-05-06,69.01
+06,Región del Libertador General Bernardo O'Higgins,2022-05-07,69.01
+06,Región del Libertador General Bernardo O'Higgins,2022-05-08,64.79
+06,Región del Libertador General Bernardo O'Higgins,2022-05-09,63.38
+06,Región del Libertador General Bernardo O'Higgins,2022-05-10,63.38
+06,Región del Libertador General Bernardo O'Higgins,2022-05-11,69.01
+06,Región del Libertador General Bernardo O'Higgins,2022-05-12,67.61
+06,Región del Libertador General Bernardo O'Higgins,2022-05-13,69.01
+06,Región del Libertador General Bernardo O'Higgins,2022-05-14,80.28
+06,Región del Libertador General Bernardo O'Higgins,2022-05-15,76.06
+06,Región del Libertador General Bernardo O'Higgins,2022-05-16,67.61
+06,Región del Libertador General Bernardo O'Higgins,2022-05-17,71.83
 07,Región del Maule,2020-04-14,66.0
 07,Región del Maule,2020-04-15,72.0
 07,Región del Maule,2020-04-16,58.0
@@ -5249,6 +5333,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 07,Región del Maule,2022-05-01,82.86
 07,Región del Maule,2022-05-02,87.62
 07,Región del Maule,2022-05-03,87.62
+07,Región del Maule,2022-05-04,90.48
+07,Región del Maule,2022-05-05,87.62
+07,Región del Maule,2022-05-06,92.38
+07,Región del Maule,2022-05-07,93.33
+07,Región del Maule,2022-05-08,83.81
+07,Región del Maule,2022-05-09,88.57
+07,Región del Maule,2022-05-10,90.57
+07,Región del Maule,2022-05-11,89.62
+07,Región del Maule,2022-05-12,93.2
+07,Región del Maule,2022-05-13,89.32
+07,Región del Maule,2022-05-14,87.38
+07,Región del Maule,2022-05-15,86.41
+07,Región del Maule,2022-05-16,88.35
+07,Región del Maule,2022-05-17,88.35
 08,Región del Bíobío,2020-04-14,72.0
 08,Región del Bíobío,2020-04-15,61.65
 08,Región del Bíobío,2020-04-16,56.43
@@ -5999,6 +6097,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 08,Región del Bíobío,2022-05-01,79.58
 08,Región del Bíobío,2022-05-02,78.53
 08,Región del Bíobío,2022-05-03,79.06
+08,Región del Bíobío,2022-05-04,80.1
+08,Región del Bíobío,2022-05-05,83.25
+08,Región del Bíobío,2022-05-06,82.72
+08,Región del Bíobío,2022-05-07,80.1
+08,Región del Bíobío,2022-05-08,80.32
+08,Región del Bíobío,2022-05-09,80.63
+08,Región del Bíobío,2022-05-10,79.58
+08,Región del Bíobío,2022-05-11,81.15
+08,Región del Bíobío,2022-05-12,86.39
+08,Región del Bíobío,2022-05-13,84.29
+08,Región del Bíobío,2022-05-14,83.77
+08,Región del Bíobío,2022-05-15,82.2
+08,Región del Bíobío,2022-05-16,78.72
+08,Región del Bíobío,2022-05-17,81.15
 9,Región de La Araucanía,2020-04-14,81.18
 9,Región de La Araucanía,2020-04-15,79.76
 9,Región de La Araucanía,2020-04-16,80.95
@@ -6749,6 +6861,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 9,Región de La Araucanía,2022-05-01,85.56
 9,Región de La Araucanía,2022-05-02,78.89
 9,Región de La Araucanía,2022-05-03,87.78
+9,Región de La Araucanía,2022-05-04,94.44
+9,Región de La Araucanía,2022-05-05,88.89
+9,Región de La Araucanía,2022-05-06,84.44
+9,Región de La Araucanía,2022-05-07,87.78
+9,Región de La Araucanía,2022-05-08,87.78
+9,Región de La Araucanía,2022-05-09,84.44
+9,Región de La Araucanía,2022-05-10,85.56
+9,Región de La Araucanía,2022-05-11,85.56
+9,Región de La Araucanía,2022-05-12,83.33
+9,Región de La Araucanía,2022-05-13,84.44
+9,Región de La Araucanía,2022-05-14,83.33
+9,Región de La Araucanía,2022-05-15,83.33
+9,Región de La Araucanía,2022-05-16,82.22
+9,Región de La Araucanía,2022-05-17,80.0
 10,Región de Los Lagos,2020-04-14,74.14
 10,Región de Los Lagos,2020-04-15,72.41
 10,Región de Los Lagos,2020-04-16,71.19
@@ -7499,6 +7625,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 10,Región de Los Lagos,2022-05-01,74.73
 10,Región de Los Lagos,2022-05-02,78.02
 10,Región de Los Lagos,2022-05-03,87.91
+10,Región de Los Lagos,2022-05-04,84.09
+10,Región de Los Lagos,2022-05-05,87.5
+10,Región de Los Lagos,2022-05-06,84.09
+10,Región de Los Lagos,2022-05-07,87.5
+10,Región de Los Lagos,2022-05-08,80.0
+10,Región de Los Lagos,2022-05-09,79.55
+10,Región de Los Lagos,2022-05-10,81.82
+10,Región de Los Lagos,2022-05-11,79.55
+10,Región de Los Lagos,2022-05-12,80.68
+10,Región de Los Lagos,2022-05-13,78.41
+10,Región de Los Lagos,2022-05-14,80.68
+10,Región de Los Lagos,2022-05-15,78.16
+10,Región de Los Lagos,2022-05-16,82.14
+10,Región de Los Lagos,2022-05-17,82.95
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-14,25.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-15,37.5
 11,Región de Aysén del General Carlos Ibáñez del Campo,2020-04-16,25.0
@@ -8249,6 +8389,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-01,30.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-02,40.0
 11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-03,80.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-04,50.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-05,60.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-06,40.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-07,30.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-08,20.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-09,30.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-10,40.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-11,60.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-12,40.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-13,60.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-14,60.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-15,40.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-16,40.0
+11,Región de Aysén del General Carlos Ibáñez del Campo,2022-05-17,50.0
 12,Región de Magallanes y de la Antártica Chilena,2020-04-14,62.5
 12,Región de Magallanes y de la Antártica Chilena,2020-04-15,56.25
 12,Región de Magallanes y de la Antártica Chilena,2020-04-16,68.75
@@ -8999,6 +9153,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 12,Región de Magallanes y de la Antártica Chilena,2022-05-01,63.64
 12,Región de Magallanes y de la Antártica Chilena,2022-05-02,63.64
 12,Región de Magallanes y de la Antártica Chilena,2022-05-03,77.27
+12,Región de Magallanes y de la Antártica Chilena,2022-05-04,72.73
+12,Región de Magallanes y de la Antártica Chilena,2022-05-05,68.18
+12,Región de Magallanes y de la Antártica Chilena,2022-05-06,68.18
+12,Región de Magallanes y de la Antártica Chilena,2022-05-07,63.64
+12,Región de Magallanes y de la Antártica Chilena,2022-05-08,63.64
+12,Región de Magallanes y de la Antártica Chilena,2022-05-09,54.55
+12,Región de Magallanes y de la Antártica Chilena,2022-05-10,54.55
+12,Región de Magallanes y de la Antártica Chilena,2022-05-11,54.55
+12,Región de Magallanes y de la Antártica Chilena,2022-05-12,50.0
+12,Región de Magallanes y de la Antártica Chilena,2022-05-13,54.55
+12,Región de Magallanes y de la Antártica Chilena,2022-05-14,50.0
+12,Región de Magallanes y de la Antártica Chilena,2022-05-15,54.55
+12,Región de Magallanes y de la Antártica Chilena,2022-05-16,59.09
+12,Región de Magallanes y de la Antártica Chilena,2022-05-17,72.73
 13,Región Metropolitana de Santiago,2020-04-14,62.55
 13,Región Metropolitana de Santiago,2020-04-15,63.12
 13,Región Metropolitana de Santiago,2020-04-16,64.23
@@ -9749,6 +9917,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 13,Región Metropolitana de Santiago,2022-05-01,86.54
 13,Región Metropolitana de Santiago,2022-05-02,85.99
 13,Región Metropolitana de Santiago,2022-05-03,86.79
+13,Región Metropolitana de Santiago,2022-05-04,87.4
+13,Región Metropolitana de Santiago,2022-05-05,87.55
+13,Región Metropolitana de Santiago,2022-05-06,87.19
+13,Región Metropolitana de Santiago,2022-05-07,85.23
+13,Región Metropolitana de Santiago,2022-05-08,86.08
+13,Región Metropolitana de Santiago,2022-05-09,84.44
+13,Región Metropolitana de Santiago,2022-05-10,83.58
+13,Región Metropolitana de Santiago,2022-05-11,86.42
+13,Región Metropolitana de Santiago,2022-05-12,85.37
+13,Región Metropolitana de Santiago,2022-05-13,86.1
+13,Región Metropolitana de Santiago,2022-05-14,84.73
+13,Región Metropolitana de Santiago,2022-05-15,84.94
+13,Región Metropolitana de Santiago,2022-05-16,85.49
+13,Región Metropolitana de Santiago,2022-05-17,84.63
 14,Región de Los Ríos,2020-04-14,59.09
 14,Región de Los Ríos,2020-04-15,63.64
 14,Región de Los Ríos,2020-04-16,63.64
@@ -10499,6 +10681,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 14,Región de Los Ríos,2022-05-01,82.14
 14,Región de Los Ríos,2022-05-02,78.57
 14,Región de Los Ríos,2022-05-03,75.0
+14,Región de Los Ríos,2022-05-04,71.43
+14,Región de Los Ríos,2022-05-05,85.71
+14,Región de Los Ríos,2022-05-06,82.14
+14,Región de Los Ríos,2022-05-07,82.14
+14,Región de Los Ríos,2022-05-08,82.14
+14,Región de Los Ríos,2022-05-09,78.57
+14,Región de Los Ríos,2022-05-10,85.71
+14,Región de Los Ríos,2022-05-11,85.71
+14,Región de Los Ríos,2022-05-12,78.57
+14,Región de Los Ríos,2022-05-13,82.14
+14,Región de Los Ríos,2022-05-14,89.29
+14,Región de Los Ríos,2022-05-15,85.71
+14,Región de Los Ríos,2022-05-16,89.29
+14,Región de Los Ríos,2022-05-17,85.71
 15,Región de Arica y Parinacota,2020-04-14,77.78
 15,Región de Arica y Parinacota,2020-04-15,77.78
 15,Región de Arica y Parinacota,2020-04-16,90.91
@@ -11249,6 +11445,20 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 15,Región de Arica y Parinacota,2022-05-01,66.67
 15,Región de Arica y Parinacota,2022-05-02,66.67
 15,Región de Arica y Parinacota,2022-05-03,80.0
+15,Región de Arica y Parinacota,2022-05-04,86.67
+15,Región de Arica y Parinacota,2022-05-05,73.33
+15,Región de Arica y Parinacota,2022-05-06,73.33
+15,Región de Arica y Parinacota,2022-05-07,60.0
+15,Región de Arica y Parinacota,2022-05-08,60.0
+15,Región de Arica y Parinacota,2022-05-09,66.67
+15,Región de Arica y Parinacota,2022-05-10,53.33
+15,Región de Arica y Parinacota,2022-05-11,60.0
+15,Región de Arica y Parinacota,2022-05-12,60.0
+15,Región de Arica y Parinacota,2022-05-13,60.0
+15,Región de Arica y Parinacota,2022-05-14,73.33
+15,Región de Arica y Parinacota,2022-05-15,53.33
+15,Región de Arica y Parinacota,2022-05-16,53.33
+15,Región de Arica y Parinacota,2022-05-17,66.67
 16,Región de Ñuble,2020-04-14,50.0
 16,Región de Ñuble,2020-04-15,51.85
 16,Región de Ñuble,2020-04-16,55.56
@@ -11999,3 +12209,17 @@ codigo_region,region_residencia,fecha,Porcentaje Camas UCI
 16,Región de Ñuble,2022-05-01,67.5
 16,Región de Ñuble,2022-05-02,70.0
 16,Región de Ñuble,2022-05-03,57.5
+16,Región de Ñuble,2022-05-04,65.0
+16,Región de Ñuble,2022-05-05,57.5
+16,Región de Ñuble,2022-05-06,62.5
+16,Región de Ñuble,2022-05-07,62.5
+16,Región de Ñuble,2022-05-08,52.5
+16,Región de Ñuble,2022-05-09,57.5
+16,Región de Ñuble,2022-05-10,55.0
+16,Región de Ñuble,2022-05-11,57.5
+16,Región de Ñuble,2022-05-12,62.5
+16,Región de Ñuble,2022-05-13,55.0
+16,Región de Ñuble,2022-05-14,45.0
+16,Región de Ñuble,2022-05-15,52.5
+16,Región de Ñuble,2022-05-16,62.5
+16,Región de Ñuble,2022-05-17,70.0
