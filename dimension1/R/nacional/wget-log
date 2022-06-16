@@ -1,0 +1,20 @@
+--2022-06-16 15:06:28--  https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto54/r.nacional_n.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 198.51.44.1, 198.51.45.1, 198.51.44.65, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.192.181|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.194.84|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.197.131|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.199.75|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83063 (81K) [text/plain]
+Saving to: ‘r.nacional_n.csv’
+
+     0K .......... .......... .......... .......... .......... 61% 10.8M 0s
+    50K .......... .......... .......... .                    100% 20.9M=0.006s
+
+2022-06-16 15:24:12 (13.3 MB/s) - ‘r.nacional_n.csv’ saved [83063/83063]
+

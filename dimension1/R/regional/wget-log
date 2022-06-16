@@ -1,0 +1,48 @@
+--2022-06-16 14:59:29--  https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto54/r.regional_n.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 198.51.44.1, 198.51.45.1, 198.51.44.65, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.192.181|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.194.84|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.197.131|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.199.75|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1493960 (1.4M) [text/plain]
+Saving to: ‘r.regional_n.csv’
+
+     0K .......... .......... .......... .......... ..........  3% 12.8M 0s
+    50K .......... .......... .......... .......... ..........  6% 8.07M 0s
+   100K .......... .......... .......... .......... .......... 10% 18.2M 0s
+   150K .......... .......... .......... .......... .......... 13% 5.56M 0s
+   200K .......... .......... .......... .......... .......... 17% 34.9M 0s
+   250K .......... .......... .......... .......... .......... 20% 19.3M 0s
+   300K .......... .......... .......... .......... .......... 23%  111M 0s
+   350K .......... .......... .......... .......... .......... 27% 7.46M 0s
+   400K .......... .......... .......... .......... .......... 30%  183M 0s
+   450K .......... .......... .......... .......... .......... 34% 27.1M 0s
+   500K .......... .......... .......... .......... .......... 37% 10.2M 0s
+   550K .......... .......... .......... .......... .......... 41% 74.7M 0s
+   600K .......... .......... .......... .......... .......... 44% 28.0M 0s
+   650K .......... .......... .......... .......... .......... 47%  219M 0s
+   700K .......... .......... .......... .......... .......... 51% 15.1M 0s
+   750K .......... .......... .......... .......... .......... 54%  218M 0s
+   800K .......... .......... .......... .......... .......... 58% 17.6M 0s
+   850K .......... .......... .......... .......... .......... 61% 18.7M 0s
+   900K .......... .......... .......... .......... .......... 65%  223M 0s
+   950K .......... .......... .......... .......... .......... 68%  110M 0s
+  1000K .......... .......... .......... .......... .......... 71% 16.4M 0s
+  1050K .......... .......... .......... .......... .......... 75% 17.3M 0s
+  1100K .......... .......... .......... .......... .......... 78%  308M 0s
+  1150K .......... .......... .......... .......... .......... 82% 18.3M 0s
+  1200K .......... .......... .......... .......... .......... 85%  135M 0s
+  1250K .......... .......... .......... .......... .......... 89% 6.24M 0s
+  1300K .......... .......... .......... .......... .......... 92%  177M 0s
+  1350K .......... .......... .......... .......... .......... 95% 22.7M 0s
+  1400K .......... .......... .......... .......... .......... 99% 99.2M 0s
+  1450K ........                                              100%  111M=0.07s
+
+2022-06-16 15:17:12 (20.1 MB/s) - ‘r.regional_n.csv’ saved [1493960/1493960]
+
