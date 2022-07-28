@@ -1,0 +1,35 @@
+--2022-07-22 11:08:30--  https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto53/confirmados_nacional.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 198.51.44.1, 198.51.45.1, 198.51.44.65, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.1|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.44.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|198.51.45.65|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.192.181|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.194.84|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.197.131|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|205.251.199.75|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 867365 (847K) [text/plain]
+Saving to: ‘confirmados_nacional.csv’
+
+     0K .......... .......... .......... .......... ..........  5% 10.7M 0s
+    50K .......... .......... .......... .......... .......... 11% 5.30M 0s
+   100K .......... .......... .......... .......... .......... 17% 25.1M 0s
+   150K .......... .......... .......... .......... .......... 23% 16.4M 0s
+   200K .......... .......... .......... .......... .......... 29% 27.6M 0s
+   250K .......... .......... .......... .......... .......... 35% 13.0M 0s
+   300K .......... .......... .......... .......... .......... 41% 24.8M 0s
+   350K .......... .......... .......... .......... .......... 47% 7.14M 0s
+   400K .......... .......... .......... .......... .......... 53%  127M 0s
+   450K .......... .......... .......... .......... .......... 59%  114M 0s
+   500K .......... .......... .......... .......... .......... 64% 82.4M 0s
+   550K .......... .......... .......... .......... .......... 70% 44.6M 0s
+   600K .......... .......... .......... .......... .......... 76% 31.3M 0s
+   650K .......... .......... .......... .......... .......... 82% 42.2M 0s
+   700K .......... .......... .......... .......... .......... 88% 17.4M 0s
+   750K .......... .......... .......... .......... .......... 94% 13.5M 0s
+   800K .......... .......... .......... .......... .......   100%  123M=0.05s
+
+2022-07-22 11:26:15 (18.4 MB/s) - ‘confirmados_nacional.csv’ saved [867365/867365]
+
